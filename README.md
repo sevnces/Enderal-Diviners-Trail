@@ -1,5 +1,5 @@
 # Enderal-Diviners-Trail
-This is a project designed to completely overhaul the core gameplay of Enderal with multiple features
+A project designed to completely overhaul the core gameplay of Enderal with multiple features
 
 [![Temp-Logo.png](https://i.postimg.cc/YqkJQXx5/Temp-Logo.png)](https://postimg.cc/Z077Sx2H)
 
