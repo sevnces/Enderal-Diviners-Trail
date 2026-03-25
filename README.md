@@ -1,6 +1,8 @@
 # Enderal-Diviners-Trail
 This is a project designed to completely overhaul the core gameplay of Enderal with multiple features
 
+[Temp-Logo.png](https://postimg.cc/Z077Sx2H)
+
 Planned Features:
 
 - Complete weapon and armour rebalance, making the different tiers have different specific benefits
