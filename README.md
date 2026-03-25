@@ -6,7 +6,8 @@ This is a project designed to completely overhaul the core gameplay of Enderal w
 Planned Features:
 
 	- Complete weapon and armour rebalance, making the different tiers have different specific benefits
-	- Creature and enemy health values and abilities adjusted while still keeping a relatively steep initial difficulty curve just like vanilla
+	- Retaining Vanilla difficulty curve
+	- Creature and enemy health values and abilities adjusted
 	- Custom weapon integration and distribution
 	- Racial ability balancing
 	- Perk adjustments to provide more viable builds earlier on
