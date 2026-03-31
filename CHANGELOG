@@ -1,0 +1,25 @@
+Ver 0.0.1
+
+Test version to get an idea on gameplay mainly in the early (or late game). This alters a few levelled lists and items so will have conflicts with other things that do the same.
+
+Quick list of features in this version:
+
+ - BAL: Rebalanced all weapons (armour soon)
+ - BAL: Rebalanced all arrows (NOT FINAL)
+ - BAL: Tweaked potion values to have lower magnitude over a longer duration - encourages smarter potion usage
+ - BAL: Increased enemy health values across the board by about 1.75x
+ - BAL: Added new bleed perk to all 'Rune' type weapons
+ - BAL: Food values tweaked
+ - BAL: Integrates Valravn as a baseline for Combat Balancing
+ - BAL: Default race values tweaked
+ - BAL: Standardises all difficulty values (Will add easier and harder later)
+
+ - CNT: Implements Shadow Steel Reimagined
+ - CNT: New foods and harvestables with crafting recipes
+
+ - QOL: Adds prefixes to all foods by type
+ - QOL: Adds prefixes to all Potions by type
+ - QOL: Renames all potions to be much clearer by type and changes all Tiers to be a numbered system for more transparency and readability
+
+Requires only SPID 
+Sould load very late in LO
