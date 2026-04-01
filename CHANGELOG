@@ -6,9 +6,12 @@ Ver 0.0.2 (UNRELEASED)
  - BAL: Tweaked 'Forged' Weapon Damage
  - BAL: Tweaked 'Righteous Path' Weapon Damage
  - BAL: Globally reduced player damage from 1.0 to 0.9 (STC)
+ - BAL: Globally reduced damage to player from 1.5 to 1.4 (STC)
 
  - CNT: Implemented Wands and Tiered them Appropriately
  - CNT: Added Wands to some Merchant Chests
+
+ - QOL: Renamed Soul Gems to 'Pyrean Crystal: *Type*' for further differentiation from Skyrim
 
 Ver 0.0.1
 
