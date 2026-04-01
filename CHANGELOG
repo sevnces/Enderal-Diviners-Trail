@@ -7,6 +7,9 @@ Ver 0.0.2 (UNRELEASED)
  - BAL: Tweaked 'Righteous Path' Weapon Damage
  - BAL: Globally reduced player damage from 1.0 to 0.9 (STC)
 
+ - CNT: Implemented Wands and Tiered them Appropriately
+ - CNT: Added Wands to some Merchant Chests
+
 Ver 0.0.1
 
 Test version to get an idea on gameplay mainly in the early (or late game). This alters a few levelled lists and items so will have conflicts with other things that do the same.
