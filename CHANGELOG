@@ -6,7 +6,7 @@ Ver 0.0.2 (UNRELEASED)
  - BAL: Tweaked Unique Weapon Damage
  - BAL: Tweaked all Ammo Damage
  - BAL: Tweaked 'Righteous Path' Weapon Damage
- - BAL: Globally reduced player damage from 1.0 to 0.9 (STC)
+ - BAL: Globally reduced player damage from 1.0 to 0.95 (STC)
  - BAL: Globally reduced damage to player from 1.5 to 1.4 (STC)
 
  - CNT: Implemented Wands and Tiered them Appropriately
