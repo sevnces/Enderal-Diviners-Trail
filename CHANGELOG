@@ -1,9 +1,10 @@
 Ver 0.0.2 (UNRELEASED)
 
  - BAL: Tweaked Pickaxe and 'Old' Weapon Damage
+ - BAL: Rebalance of all non-unique weapons to the new standardised values (see sheets)
  - BAL: Tweaked Mana Fungi Duration
  - BAL: Tweaked Unique Weapon Damage
- - BAL: Tweaked 'Forged' Weapon Damage
+ - BAL: Tweaked all Ammo Damage
  - BAL: Tweaked 'Righteous Path' Weapon Damage
  - BAL: Globally reduced player damage from 1.0 to 0.9 (STC)
  - BAL: Globally reduced damage to player from 1.5 to 1.4 (STC)
