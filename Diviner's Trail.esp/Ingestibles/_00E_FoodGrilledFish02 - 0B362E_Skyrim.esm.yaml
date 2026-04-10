@@ -1,0 +1,28 @@
+FormKey: 0B362E:Skyrim.esm
+EditorID: _00E_FoodGrilledFish02
+ObjectBounds:
+  First: -27, -7, -3
+  Second: 25, 7, 3
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Grilled Trout'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Enderal\esrathir\clutter\deadanimals\deadtrout01grilled.nif
+  Data: 0x020000000000000000000000
+Weight: 0.25
+Value: 3
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 240
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 150
+    Duration: 240

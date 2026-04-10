@@ -1,0 +1,55 @@
+FormKey: 14F9CF:Skyrim.esm
+EditorID: _04E_35_Unique_KilrasRedemption
+ObjectBounds:
+  First: -6, -7, -2
+  Second: 3, 27, 1
+Name:
+  TargetLanguage: English
+  Value: "Unique: Kilra's Redemption"
+Model:
+  File: Enderal\weapons\KilrasRedemption\KilrasRedemption.nif
+  Data: 0x020000000000000000000000
+ObjectEffect: 0432F0:Skyrim.esm
+EnchantmentAmount: 2500
+EquipmentType: 013F42:Skyrim.esm
+BlockBashImpact: 0183FF:Skyrim.esm
+AlternateBlockMaterial: 0774C2:Skyrim.esm
+Keywords:
+- 06727B:Skyrim.esm
+- 14CE9A:Skyrim.esm
+- 08F958:Skyrim.esm
+- 0C27BD:Skyrim.esm
+- 01E71F:Skyrim.esm
+- 01E713:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 013CAC:Skyrim.esm
+FirstPersonModel: 14F9D0:Skyrim.esm
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03C72E:Skyrim.esm
+UnequipSound: 03C72F:Skyrim.esm
+BasicStats:
+  Value: 35
+  Weight: 2.5
+  Damage: 20
+Data:
+  AnimationType: OneHandDagger
+  Unused: 0x000000
+  Speed: 1.4
+  Reach: 0.7
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1061997773
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+Critical:
+  Damage: 4
+  PercentMult: 3.5
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Silent

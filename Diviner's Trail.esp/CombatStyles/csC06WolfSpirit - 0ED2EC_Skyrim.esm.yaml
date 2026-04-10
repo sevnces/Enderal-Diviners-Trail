@@ -1,0 +1,29 @@
+FormKey: 0ED2EC:Skyrim.esm
+EditorID: csC06WolfSpirit
+OffensiveMult: 0.85
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 7.25
+  PowerAttackStaggeredMult: 7
+  PowerAttackBlockingMult: 8.5
+  SpecialAttackMult: 0.1
+CloseRange:
+  FallbackMult: 0.2
+  FlankDistance: 0.05
+  StalkTime: 0.05
+LongRangeStrafeMult: 0
+Flight:
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling

@@ -1,0 +1,19 @@
+FormKey: 029B5C:Skyrim.esm
+EditorID: StaffEnchChainLightning
+Name:
+  TargetLanguage: English
+  Value: Chain Lightning
+EnchantmentCost: 122
+CastType: FireAndForget
+EnchantmentAmount: 122
+TargetType: Aimed
+EnchantType: StaffEnchantment
+ChargeTime: 0.5
+Effects:
+- BaseEffect: 05DBAE:Skyrim.esm
+  Data:
+    Magnitude: 32
+    Area: 20
+- BaseEffect: 0A44C0:Skyrim.esm
+  Data:
+    Magnitude: 1

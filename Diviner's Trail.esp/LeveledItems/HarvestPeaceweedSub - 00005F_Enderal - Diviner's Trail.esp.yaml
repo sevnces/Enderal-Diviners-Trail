@@ -1,0 +1,10 @@
+FormKey: 00005F:Enderal - Diviner's Trail.esp
+EditorID: HarvestPeaceweedSub
+ChanceNone: 0.9
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 034D32:Skyrim.esm
+    Count: 1

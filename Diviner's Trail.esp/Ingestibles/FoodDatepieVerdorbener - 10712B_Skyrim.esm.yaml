@@ -1,0 +1,23 @@
+FormKey: 10712B:Skyrim.esm
+EditorID: FoodDatepieVerdorbener
+ObjectBounds:
+  First: -11, -11, -4
+  Second: 12, 11, 0
+Name:
+  TargetLanguage: English
+  Value: 'Baked: Hard Date Cake'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\Pie01.nif
+  Data: 0x020000000000000000000000
+Weight: 0.5
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 03A2B6:Skyrim.esm
+  Data:
+    Magnitude: 5
+    Duration: 20

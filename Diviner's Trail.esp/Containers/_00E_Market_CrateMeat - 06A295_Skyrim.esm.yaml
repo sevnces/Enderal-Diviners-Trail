@@ -1,0 +1,15 @@
+FormKey: 06A295:Skyrim.esm
+EditorID: _00E_Market_CrateMeat
+ObjectBounds:
+  First: -22, -19, -1
+  Second: 34, 17, 14
+Name:
+  TargetLanguage: English
+  Value: Meat
+Model:
+  File: Enderal\Clutter\AARS\foodcontainer\crate01hoka.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 065C9A:Skyrim.esm
+    Count: 3

@@ -1,0 +1,35 @@
+FormKey: 069D0A:Skyrim.esm
+EditorID: _00E_Class_Thaumaturge_P09_MentalMaster
+Name:
+  TargetLanguage: English
+  Value: 'Thaumaturge: Mental Master'
+Description:
+  TargetLanguage: English
+  Value: Reduces the Mana costs of mental and light spells of the master level by 30 percent. Your Mana regenerates 50 percent faster.
+NumRanks: 1
+Playable: True
+Effects:
+- MutagenObjectType: PerkAbilityEffect
+  Ability: 085640:Skyrim.esm
+- MutagenObjectType: PerkEntryPointModifyValue
+  Conditions:
+  - RunOnTabIndex: 1
+    Conditions:
+    - MutagenObjectType: ConditionFloat
+      Flags:
+      - OR
+      Data:
+        MutagenObjectType: SpellHasCastingPerkConditionData
+        Perk: 0C44BA:Skyrim.esm
+      ComparisonValue: 1
+    - MutagenObjectType: ConditionFloat
+      Flags:
+      - OR
+      Data:
+        MutagenObjectType: SpellHasCastingPerkConditionData
+        Perk: 0C44CA:Skyrim.esm
+      ComparisonValue: 1
+  EntryPoint: ModSpellCost
+  PerkConditionTabCount: 2
+  Modification: Multiply
+  Value: 0.7

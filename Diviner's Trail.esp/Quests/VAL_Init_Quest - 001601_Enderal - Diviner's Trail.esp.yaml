@@ -1,0 +1,22 @@
+FormKey: 001601:Enderal - Diviner's Trail.esp
+EditorID: VAL_Init_Quest
+Name:
+  TargetLanguage: English
+  Value: Valravn Quest
+Flags:
+- StartGameEnabled
+- AllowRepeatedStages
+- 0x10
+- RunOnce
+Priority: 100
+Filter: Algiz\
+NextAliasID: 1
+Aliases:
+- Name: VAL_Player
+  Flags: []
+  ForcedReference: 000014:Skyrim.esm
+  Keywords:
+  - A00104:Update.esm
+  Spells:
+  - 001603:Enderal - Diviner's Trail.esp
+  VoiceTypes: Null

@@ -1,0 +1,18 @@
+FormKey: 0000AF:Enderal - Diviner's Trail.esp
+EditorID: HarvestKingCrab
+ChanceNone: 0.75
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 0D790B:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0F961E:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0000B0:Enderal - Diviner's Trail.esp
+    Count: 1

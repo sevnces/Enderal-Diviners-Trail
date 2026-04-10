@@ -1,0 +1,15 @@
+FormKey: 10D9A6:Skyrim.esm
+EditorID: HelpEnchantedWeapons
+Description:
+  TargetLanguage: English
+  Value: >-
+    You can find enchanted weapons in the world or enchant them yourself at an Arcane Enchanter. Enchanted weapons need charges when used and have to be refilled with a Pyrean Crystal.
+
+
+    To recharge a weapon, open your Inventory, select the weapon and activate "Charge". Then choose the Pyrean Crystal you want to use.
+Name:
+  TargetLanguage: English
+  Value: Enchanted weapons
+INAM: 0x00000000
+Flags:
+- MessageBox

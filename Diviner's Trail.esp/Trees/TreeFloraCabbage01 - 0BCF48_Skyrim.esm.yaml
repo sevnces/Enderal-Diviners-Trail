@@ -1,0 +1,19 @@
+FormKey: 0BCF48:Skyrim.esm
+EditorID: TreeFloraCabbage01
+ObjectBounds:
+  First: -42, -60, 0
+  Second: 45, 59, 38
+Model:
+  File: Plants\FloraCabbage01.nif
+  Data: 0x02000000040000000000000022C6111B646473003B114A8770379C42646473003B114A879C409DE264647300134C1EFADF6B013C64647300134C1EFA
+Ingredient: 00004D:Enderal - Diviner's Trail.esp
+HarvestSound: 03CC09:Skyrim.esm
+Production: {}
+Name:
+  TargetLanguage: English
+  Value: Cabbage
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0AD7233D8FC2F53C0AD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 3
+LeafFrequency: 0.5

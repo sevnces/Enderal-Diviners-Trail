@@ -1,0 +1,13 @@
+FormKey: 0015D7:Enderal - Diviner's Trail.esp
+EditorID: VAL_Mechanics_LoadScreen_MovementTypes_MagicCommitment
+Description:
+  TargetLanguage: English
+  Value: Casting or concentrating on a spell slows the caster.
+LoadingScreenNif: 036F5A:Skyrim.esm
+InitialScale: 0.9
+InitialRotation: 0, 0, 5
+RotationOffsetConstraints:
+  Min: -120
+  Max: 120
+InitialTranslationOffset: -16, 0, 8
+CameraPath: Cameras\LSCameraPanDown01.nif

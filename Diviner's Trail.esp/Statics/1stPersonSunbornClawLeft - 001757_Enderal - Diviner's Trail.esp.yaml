@@ -1,0 +1,7 @@
+FormKey: 001757:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonSunbornClawLeft
+Model:
+  File: weapons\NewArmoury\Fists\ForswornClawLft.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 0000AA:Enderal - Diviner's Trail.esp
+EditorID: FoodOnionSub
+ChanceNone: 0.9
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 0C65C1:Skyrim.esm
+    Count: 1

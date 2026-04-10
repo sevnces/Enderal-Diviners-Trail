@@ -1,0 +1,25 @@
+FormKey: 000022:Enderal - Diviner's Trail.esp
+EditorID: FoodRatMeatCooked
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Seared Rat'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Food\CharredSkeeverMeat01.nif
+  Data: 0x020000000000000000000000
+Weight: 0.1
+Value: 3
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 180
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 180
+    Duration: 10800

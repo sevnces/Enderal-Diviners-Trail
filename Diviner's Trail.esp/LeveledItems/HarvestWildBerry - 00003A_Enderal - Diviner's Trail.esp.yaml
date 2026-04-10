@@ -1,0 +1,13 @@
+FormKey: 00003A:Enderal - Diviner's Trail.esp
+EditorID: HarvestWildBerry
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 06AC4A:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00003B:Enderal - Diviner's Trail.esp
+    Count: 2

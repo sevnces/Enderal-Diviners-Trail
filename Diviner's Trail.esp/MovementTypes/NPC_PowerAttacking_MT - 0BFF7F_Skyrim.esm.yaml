@@ -1,0 +1,18 @@
+FormKey: 0BFF7F:Skyrim.esm
+EditorID: NPC_PowerAttacking_MT
+Name: NPCPowerAttacking
+LeftWalk: 80.09
+LeftRun: 150
+RightWalk: 79.75
+RightRun: 150
+ForwardWalk: 80.1
+ForwardRun: 275
+BackWalk: 45.45
+BackRun: 105
+RotateInPlaceWalk: 90.00003
+RotateInPlaceRun: 90.00003
+RotateWhileMovingRun: 90.00003
+AnimationChangeThresholds:
+  Directional: 3.4028235E+38
+  MovementSpeed: 3.4028235E+38
+  RotationSpeed: 3.4028235E+38

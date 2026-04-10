@@ -1,0 +1,31 @@
+FormKey: 013384:Skyrim.esm
+EditorID: PowerAttackRoot
+Conditions:
+- MutagenObjectType: ConditionFloat
+  CompareOperator: NotEqualTo
+  Data:
+    MutagenObjectType: GetEquippedItemTypeConditionData
+  ComparisonValue: 7
+- MutagenObjectType: ConditionFloat
+  CompareOperator: NotEqualTo
+  Data:
+    MutagenObjectType: GetEquippedItemTypeConditionData
+    ItemSource: Right
+  ComparisonValue: 12
+- MutagenObjectType: ConditionGlobal
+  CompareOperator: GreaterThanOrEqualTo
+  Flags:
+  - OR
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Stamina
+  ComparisonValue: 0015F3:Enderal - Diviner's Trail.esp
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: HasMagicEffectKeywordConditionData
+    Keyword: A00101:Update.esm
+  ComparisonValue: 1
+Filename: Actors\Character\Behaviors\0_Master.hkx
+RelatedIdles:
+- 013383:Skyrim.esm
+- Null

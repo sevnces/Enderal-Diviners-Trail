@@ -1,0 +1,14 @@
+FormKey: 001610:Enderal - Diviner's Trail.esp
+EditorID: StaffEnchPoison04
+Name:
+  TargetLanguage: English
+  Value: Poison
+CastType: FireAndForget
+TargetType: Touch
+EnchantType: Enchantment
+BaseEnchantment: 101932:Skyrim.esm
+Effects:
+- BaseEffect: 101931:Skyrim.esm
+  Data:
+    Magnitude: 5
+    Duration: 14

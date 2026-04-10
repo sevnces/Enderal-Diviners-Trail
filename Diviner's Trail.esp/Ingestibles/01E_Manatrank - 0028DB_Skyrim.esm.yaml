@@ -1,0 +1,25 @@
+FormKey: 0028DB:Skyrim.esm
+EditorID: 01E_Manatrank
+ObjectBounds:
+  First: -4, -4, 0
+  Second: 4, 4, 16
+Name:
+  TargetLanguage: English
+  Value: 'Potion: Concoction of Mana (Tier I)'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionMagickaLesser.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 18
+Flags:
+- NoAutoCalc
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 0028DD:Skyrim.esm
+  Data:
+    Magnitude: 4
+    Duration: 10

@@ -1,0 +1,55 @@
+FormKey: 001778:Enderal - Diviner's Trail.esp
+EditorID: _SEV_StarlingHalberd
+ObjectBounds:
+  First: -19, -41, -2
+  Second: 11, 55, 2
+Name:
+  TargetLanguage: English
+  Value: Starling Halberd
+Model:
+  File: weapons\NewArmoury\Halberds\DwarvenHalberd.nif
+  Data: 0x02000000070000000000000033168C0764647300A0B8630503D8C24064647300A0B863054FE0756464647300A0B863052071DCBB64647300364E8FC210D3AF2564647300364E8FC2188FFC7C64647300262C333BAA82A6BC64647300364E8FC2
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 01E71A:Skyrim.esm
+- 06D932:Skyrim.esm
+- 08F958:Skyrim.esm
+- 00170D:Enderal - Diviner's Trail.esp
+- 001710:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 036A5B:Skyrim.esm
+FirstPersonModel: 001741:Enderal - Diviner's Trail.esp
+AttackFailSound: 0E4CAC:Skyrim.esm
+EquipSound: 06036A:Skyrim.esm
+UnequipSound: 0605D3:Skyrim.esm
+BasicStats:
+  Value: 300
+  Weight: 20
+  Damage: 31
+Data:
+  AnimationType: TwoHandAxe
+  Unused: 0x000000
+  Speed: 0.75
+  Reach: 1.7
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1068708659
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 0.6
+Critical:
+  Damage: 13
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Loud

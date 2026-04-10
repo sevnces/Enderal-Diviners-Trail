@@ -1,0 +1,7 @@
+FormKey: 0000CD:Enderal - Diviner's Trail.esp
+EditorID: _SEV_1stPersonShadowSteelWarhammer
+Model:
+  File: SEV\ShadowSteelWeap\warhammer.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

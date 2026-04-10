@@ -1,0 +1,664 @@
+VersionControl: 89103
+Version2: 1
+NavMeshVersion: 12
+MapInfos:
+- NavigationMesh: 00032A:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 81718.86, 45156.574, -468.5851
+  Island:
+    Min: 81600, 45056, -500.10547
+    Max: 81792, 45248, -450.08398
+    Triangles:
+    - 0, 1, 2
+    - 1, 0, 5
+    - 3, 1, 4
+    - 1, 5, 4
+    Vertices:
+    - 81600, 45248, -450.28406
+    - 81792, 45183.49, -500.10547
+    - 81727.484, 45248, -451.0844
+    - 81792, 45119.742, -459.48804
+    - 81792, 45056, -476.09515
+    - 81600, 45056, -489.701
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 11, 19
+- NavigationMesh: 104C36:Skyrim.esm
+  Unknown: 32
+  Point: 78448.02, 40822.156, -393.79044
+  MergedTo:
+  - 104D02:Skyrim.esm
+  Island:
+    Min: 77824, 40448, -816
+    Max: 79104, 40960, -208
+    Triangles:
+    - 0, 3, 1
+    - 5, 6, 2
+    - 4, 3, 0
+    - 2, 6, 0
+    - 6, 4, 0
+    - 7, 6, 5
+    Vertices:
+    - 77824, 40448, -207.99994
+    - 77824, 40960, -232.31995
+    - 78976, 40830.977, -689.536
+    - 78080, 40960, -225.02399
+    - 78397.44, 40960, -280.95996
+    - 79104, 40960, -816
+    - 78464, 40960, -297.98395
+    - 78827.52, 40960, -597.12
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 104C3C:Skyrim.esm
+  Unknown: 32
+  Point: 78121.414, 39864.473, 311.94806
+  MergedTo:
+  - 104D05:Skyrim.esm
+  Island:
+    Min: 77824, 39616, 230.30566
+    Max: 78400, 40064, 411.91895
+    Triangles:
+    - 8, 2, 1
+    - 0, 2, 5
+    - 5, 2, 7
+    - 2, 4, 3
+    - 6, 5, 7
+    - 2, 8, 7
+    - 4, 2, 0
+    Vertices:
+    - 78335.484, 39743.23, 289.87482
+    - 78270.98, 40064, 230.30566
+    - 78335.484, 40064, 255.73152
+    - 78400, 39999.49, 251.3728
+    - 78400, 39807.742, 282.6103
+    - 77950.72, 39616, 389.39893
+    - 77824, 39616, 411.91895
+    - 77824, 39870.465, 340.0001
+    - 77824, 39934.977, 284.78964
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 104D02:Skyrim.esm
+  Point: 75130.13, 38736.32, 23.060339
+  MergedTo:
+  - 104C36:Skyrim.esm
+  - 104C3D:Skyrim.esm
+  - 104D1D:Skyrim.esm
+  - 104DF2:Skyrim.esm
+  - 000328:Enderal - Diviner's Trail.esp
+  - 104C38:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 18
+- NavigationMesh: 104C3D:Skyrim.esm
+  Unknown: 32
+  Point: 78096, 36968, -507.84924
+  MergedTo:
+  - 104D02:Skyrim.esm
+  - 104C46:Skyrim.esm
+  Island:
+    Min: 77824, 36864, -649.87317
+    Max: 78400, 37120, -408.0667
+    Triangles:
+    - 0, 3, 2
+    - 2, 3, 1
+    - 0, 4, 3
+    Vertices:
+    - 77824, 37120, -424.50955
+    - 78335.484, 36864, -649.87317
+    - 78400, 36992, -639.2337
+    - 78206.46, 36864, -541.5439
+    - 77824, 36864, -408.0667
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 000328:Enderal - Diviner's Trail.esp
+  Point: 75744.766, 42943.77, 55.30982
+  MergedTo:
+  - 050A7B:Skyrim.esm
+  - 152B19:Skyrim.esm
+  - 104D02:Skyrim.esm
+  - 000327:Enderal - Diviner's Trail.esp
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 18
+- NavigationMesh: 104C3E:Skyrim.esm
+  Unknown: 32
+  Point: 77922.67, 38056, -256.01105
+  MergedTo:
+  - 104D07:Skyrim.esm
+  Island:
+    Min: 77824, 37872, -270.39648
+    Max: 78016, 38272, -227.34961
+    Triangles:
+    - 0, 1, 2
+    - 4, 0, 3
+    - 0, 4, 1
+    Vertices:
+    - 77824, 38016, -227.34961
+    - 77951.484, 38144, -268.8468
+    - 77824, 38272, -251.11148
+    - 77967.62, 37872, -248.35648
+    - 78016, 37952, -270.39648
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 00032E:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 76253.69, 44982.156, 281.05334
+  Island:
+    Min: 76032, 44864, 247.47461
+    Max: 76544, 45056, 322.61035
+    Triangles:
+    - 0, 1, 2
+    - 3, 1, 0
+    - 10, 8, 9
+    - 7, 4, 10
+    - 5, 1, 6
+    - 10, 9, 7
+    - 6, 1, 3
+    - 8, 6, 3
+    - 9, 8, 3
+    Vertices:
+    - 76353.54, 45056, 275.4251
+    - 76478.46, 44927.742, 281.43597
+    - 76544, 45056, 247.47461
+    - 76222.46, 45056, 294.65985
+    - 76032, 45056, 322.61035
+    - 76351.484, 44864, 305.4794
+    - 76288, 44864, 264.0045
+    - 76095.484, 45056, 267.0099
+    - 76158.98, 44927.742, 267.91153
+    - 76158.98, 45056, 302.7745
+    - 76095.484, 44991.49, 257.99362
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 18
+- NavigationMesh: 00032D:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 77186.67, 41645.336, -14.563986
+  Island:
+    Min: 76992, 41472, -127.75122
+    Max: 77408, 41856, 84.10547
+    Triangles:
+    - 7, 1, 0
+    - 1, 4, 6
+    - 1, 2, 4
+    - 2, 5, 4
+    - 1, 6, 3
+    - 3, 0, 1
+    Vertices:
+    - 76992, 41664, 84.10547
+    - 77311.484, 41472, -64.194214
+    - 77374.72, 41534.977, -103.17584
+    - 76992, 41791.49, 72.2415
+    - 77183.36, 41856, -29.449715
+    - 77408, 41631.742, -127.75122
+    - 77055.234, 41856, 33.259872
+    - 77118.46, 41534.977, 28.175308
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 18
+- NavigationMesh: 00032C:Enderal - Diviner's Trail.esp
+  Point: 76323.7, 45121.883, 285.57108
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 11, 18
+- NavigationMesh: 000331:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 79446.86, 41412.574, -560.44965
+  Island:
+    Min: 79296, 41216, -613.70996
+    Max: 79552, 41664, -511.87695
+    Triangles:
+    - 7, 1, 0
+    - 1, 3, 2
+    - 3, 1, 4
+    - 5, 1, 6
+    - 1, 5, 4
+    - 1, 7, 6
+    Vertices:
+    - 79296, 41599.49, -612.0806
+    - 79359.484, 41664, -613.70996
+    - 79424, 41599.49, -555.4615
+    - 79552, 41470.465, -511.87695
+    - 79552, 41278.72, -531.4289
+    - 79552, 41216, -581.5307
+    - 79487.484, 41216, -565.6448
+    - 79424, 41278.72, -520.83826
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 19
+- NavigationMesh: 00032B:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 80554.664, 45141.332, -127.72472
+  Island:
+    Min: 80448, 45056, -155.49512
+    Max: 80640, 45248, -107.67676
+    Triangles:
+    - 5, 4, 3
+    - 3, 4, 0
+    - 1, 2, 6
+    - 1, 5, 3
+    - 5, 1, 6
+    Vertices:
+    - 80575.484, 45056, -155.49512
+    - 80640, 45248, -118.579346
+    - 80575.484, 45248, -122.404816
+    - 80640, 45183.49, -147.65291
+    - 80511.74, 45056, -109.78076
+    - 80448, 45056, -107.67676
+    - 80448, 45119.742, -144.7838
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 11, 19
+- NavigationMesh: 00030C:Enderal - Diviner's Trail.esp
+  Point: 80741.336, 51605.336, 1299.0248
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 12, 19
+- NavigationMesh: 00030B:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 81189.586, 49742.25, 675.91626
+  MergedTo:
+  - 000326:Enderal - Diviner's Trail.esp
+  - 00030D:Enderal - Diviner's Trail.esp
+  - 000309:Enderal - Diviner's Trail.esp
+  Island:
+    Min: 80256, 49152, 481.62573
+    Max: 81920, 50703.6, 887.0498
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 12, 19
+- NavigationMesh: 00030A:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 81456.336, 52121.52, 586.9221
+  MergedTo:
+  - 000309:Enderal - Diviner's Trail.esp
+  Island:
+    Min: 80640, 50727.53, 469.78516
+    Max: 81920, 53248, 810.7676
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 12, 19
+- NavigationMesh: 00030D:Enderal - Diviner's Trail.esp
+  Point: 82334.766, 49352.65, 919.6676
+  MergedTo:
+  - 000325:Enderal - Diviner's Trail.esp
+  - 00030B:Enderal - Diviner's Trail.esp
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 12, 20
+- NavigationMesh: 000309:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 82445.31, 51576.906, 447.99075
+  MergedTo:
+  - 00030B:Enderal - Diviner's Trail.esp
+  - 00030A:Enderal - Diviner's Trail.esp
+  - 000319:Enderal - Diviner's Trail.esp
+  Island:
+    Min: 81920, 50240, -23.006836
+    Max: 83392, 53248, 715.63184
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 12, 20
+- NavigationMesh: 000319:Enderal - Diviner's Trail.esp
+  Point: 82765.414, 53521.594, 340.3684
+  MergedTo:
+  - 000309:Enderal - Diviner's Trail.esp
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 13, 20
+- NavigationMesh: 000329:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 80373.336, 44149.336, -257.75073
+  Island:
+    Min: 80256, 44032, -318.54004
+    Max: 80512, 44288, -202.58203
+    Triangles:
+    - 4, 0, 5
+    - 4, 1, 0
+    - 7, 4, 2
+    - 4, 7, 6
+    - 4, 5, 3
+    - 4, 3, 2
+    Vertices:
+    - 80512, 44160, -318.54004
+    - 80512, 44032, -292.56543
+    - 80256, 44223.49, -257.77805
+    - 80319.484, 44288, -269.37384
+    - 80447.484, 44032, -254.99506
+    - 80447.484, 44223.49, -282.36115
+    - 80319.484, 44032, -258.7057
+    - 80256, 44160, -247.1099
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 19
+- NavigationMesh: 00032F:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 76832, 42040, 138.4607
+  Island:
+    Min: 76672, 41856, 52.7041
+    Max: 76992, 42304, 220.1582
+    Triangles:
+    - 0, 1, 2
+    - 3, 1, 6
+    - 0, 4, 1
+    - 5, 1, 4
+    - 5, 6, 1
+    Vertices:
+    - 76992, 41983.23, 54.71355
+    - 76864, 41856, 132.41226
+    - 76992, 41856, 108.29887
+    - 76672, 41983.23, 220.1582
+    - 76992, 42047.742, 52.7041
+    - 76736, 42304, 161.21436
+    - 76672, 42304, 190.01646
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 18
+- NavigationMesh: 000325:Enderal - Diviner's Trail.esp
+  Point: 82734.734, 49022.46, 947.4894
+  MergedTo:
+  - 00030D:Enderal - Diviner's Trail.esp
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 11, 20
+- NavigationMesh: 104C39:Skyrim.esm
+  Unknown: 32
+  Point: 77914.67, 37557.336, 189.81128
+  MergedTo:
+  - 104D03:Skyrim.esm
+  Island:
+    Min: 77824, 37248, 28.822266
+    Max: 78144, 37760, 272.98047
+    Triangles:
+    - 5, 6, 7
+    - 1, 3, 0
+    - 6, 0, 3
+    - 7, 2, 4
+    - 7, 4, 5
+    - 6, 5, 0
+    Vertices:
+    - 77824, 37374.977, 93.28003
+    - 78016, 37248, 28.822266
+    - 77824, 37760, 246.61139
+    - 78144, 37374.977, 103.046364
+    - 77824, 37694.465, 272.98047
+    - 77824, 37630.977, 234.8918
+    - 77952, 37630.977, 198.75638
+    - 77888, 37694.465, 223.1722
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 104C37:Skyrim.esm
+  Unknown: 32
+  Point: 78567.11, 39956.445, -171.7838
+  MergedTo:
+  - 104D04:Skyrim.esm
+  Island:
+    Min: 77824, 39296, -485.17285
+    Max: 79296, 40640, 188.9668
+    Triangles:
+    - 1, 14, 9
+    - 11, 12, 14
+    - 4, 14, 12
+    - 17, 5, 10
+    - 6, 5, 17
+    - 0, 18, 16
+    - 8, 6, 17
+    - 3, 7, 2
+    - 13, 0, 17
+    - 15, 0, 16
+    - 9, 14, 3
+    - 17, 14, 13
+    - 0, 13, 18
+    - 3, 14, 7
+    - 17, 0, 8
+    - 13, 14, 1
+    - 7, 14, 4
+    Vertices:
+    - 79231.234, 40252.93, -220.9101
+    - 78459.91, 39419.65, -350.3449
+    - 77824, 39296, -177.76517
+    - 77882.88, 39296, -202.03418
+    - 77824, 39419.65, -196.64108
+    - 78783.74, 40640, 67.621704
+    - 79101.695, 40640, -10.578522
+    - 77824, 39355.137, -223.60666
+    - 79166.46, 40575.49, -53.72345
+    - 78206.72, 39355.137, -285.6275
+    - 78524.67, 40575.49, 105.373535
+    - 77824, 40252.93, 180.87714
+    - 77824, 40059.39, 99.98041
+    - 78718.98, 39484.16, -425.84857
+    - 77882.88, 40317.44, 188.9668
+    - 79296, 39806.72, -455.5107
+    - 79296, 39742.207, -485.17285
+    - 78330.37, 40510.977, 132.33911
+    - 79296, 39677.695, -447.42102
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 104C35:Skyrim.esm
+  Unknown: 32
+  Point: 79818.04, 40279.844, -339.38138
+  Island:
+    Min: 79232, 39808, -535.0322
+    Max: 80512, 40768, -61.612305
+    Triangles:
+    - 3, 6, 7
+    - 11, 3, 4
+    - 7, 6, 2
+    - 2, 6, 8
+    - 10, 3, 11
+    - 0, 6, 3
+    - 5, 3, 9
+    - 4, 3, 5
+    - 1, 3, 7
+    - 0, 3, 10
+    Vertices:
+    - 79360, 39934.72, -463.0724
+    - 80445.44, 40384, -294.5349
+    - 79549.44, 39808, -482.0092
+    - 80512, 40510.72, -256.66132
+    - 79872, 40764.16, -82.44278
+    - 80000, 40764.16, -154.40259
+    - 79421.44, 39808, -529.3512
+    - 80189.44, 40192, -377.8568
+    - 79488, 39808, -487.69025
+    - 80445.44, 40576, -232.04346
+    - 79232, 40445.44, -186.59515
+    - 79232, 40702.72, -61.612305
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 07BC48:Skyrim.esm
+  Unknown: 64
+  Point: -17408.998, 1074.9901, 1812.8263
+  PreferredMergesFlag: 1054567863
+  MergedTo:
+  - 02F5AF:Enderal - Forgotten Stories.esm
+  - 0C46E5:Skyrim.esm
+  PreferredMerges:
+  - 07BC47:Skyrim.esm
+  - 0C46E3:Skyrim.esm
+  - 02F5AE:Enderal - Forgotten Stories.esm
+  - 1274B4:Skyrim.esm
+  - 0C2E11:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 0, -5
+- NavigationMesh: 050A7B:Skyrim.esm
+  Unknown: 32
+  Point: 73605.73, 42609.688, 241.60284
+  MergedTo:
+  - 000328:Enderal - Diviner's Trail.esp
+  Island:
+    Min: 73346.42, 42499.062, 202.34619
+    Max: 73728, 42714.46, 271.61566
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 17
+- NavigationMesh: 152B19:Skyrim.esm
+  Point: 72971.38, 41452.242, 319.0187
+  MergedTo:
+  - 104DF2:Skyrim.esm
+  - 000328:Enderal - Diviner's Trail.esp
+  - 104DF1:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 17
+- NavigationMesh: 000330:Enderal - Diviner's Trail.esp
+  Point: 79724.195, 43515.05, -417.30356
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 10, 19
+- NavigationMesh: 000327:Enderal - Diviner's Trail.esp
+  Unknown: 32
+  Point: 77140.76, 45261.84, 92.206924
+  MergedTo:
+  - 000326:Enderal - Diviner's Trail.esp
+  - 000328:Enderal - Diviner's Trail.esp
+  Island:
+    Min: 76672, 45056, 8
+    Max: 77824, 45568, 321.2871
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 11, 18
+- NavigationMesh: 104C3B:Skyrim.esm
+  Unknown: 32
+  Point: 79032, 36960, -807.4516
+  MergedTo:
+  - 104C43:Skyrim.esm
+  Island:
+    Min: 78848, 36864, -933.957
+    Max: 79168, 37184, -720.8817
+    Triangles:
+    - 1, 3, 2
+    - 1, 2, 0
+    - 4, 2, 3
+    - 4, 5, 2
+    Vertices:
+    - 78976, 37184, -933.957
+    - 78848, 36864, -774.57666
+    - 79104, 37120, -910.9448
+    - 78976, 36864, -777.98584
+    - 79104, 36864, -720.8817
+    - 79168, 36864, -761.7922
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 104C38:Skyrim.esm
+  Point: 79458.33, 38593.125, -1063.0992
+  MergedTo:
+  - 104D02:Skyrim.esm
+  - 104C47:Skyrim.esm
+  - 104C43:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 104C3A:Skyrim.esm
+  Unknown: 32
+  Point: 78244, 37290, -181.16722
+  Island:
+    Min: 78048, 37120, -230.26953
+    Max: 78336, 37440, -143.96143
+    Triangles:
+    - 0, 6, 2
+    - 3, 1, 0
+    - 4, 0, 1
+    - 0, 4, 5
+    - 0, 5, 6
+    Vertices:
+    - 78079.1, 37167.36, -143.96143
+    - 78336, 37248, -187.46071
+    - 78048, 37216, -155.00887
+    - 78271.484, 37120, -144.30666
+    - 78336, 37312, -203.68663
+    - 78336, 37440, -171.23479
+    - 78271.484, 37440, -230.26953
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 9, 19
+- NavigationMesh: 000326:Enderal - Diviner's Trail.esp
+  Point: 80613.86, 46712.848, 107.08948
+  MergedTo:
+  - 00030B:Enderal - Diviner's Trail.esp
+  - 000327:Enderal - Diviner's Trail.esp
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 001D3C:Skyrim.esm
+    ParentWorldspaceCoord: 11, 19
+PreferredPathing:
+  NavmeshSets:
+  - Navmeshes:
+    - 07BC48:Skyrim.esm
+  NavmeshTree:
+  - NavMesh: 07BC48:Skyrim.esm

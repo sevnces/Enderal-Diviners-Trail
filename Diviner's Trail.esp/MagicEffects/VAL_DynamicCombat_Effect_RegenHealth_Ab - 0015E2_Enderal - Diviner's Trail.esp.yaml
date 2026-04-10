@@ -1,0 +1,30 @@
+FormKey: 0015E2:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_RegenHealth_Ab
+Name:
+  TargetLanguage: English
+  Value: Regenerate Health Self
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- NoHitEvent
+- NoDuration
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: HealRateMult
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetIsIDConditionData
+    Object: 000007:Skyrim.esm
+  ComparisonValue: 1

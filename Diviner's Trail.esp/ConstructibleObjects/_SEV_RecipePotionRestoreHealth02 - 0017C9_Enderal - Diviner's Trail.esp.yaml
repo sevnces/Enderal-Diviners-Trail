@@ -1,0 +1,9 @@
+FormKey: 0017C9:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionRestoreHealth02
+Items:
+- Item:
+    Item: 0028C8:Skyrim.esm
+    Count: 2
+CreatedObject: 0028C5:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

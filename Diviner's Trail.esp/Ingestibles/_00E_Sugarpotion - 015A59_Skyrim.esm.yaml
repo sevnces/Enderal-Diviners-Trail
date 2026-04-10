@@ -1,0 +1,22 @@
+FormKey: 015A59:Skyrim.esm
+EditorID: _00E_Sugarpotion
+ObjectBounds:
+  First: -6, -6, 0
+  Second: 6, 6, 18
+Name:
+  TargetLanguage: English
+  Value: 'Treat: Bee Sugar'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionFortifySkill01.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 6
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 03EB15:Skyrim.esm
+  Data:
+    Magnitude: 10

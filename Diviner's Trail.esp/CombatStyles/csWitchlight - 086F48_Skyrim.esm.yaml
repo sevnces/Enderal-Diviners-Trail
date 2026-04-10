@@ -1,0 +1,30 @@
+FormKey: 086F48:Skyrim.esm
+EditorID: csWitchlight
+OffensiveMult: 1
+GroupOffensiveMult: 0.85
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 7.5
+  PowerAttackStaggeredMult: 6.5
+  PowerAttackBlockingMult: 8.5
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 1
+  FallbackMult: 0.5
+  FlankDistance: 0.3
+  StalkTime: 0.6
+LongRangeStrafeMult: 0
+Flight:
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Flanking

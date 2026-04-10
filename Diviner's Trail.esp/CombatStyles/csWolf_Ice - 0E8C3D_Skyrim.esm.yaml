@@ -1,0 +1,31 @@
+FormKey: 0E8C3D:Skyrim.esm
+EditorID: csWolf_Ice
+OffensiveMult: 0.85
+DefensiveMult: 0.15
+GroupOffensiveMult: 1.5
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 5
+  PowerAttackStaggeredMult: 5
+  PowerAttackBlockingMult: 10
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.75
+  FallbackMult: 0.35
+  FlankDistance: 0.5
+  StalkTime: 0.4
+LongRangeStrafeMult: 0
+Flight:
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Flanking

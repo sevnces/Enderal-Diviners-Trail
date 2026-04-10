@@ -1,0 +1,15 @@
+FormKey: 088019:Skyrim.esm
+EditorID: _00E_TropicalTree_Oleander01
+ObjectBounds:
+  First: -126, -130, -22
+  Second: 95, 144, 210
+Model:
+  File: Enderal\landscape\Tropical\Vegetation\Orleander01.nif
+  Data: 0x020000000000000000000000
+Ingredient: 000090:Enderal - Diviner's Trail.esp
+HarvestSound: 0FB975:Skyrim.esm
+Production: {}
+BranchFlexibility: 3
+Unknown: 0x00000000EC51B83D8FC2F53D60E5D03D0000C03F0000C03F9A99993F0000803F
+LeafAmplitude: 0.3
+LeafFrequency: 0.15

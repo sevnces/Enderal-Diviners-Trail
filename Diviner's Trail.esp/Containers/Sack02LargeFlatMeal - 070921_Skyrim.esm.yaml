@@ -1,0 +1,17 @@
+FormKey: 070921:Skyrim.esm
+EditorID: Sack02LargeFlatMeal
+ObjectBounds:
+  First: -22, -20, -7
+  Second: 22, 20, 7
+Name:
+  TargetLanguage: English
+  Value: Flour Sack
+Model:
+  File: Clutter\Containers\MiscSack02LargeFlat.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 070914:Skyrim.esm
+    Count: 3
+OpenSound: 084D0E:Skyrim.esm
+CloseSound: 084D0F:Skyrim.esm

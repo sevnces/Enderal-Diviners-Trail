@@ -1,0 +1,24 @@
+FormKey: 064B42:Skyrim.esm
+EditorID: FoodTomato
+ObjectBounds:
+  First: -4, -4, -3
+  Second: 4, 4, 3
+Name:
+  TargetLanguage: English
+  Value: 'Fruit: Tomato'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\Tomato.nif
+  Data: 0x020000000300000000000000B9E1D69D64647300604DDD5C0D57237564647300604DDD5CFAE0BBA4646473007F66A5C0
+Weight: 0.1
+Value: 2
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 20

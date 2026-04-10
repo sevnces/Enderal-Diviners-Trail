@@ -1,0 +1,28 @@
+FormKey: 0015DF:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_DrainSpeed_Ab
+Name:
+  TargetLanguage: English
+  Value: Drain Speed
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- Detrimental
+- NoHitEvent
+- NoDuration
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+SecondActorValueWeight: 0.2
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: SpeedMult
+  Type: DualValueModifier
+SecondActorValue: CarryWeight
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''

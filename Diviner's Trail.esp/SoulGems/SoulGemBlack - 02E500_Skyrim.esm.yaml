@@ -1,0 +1,22 @@
+FormKey: 02E500:Skyrim.esm
+MajorRecordFlagsRaw: 131072
+EditorID: SoulGemBlack
+SkyrimMajorRecordFlags:
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -3, -3, -11
+  Second: 3, 3, 11
+Name:
+  TargetLanguage: English
+  Value: 'Pyrean Crystal: Black '
+Model:
+  File: Clutter\SoulGem\SoulGemBlack01.nif
+  Data: 0x020000000300000000000000C796A2C264647300F7BB845BFF7791E464647300F7BB845BA83708C164647300262C333B
+Keywords:
+- 0937A3:Skyrim.esm
+Value: 300
+Weight: 1
+MaximumCapacity: Grand
+LinkedTo: 02E504:Skyrim.esm
+MajorFlags:
+- CanHoldNpcSoul

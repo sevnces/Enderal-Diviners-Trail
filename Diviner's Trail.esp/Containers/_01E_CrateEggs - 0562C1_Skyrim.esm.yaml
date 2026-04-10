@@ -1,0 +1,21 @@
+FormKey: 0562C1:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: _01E_CrateEggs
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -24, -19, -1
+  Second: 30, 17, 15
+Name:
+  TargetLanguage: English
+  Value: Eggs
+Model:
+  File: Enderal\Clutter\AARS\foodcontainer\crate01egg.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 023D77:Skyrim.esm
+    Count: 3
+Weight: 20
+MajorFlags:
+- NavMeshGenerationBoundingBox

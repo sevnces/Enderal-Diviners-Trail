@@ -1,0 +1,18 @@
+FormKey: 0000D3:Enderal - Diviner's Trail.esp
+EditorID: _SEV_CraftingPlan_ShadowSteelMace
+ObjectBounds:
+  First: -12, -17, 0
+  Second: 12, 17, 1
+Name:
+  TargetLanguage: English
+  Value: 'Blueprint: Shadow Steel Mace (Handicraft 90)'
+Model:
+  File: Enderal\books\Craftingplans\Craftingplan.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: TG_WallRubbingBlank01:3
+    NewTexture: 0BEC98:Skyrim.esm
+Keywords:
+- 0493B5:Skyrim.esm
+Value: 500
+Weight: 0.1

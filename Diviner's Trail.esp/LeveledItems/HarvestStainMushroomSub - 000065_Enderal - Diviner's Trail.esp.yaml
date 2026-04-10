@@ -1,0 +1,10 @@
+FormKey: 000065:Enderal - Diviner's Trail.esp
+EditorID: HarvestStainMushroomSub
+ChanceNone: 0.9
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 04DA00:Skyrim.esm
+    Count: 1

@@ -1,0 +1,24 @@
+FormKey: 065C99:Skyrim.esm
+EditorID: FoodBeef
+ObjectBounds:
+  First: -11, -12, -1
+  Second: 14, 10, 9
+Name:
+  TargetLanguage: English
+  Value: 'Raw: Beef'
+Keywords:
+- 0A0E56:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\BeefMeat.nif
+  Data: 0x0200000002000000000000005611D5A964647300604DDD5C317E781164647300604DDD5C
+Weight: 0.5
+Value: 4
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 20

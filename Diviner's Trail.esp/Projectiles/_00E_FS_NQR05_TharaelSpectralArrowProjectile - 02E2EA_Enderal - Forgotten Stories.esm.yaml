@@ -1,0 +1,21 @@
+FormKey: 02E2EA:Enderal - Forgotten Stories.esm
+EditorID: _00E_FS_NQR05_TharaelSpectralArrowProjectile
+Model:
+  File: Weapons\BoundWeapons\BoundArrowFlight.nif
+  Data: 0x020000000000000000000000
+Flags:
+- Explosion
+Type: Missile
+Gravity: 0.2
+Speed: 5400
+Range: 60000
+Light: 06A191:Skyrim.esm
+Explosion: 02E2EB:Enderal - Forgotten Stories.esm
+Sound: 03F2B4:Skyrim.esm
+FadeDuration: 1
+ImpactForce: 1
+CollisionRadius: 0.5
+RelaunchInterval: 0.25
+CollisionLayer: 088777:Skyrim.esm
+MuzzleFlashModel: ''
+SoundLevel: 2

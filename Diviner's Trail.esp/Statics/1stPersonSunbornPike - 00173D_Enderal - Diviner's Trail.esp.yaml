@@ -1,0 +1,7 @@
+FormKey: 00173D:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonSunbornPike
+Model:
+  File: weapons\NewArmoury\Pikes\ForswornPike.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

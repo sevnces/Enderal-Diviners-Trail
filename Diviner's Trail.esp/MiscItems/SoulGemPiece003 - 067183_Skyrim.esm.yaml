@@ -1,0 +1,15 @@
+FormKey: 067183:Skyrim.esm
+EditorID: SoulGemPiece003
+ObjectBounds:
+  First: -6, -3, -2
+  Second: 6, 2, 3
+Name:
+  TargetLanguage: English
+  Value: Pyrean Crystal Shard
+Model:
+  File: Clutter\SoulGem\SoulGemPiece03.nif
+  Data: 0x020000000300000000000000C796A2C264647300F7BB845BFF7791E464647300F7BB845BA83708C164647300262C333B
+Keywords:
+- 0914ED:Skyrim.esm
+Value: 5
+Weight: 0.1

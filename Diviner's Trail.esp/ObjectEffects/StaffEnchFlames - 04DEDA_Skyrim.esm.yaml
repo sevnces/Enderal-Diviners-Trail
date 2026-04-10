@@ -1,0 +1,17 @@
+FormKey: 04DEDA:Skyrim.esm
+EditorID: StaffEnchFlames
+Name:
+  TargetLanguage: English
+  Value: Flames
+EnchantmentCost: 2
+Flags:
+- NoAutoCalc
+CastType: Concentration
+EnchantmentAmount: 2
+TargetType: Aimed
+EnchantType: StaffEnchantment
+Effects:
+- BaseEffect: 013CA9:Skyrim.esm
+  Data:
+    Magnitude: 5
+    Duration: 1

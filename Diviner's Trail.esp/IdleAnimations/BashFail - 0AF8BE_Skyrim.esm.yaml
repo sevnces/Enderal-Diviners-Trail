@@ -1,0 +1,32 @@
+FormKey: 0AF8BE:Skyrim.esm
+EditorID: BashFail
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetWantBlockingConditionData
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: IsBlockingConditionData
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: NotEqualTo
+  Data:
+    MutagenObjectType: GetAttackStateConditionData
+  ComparisonValue: 6
+- MutagenObjectType: ConditionGlobal
+  CompareOperator: LessThan
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Stamina
+  ComparisonValue: 0015F4:Enderal - Diviner's Trail.esp
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: HasMagicEffectKeywordConditionData
+    Keyword: A00102:Update.esm
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: BashFail
+RelatedIdles:
+- 000990:Update.esm
+- 013213:Skyrim.esm
+AnimationGroupSection: 131

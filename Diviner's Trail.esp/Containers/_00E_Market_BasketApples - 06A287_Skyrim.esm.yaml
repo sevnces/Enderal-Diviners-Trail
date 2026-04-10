@@ -1,0 +1,15 @@
+FormKey: 06A287:Skyrim.esm
+EditorID: _00E_Market_BasketApples
+ObjectBounds:
+  First: -33, -19, -2
+  Second: 30, 17, 28
+Name:
+  TargetLanguage: English
+  Value: Apples
+Model:
+  File: Enderal\Food\BasketApples01.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 064B2E:Skyrim.esm
+    Count: 3

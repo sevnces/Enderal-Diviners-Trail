@@ -1,0 +1,13 @@
+FormKey: 000076:Enderal - Diviner's Trail.esp
+EditorID: HarvestFishEgg
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 07E8C5:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000077:Enderal - Diviner's Trail.esp
+    Count: 1

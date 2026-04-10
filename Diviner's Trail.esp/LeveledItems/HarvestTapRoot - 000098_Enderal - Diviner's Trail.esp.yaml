@@ -1,0 +1,9 @@
+FormKey: 000098:Enderal - Diviner's Trail.esp
+EditorID: HarvestTapRoot
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD71:Skyrim.esm
+    Count: 2

@@ -1,0 +1,7 @@
+FormKey: 00172D:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonSilverRapier
+Model:
+  File: weapons\NewArmoury\Rapier\SilverRapier.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

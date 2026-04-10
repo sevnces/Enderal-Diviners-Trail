@@ -1,0 +1,25 @@
+FormKey: 019E3F:Skyrim.esm
+EditorID: 01E_Schockschutztrank
+ObjectBounds:
+  First: -2, -3, 0
+  Second: 2, 3, 17
+Name:
+  TargetLanguage: English
+  Value: 'Potion: Protection from Shock (Tier I)'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionResistShock50.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 25
+Flags:
+- NoAutoCalc
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 03EAEC:Skyrim.esm
+  Data:
+    Magnitude: 15
+    Duration: 240

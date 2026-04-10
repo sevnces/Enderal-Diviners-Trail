@@ -1,0 +1,13 @@
+FormKey: 00004D:Enderal - Diviner's Trail.esp
+EditorID: HarvestCabbage
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 064B3F:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00004E:Enderal - Diviner's Trail.esp
+    Count: 2

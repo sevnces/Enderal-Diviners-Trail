@@ -1,0 +1,44 @@
+FormKey: 0DDDA3:Skyrim.esm
+MajorRecordFlagsRaw: 524288
+EditorID: csDraugr02Boss
+SkyrimMajorRecordFlags:
+- CantWait
+OffensiveMult: 1
+DefensiveMult: 0.25
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 8.5
+  PowerAttackStaggeredMult: 5
+  PowerAttackBlockingMult: 7.5
+  BashMult: 5
+  BashRecoilMult: 10
+  BashAttackMult: 10
+  BashPowerAttackMult: 9.5
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.35
+  FallbackMult: 0.25
+  FlankDistance: 0.2
+  StalkTime: 0.2
+LongRangeStrafeMult: 0.25
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling
+- AllowDualWielding
+MajorFlags:
+- AllowDualWielding

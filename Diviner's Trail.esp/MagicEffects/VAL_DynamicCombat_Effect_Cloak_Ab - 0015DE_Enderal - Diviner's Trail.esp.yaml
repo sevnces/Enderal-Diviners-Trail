@@ -1,0 +1,23 @@
+FormKey: 0015DE:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_Cloak_Ab
+Name:
+  TargetLanguage: English
+  Value: Dynamic Combat Cloak
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- NoHitEvent
+- NoDuration
+- NoArea
+- HideInUI
+- NoHitEffect
+TaperWeight: 0.2
+TaperCurve: 2
+Archetype:
+  MutagenObjectType: MagicEffectCloakArchetype
+  Association: 001604:Enderal - Diviner's Trail.esp
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''

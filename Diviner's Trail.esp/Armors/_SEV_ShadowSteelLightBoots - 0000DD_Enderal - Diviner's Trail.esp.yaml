@@ -1,0 +1,31 @@
+FormKey: 0000DD:Enderal - Diviner's Trail.esp
+EditorID: _SEV_ShadowSteelLightBoots
+Name:
+  TargetLanguage: English
+  Value: Shadow Steel Light Boots
+WorldModel:
+  Male:
+    Model:
+      File: armor\Fenrir\BootsGO.nif
+      Data: 0x020000000000000000000000
+  Female:
+    Model:
+      File: armor\Fenrir\BootsGO.nif
+      Data: 0x020000000000000000000000
+BodyTemplate:
+  FirstPersonFlags:
+  - Feet
+  ActsLike44: True
+Race: 000019:Skyrim.esm
+Keywords:
+- 06BBD3:Skyrim.esm
+- 06BBD4:Skyrim.esm
+- 06C0ED:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armature:
+- 0000E1:Enderal - Diviner's Trail.esp
+Value: 275
+Weight: 2
+ArmorRating: 44

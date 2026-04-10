@@ -1,0 +1,18 @@
+FormKey: 0EF542:Skyrim.esm
+EditorID: NPC_BowDrawn_QuickShot_MT
+Name: NPCBowDrawnQuickShot
+LeftWalk: 81
+LeftRun: 320
+RightWalk: 79
+RightRun: 320
+ForwardWalk: 80
+ForwardRun: 335
+BackWalk: 60
+BackRun: 100
+RotateInPlaceWalk: 180.00006
+RotateInPlaceRun: 180.00006
+RotateWhileMovingRun: 180.00006
+AnimationChangeThresholds:
+  Directional: 3.4028235E+38
+  MovementSpeed: 3.4028235E+38
+  RotationSpeed: 3.4028235E+38

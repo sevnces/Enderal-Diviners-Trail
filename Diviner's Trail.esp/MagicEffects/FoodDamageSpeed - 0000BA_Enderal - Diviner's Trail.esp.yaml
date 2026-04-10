@@ -1,0 +1,33 @@
+FormKey: 0000BA:Enderal - Diviner's Trail.esp
+EditorID: FoodDamageSpeed
+Name:
+  TargetLanguage: English
+  Value: Damage Speed
+MenuDisplayObject: 0435A5:Skyrim.esm
+Keywords:
+- 042509:Skyrim.esm
+Flags:
+- Hostile
+- Recover
+- Detrimental
+- NoArea
+- PowerAffectsDuration
+BaseCost: 0.3
+ResistValue: PoisonResist
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: SpeedMult
+CastType: FireAndForget
+DualCastScale: 1
+Sounds:
+- Sound: 03E957:Skyrim.esm
+- Type: Charge
+  Sound: 056622:Skyrim.esm
+- Type: Ready
+  Sound: 03F363:Skyrim.esm
+- Type: Release
+  Sound: 03F361:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: Alchohol decreases your movement speed by <mag>%.

@@ -1,0 +1,38 @@
+FormKey: 034CDF:Skyrim.esm
+EditorID: SaltPile
+ObjectBounds:
+  First: -6, -6, -4
+  Second: 6, 6, 1
+Name:
+  TargetLanguage: English
+  Value: Salt
+Keywords:
+- 08CDEA:Skyrim.esm
+- 08CDEB:Skyrim.esm
+- 0A0E56:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\SaltPile.nif
+  Data: 0x0200000004000000000000008E5603C464647300604DDD5CC38821B064647300604DDD5C43B9D3A464647300604DDD5CF9BEC0FE64647300604DDD5C
+PickUpSound: 0FC21F:Skyrim.esm
+Value: 2
+Weight: 0.2
+IngredientValue: 2
+Flags:
+- NoAutoCalculation
+Effects:
+- BaseEffect: 073F51:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 30
+- BaseEffect: 03EB28:Skyrim.esm
+  Data:
+    Magnitude: 8
+    Duration: 60
+- BaseEffect: 029C3A:Enderal - Forgotten Stories.esm
+  Data:
+    Magnitude: 2
+    Duration: 600
+- BaseEffect: 03EB07:Skyrim.esm
+  Data:
+    Magnitude: 5
+    Duration: 300

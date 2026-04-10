@@ -1,0 +1,15 @@
+FormKey: 04DED9:Skyrim.esm
+EditorID: StaffEnchLightningBolt
+Name:
+  TargetLanguage: English
+  Value: Lightning Bolt
+EnchantmentCost: 655
+CastType: FireAndForget
+EnchantmentAmount: 655
+TargetType: Aimed
+EnchantType: StaffEnchantment
+ChargeTime: 0.5
+Effects:
+- BaseEffect: 01CEA8:Skyrim.esm
+  Data:
+    Magnitude: 25

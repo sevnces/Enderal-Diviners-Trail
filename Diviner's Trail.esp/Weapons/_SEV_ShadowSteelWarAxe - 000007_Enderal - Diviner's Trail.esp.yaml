@@ -1,0 +1,52 @@
+FormKey: 000007:Enderal - Diviner's Trail.esp
+EditorID: _SEV_ShadowSteelWarAxe
+ObjectBounds:
+  First: -13, -21, -1
+  Second: 18, 44, 1
+Name:
+  TargetLanguage: English
+  Value: Shadow Steel War Axe
+Model:
+  File: SEV\ShadowSteelWeap\Waraxe.nif
+  Data: 0x020000000000000000000000
+EquipmentType: 013F42:Skyrim.esm
+BlockBashImpact: 0193C8:Skyrim.esm
+AlternateBlockMaterial: 0774C0:Skyrim.esm
+Keywords:
+- 01E712:Skyrim.esm
+- 01E71F:Skyrim.esm
+- 06727B:Skyrim.esm
+- 00179B:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0193B8:Skyrim.esm
+FirstPersonModel: 0000CF:Enderal - Diviner's Trail.esp
+AttackFailSound: 03F209:Skyrim.esm
+EquipSound: 03DDB7:Skyrim.esm
+UnequipSound: 03DDB8:Skyrim.esm
+BasicStats:
+  Value: 1100
+  Weight: 17
+  Damage: 45
+Data:
+  AnimationType: OneHandAxe
+  Unused: 0x000000
+  Speed: 0.9
+  Reach: 1
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1063675494
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+  Stagger: 0.85
+Critical:
+  Damage: 7
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Normal

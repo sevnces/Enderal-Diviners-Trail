@@ -1,0 +1,35 @@
+FormKey: 09035B:Skyrim.esm
+EditorID: csDwarvenCenturion
+OffensiveMult: 1
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 4.15
+EquipmentScoreMultMagic: 1.5
+EquipmentScoreMultRanged: 0.19
+EquipmentScoreMultShout: 1.5
+EquipmentScoreMultUnarmed: 4.5
+Melee:
+  AttackStaggeredMult: 7
+  PowerAttackStaggeredMult: 7
+  PowerAttackBlockingMult: 10
+  BashMult: 5
+  BashRecoilMult: 10
+  BashAttackMult: 9
+  BashPowerAttackMult: 10
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.1
+  FallbackMult: 0.05
+  FlankDistance: 0.2
+  StalkTime: 0.2
+LongRangeStrafeMult: 0.5
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling

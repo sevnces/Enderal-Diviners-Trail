@@ -1,0 +1,9 @@
+FormKey: 0016B2:Enderal - Diviner's Trail.esp
+EditorID: _SEV_TemperWeaponSteelRapier
+Items:
+- Item:
+    Item: 05ACE5:Skyrim.esm
+    Count: 1
+CreatedObject: 001763:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 088108:Skyrim.esm
+CreatedObjectCount: 1

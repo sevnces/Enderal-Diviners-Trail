@@ -1,0 +1,11 @@
+FormKey: 03AD85:Skyrim.esm
+EditorID: DeathItemFlameAtronach
+ChanceNone: 0.6
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD5E:Skyrim.esm
+    Count: 3

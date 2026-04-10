@@ -1,0 +1,33 @@
+FormKey: 10C645:Skyrim.esm
+EditorID: FoodDamageStaminaRate
+Name:
+  TargetLanguage: English
+  Value: Alcohol
+MenuDisplayObject: 0435A5:Skyrim.esm
+Keywords:
+- 042509:Skyrim.esm
+Flags:
+- Hostile
+- Recover
+- Detrimental
+- NoArea
+- PowerAffectsDuration
+BaseCost: 0.3
+HitShader: 0B93D8:Skyrim.esm
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: StaminaRateMult
+CastType: FireAndForget
+DualCastScale: 1
+Sounds:
+- Sound: 03E957:Skyrim.esm
+- Type: Charge
+  Sound: 056622:Skyrim.esm
+- Type: Ready
+  Sound: 03F363:Skyrim.esm
+- Type: Release
+  Sound: 03F361:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: Alchohol slows you down, reducing your Stamina regeneration by <mag> points for <dur> seconds.

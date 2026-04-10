@@ -1,0 +1,21 @@
+FormKey: 0670FE:Skyrim.esm
+EditorID: _00E_TropicalTree_BananaPalm1
+ObjectBounds:
+  First: -119, -114, -4
+  Second: 109, 119, 252
+Model:
+  File: Enderal\landscape\Tropical\Vegetation\Bananatree01.nif
+  Data: 0x020000000000000000000000
+Ingredient: 00002C:Enderal - Diviner's Trail.esp
+HarvestSound: 0FB975:Skyrim.esm
+Production:
+  Spring: 2
+  Summer: 2
+  Fall: 2
+  Winter: 2
+Name:
+  TargetLanguage: English
+  Value: Banana Palm
+Unknown: 0x000000000000000000000000000000000000000000000000000000000000803F
+LeafAmplitude: 0.2
+LeafFrequency: 0.2

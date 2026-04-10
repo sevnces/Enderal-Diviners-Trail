@@ -1,0 +1,23 @@
+FormKey: 0BB949:Skyrim.esm
+EditorID: TreeFloraJazBay01
+ObjectBounds:
+  First: -83, -70, -11
+  Second: 83, 69, 14
+Model:
+  File: Plants\FloraJazBay01.nif
+  Data: 0x0200000002000000000000006E82458A64647300134C1EFAA423E16F64647300134C1EFA
+Ingredient: 00003A:Enderal - Diviner's Trail.esp
+HarvestSound: 0517C9:Skyrim.esm
+Production:
+  Spring: 100
+  Summer: 100
+  Fall: 100
+  Winter: 100
+Name:
+  TargetLanguage: English
+  Value: Wild Berry
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0AD7233D8FC2F53C0AD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 2
+LeafFrequency: 1

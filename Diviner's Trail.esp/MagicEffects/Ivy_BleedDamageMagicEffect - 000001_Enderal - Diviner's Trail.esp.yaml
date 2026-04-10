@@ -1,0 +1,19 @@
+FormKey: 000001:Enderal - Diviner's Trail.esp
+EditorID: Ivy_BleedDamageMagicEffect
+Name:
+  TargetLanguage: English
+  Value: Bleeding Damage
+Flags:
+- Hostile
+- Detrimental
+- HideInUI
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: Health
+CastType: FireAndForget
+TargetType: Touch
+DualCastScale: 1
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''

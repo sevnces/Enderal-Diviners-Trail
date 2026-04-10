@@ -1,0 +1,9 @@
+FormKey: 000019:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeFoodBasicScorchedGoatMeat
+Items:
+- Item:
+    Item: 065C9A:Skyrim.esm
+    Count: 1
+CreatedObject: 000024:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

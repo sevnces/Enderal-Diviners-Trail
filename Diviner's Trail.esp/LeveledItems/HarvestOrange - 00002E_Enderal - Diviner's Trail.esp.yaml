@@ -1,0 +1,13 @@
+FormKey: 00002E:Enderal - Diviner's Trail.esp
+EditorID: HarvestOrange
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 07280E:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00002F:Enderal - Diviner's Trail.esp
+    Count: 2

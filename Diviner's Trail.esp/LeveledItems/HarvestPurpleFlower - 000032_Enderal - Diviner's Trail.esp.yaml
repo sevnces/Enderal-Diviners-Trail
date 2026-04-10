@@ -1,0 +1,13 @@
+FormKey: 000032:Enderal - Diviner's Trail.esp
+EditorID: HarvestPurpleFlower
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 077E1E:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000033:Enderal - Diviner's Trail.esp
+    Count: 2

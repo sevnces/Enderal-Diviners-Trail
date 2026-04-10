@@ -1,0 +1,9 @@
+FormKey: 02F266:Enderal - Forgotten Stories.esm
+EditorID: DeathItemChaurus
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 000080:Enderal - Diviner's Trail.esp
+    Count: 1

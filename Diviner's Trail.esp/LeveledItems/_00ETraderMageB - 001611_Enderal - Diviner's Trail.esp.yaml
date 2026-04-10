@@ -1,0 +1,107 @@
+FormKey: 001611:Enderal - Diviner's Trail.esp
+EditorID: _00ETraderMageB
+ChanceNone: 0.4
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 00161B:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001620:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001625:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00162F:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001634:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00165C:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001666:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00166B:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001670:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001675:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001680:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 001685:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00168F:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 5
+    Reference: 001661:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 5
+    Reference: 00167B:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 5
+    Reference: 001694:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 5
+    Reference: 001699:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 5
+    Reference: 00169E:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 15
+    Reference: 001637:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 15
+    Reference: 001641:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 15
+    Reference: 001646:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 15
+    Reference: 00164B:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 15
+    Reference: 001650:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 15
+    Reference: 001655:Enderal - Diviner's Trail.esp
+    Count: 1
+- Data:
+    Level: 25
+    Reference: 00163B:Enderal - Diviner's Trail.esp
+    Count: 1

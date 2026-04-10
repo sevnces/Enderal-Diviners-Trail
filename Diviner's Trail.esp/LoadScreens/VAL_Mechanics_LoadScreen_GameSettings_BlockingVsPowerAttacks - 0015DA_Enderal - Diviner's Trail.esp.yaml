@@ -1,0 +1,13 @@
+FormKey: 0015DA:Enderal - Diviner's Trail.esp
+EditorID: VAL_Mechanics_LoadScreen_GameSettings_BlockingVsPowerAttacks
+Description:
+  TargetLanguage: English
+  Value: Blocking is much less effective against power attacks..
+LoadingScreenNif: 036F5D:Skyrim.esm
+InitialScale: 1.8
+InitialRotation: 0, 0, 0
+RotationOffsetConstraints:
+  Min: -120
+  Max: 120
+InitialTranslationOffset: -8, 0, -35
+CameraPath: Cameras\LSCameraPanDown01.nif

@@ -1,0 +1,14 @@
+FormKey: 085640:Skyrim.esm
+EditorID: _00E_PerkManaregen03
+EquipmentType: 013F44:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+BaseCost: 9
+Flags:
+- ManualCostCalc
+Type: Ability
+Effects:
+- BaseEffect: 03B82A:Skyrim.esm
+  Data:
+    Magnitude: 50

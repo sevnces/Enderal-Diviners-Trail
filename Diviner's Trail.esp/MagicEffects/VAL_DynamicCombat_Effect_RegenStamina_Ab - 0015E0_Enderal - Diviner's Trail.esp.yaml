@@ -1,0 +1,30 @@
+FormKey: 0015E0:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_RegenStamina_Ab
+Name:
+  TargetLanguage: English
+  Value: Regenerate Stamina Self
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- NoHitEvent
+- NoDuration
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: StaminaRate
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetIsIDConditionData
+    Object: 000007:Skyrim.esm
+  ComparisonValue: 1

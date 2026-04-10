@@ -1,0 +1,13 @@
+FormKey: 0000AB:Enderal - Diviner's Trail.esp
+EditorID: FoodOnionList
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0C65C1:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0000AA:Enderal - Diviner's Trail.esp
+    Count: 2

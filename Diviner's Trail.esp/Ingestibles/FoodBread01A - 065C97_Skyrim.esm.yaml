@@ -1,0 +1,29 @@
+FormKey: 065C97:Skyrim.esm
+EditorID: FoodBread01A
+ObjectBounds:
+  First: -12, -12, 0
+  Second: 12, 12, 10
+Name:
+  TargetLanguage: English
+  Value: 'Grains: Endralean Sweet Bread'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Enderal\Food\breadround.nif
+  Data: 0x02000000020000000000000068CCCD4964647300B91482363D2BDFA864647300B9148236
+Weight: 1
+Value: 8
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 600
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 100
+    Duration: 600

@@ -1,0 +1,21 @@
+FormKey: 02EF65:Enderal - Forgotten Stories.esm
+EditorID: _50E_HSet_SkybreakerCuirassEnch
+Name:
+  TargetLanguage: English
+  Value: Bulwark of the Skybreaker
+EnchantmentCost: 643
+EnchantmentAmount: 643
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 048F45:Skyrim.esm
+  Data:
+    Magnitude: 12
+- BaseEffect: 07A0FF:Skyrim.esm
+  Data:
+    Magnitude: 9
+- BaseEffect: 07A0F8:Skyrim.esm
+  Data:
+    Magnitude: 40
+- BaseEffect: 07A0F9:Skyrim.esm
+  Data:
+    Magnitude: 7

@@ -1,0 +1,8 @@
+FormKey: 00009C:Enderal - Diviner's Trail.esp
+EditorID: HarvestVatyrEye
+ChanceNone: 0.4
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Reference: 06BC07:Skyrim.esm

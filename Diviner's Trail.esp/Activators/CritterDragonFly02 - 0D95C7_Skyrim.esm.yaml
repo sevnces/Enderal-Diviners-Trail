@@ -1,0 +1,33 @@
+FormKey: 0D95C7:Skyrim.esm
+EditorID: CritterDragonFly02
+VirtualMachineAdapter:
+  Scripts:
+  - Name: critterdragonfly
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LandingMarkerForm
+      Object: 0C2D47:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: lootable
+      Object: 0E4F0C:Skyrim.esm
+    - MutagenObjectType: ScriptIntProperty
+      Name: lootableCount
+      Data: 2
+    - MutagenObjectType: ScriptStringProperty
+      Name: PathEndGraphEvent
+      Data: Forward
+ObjectBounds:
+  First: -13, -9, -14
+  Second: 14, 8, 16
+Name:
+  TargetLanguage: English
+  Value: Dragonfly
+Model:
+  File: Critters\Dragonfly\CritterDragonFly02.nif
+  Data: 0x020000000300000000000000B9BB79ED6464730038973CEAEE1D051A6464730038973CEA7AA5D2346464730038973CEA
+MarkerColor: '#00CC4C33'
+LoopingSound: 100F2A:Skyrim.esm
+ActivateTextOverride:
+  TargetLanguage: English
+  Value: Catch
+Flags: []

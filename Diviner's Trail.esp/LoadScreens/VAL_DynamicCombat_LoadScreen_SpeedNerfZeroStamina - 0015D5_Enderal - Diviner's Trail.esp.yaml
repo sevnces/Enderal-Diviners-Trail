@@ -1,0 +1,13 @@
+FormKey: 0015D5:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_LoadScreen_SpeedNerfZeroStamina
+Description:
+  TargetLanguage: English
+  Value: Move slower, carry less weight and deal reduced damage when out of Stamina.
+LoadingScreenNif: 106859:Skyrim.esm
+InitialScale: 1.55
+InitialRotation: 0, 0, 5
+RotationOffsetConstraints:
+  Min: -120
+  Max: 120
+InitialTranslationOffset: -5, 0, -45
+CameraPath: Cameras\LSCameraPanZoomInSmall.nif

@@ -1,0 +1,15 @@
+FormKey: 000012:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeFoodWitherRat
+Items:
+- Item:
+    Item: 034D31:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 07280E:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 000021:Enderal - Diviner's Trail.esp
+    Count: 1
+CreatedObject: 0E8448:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

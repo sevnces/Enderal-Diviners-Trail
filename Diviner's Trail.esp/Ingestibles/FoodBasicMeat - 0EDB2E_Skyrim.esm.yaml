@@ -1,0 +1,24 @@
+FormKey: 0EDB2E:Skyrim.esm
+EditorID: FoodBasicMeat
+ObjectBounds:
+  First: -14, -5, 0
+  Second: 14, 20, 9
+Name:
+  TargetLanguage: English
+  Value: 'Raw: Wolf Meat'
+Keywords:
+- 0A0E56:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\DogMeat.nif
+  Data: 0x020000000200000000000000F2B7970164647300604DDD5C43A9A6E464647300604DDD5C
+Weight: 0.5
+Value: 3
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 20

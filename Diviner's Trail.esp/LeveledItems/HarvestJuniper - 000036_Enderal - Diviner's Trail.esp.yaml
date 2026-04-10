@@ -1,0 +1,11 @@
+FormKey: 000036:Enderal - Diviner's Trail.esp
+EditorID: HarvestJuniper
+Entries:
+- Data:
+    Level: 1
+    Reference: 05076E:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000037:Enderal - Diviner's Trail.esp
+    Count: 2

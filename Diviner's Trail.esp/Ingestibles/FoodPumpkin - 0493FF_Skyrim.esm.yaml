@@ -1,0 +1,24 @@
+FormKey: 0493FF:Skyrim.esm
+EditorID: FoodPumpkin
+ObjectBounds:
+  First: -9, -20, -19
+  Second: 18, 20, 7
+Name:
+  TargetLanguage: English
+  Value: 'Vegetable: Pumpkin'
+Keywords:
+- 0A0E56:Skyrim.esm
+Model:
+  File: enderal\food\pumpkin01.nif
+  Data: 0x020000000000000000000000
+Weight: 0.8
+Value: 2
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 3
+    Duration: 15

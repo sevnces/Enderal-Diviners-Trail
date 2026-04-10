@@ -1,0 +1,28 @@
+FormKey: 064B32:Skyrim.esm
+EditorID: FoodCheeseWedge02
+ObjectBounds:
+  First: -3, -4, 0
+  Second: 3, 4, 8
+Name:
+  TargetLanguage: English
+  Value: 'Cheese: Cream Cheese Wedge'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Food\CheeseWedge02.nif
+  Data: 0x020000000200000000000000C4A2D1CF64647300B91482369B12670064647300B9148236
+Weight: 0.2
+Value: 5
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 90
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 120
+    Duration: 90

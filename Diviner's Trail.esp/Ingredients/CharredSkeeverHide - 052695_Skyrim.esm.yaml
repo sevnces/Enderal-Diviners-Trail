@@ -1,0 +1,32 @@
+FormKey: 052695:Skyrim.esm
+EditorID: CharredSkeeverHide
+ObjectBounds:
+  First: -15, -6, 0
+  Second: 15, 5, 3
+Name:
+  TargetLanguage: English
+  Value: 'Raw: Rat Meat'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 08CDEB:Skyrim.esm
+Model:
+  File: Clutter\Food\CharredSkeeverMeat01.nif
+  Data: 0x020000000200000000000000510D2B7564647300B91482364768384A64647300B9148236
+Value: 1
+Weight: 0.5
+IngredientValue: 4
+Effects:
+- BaseEffect: 03EB16:Skyrim.esm
+  Data:
+    Magnitude: 5
+- BaseEffect: 0AE722:Skyrim.esm
+  Data:
+    Magnitude: 2
+- BaseEffect: 02F21D:Enderal - Forgotten Stories.esm
+  Data:
+    Magnitude: 2
+    Duration: 1
+- BaseEffect: 0028C3:Skyrim.esm
+  Data:
+    Magnitude: 3
+    Duration: 4

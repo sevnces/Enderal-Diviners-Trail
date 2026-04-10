@@ -1,0 +1,21 @@
+FormKey: 0562C0:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: _01E_CrateTomatoes
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -21, -19, 0
+  Second: 31, 16, 17
+Name:
+  TargetLanguage: English
+  Value: Tomatoes
+Model:
+  File: Enderal\Clutter\containers\food_container\crate_tomatoes.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 064B42:Skyrim.esm
+    Count: 3
+Weight: 20
+MajorFlags:
+- NavMeshGenerationBoundingBox

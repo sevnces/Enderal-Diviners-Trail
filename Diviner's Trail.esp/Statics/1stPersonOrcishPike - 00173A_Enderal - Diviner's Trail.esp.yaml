@@ -1,0 +1,7 @@
+FormKey: 00173A:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonOrcishPike
+Model:
+  File: weapons\NewArmoury\Pikes\OrcishPike.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

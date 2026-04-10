@@ -1,0 +1,22 @@
+FormKey: 0CDE5E:Skyrim.esm
+EditorID: csHorker
+OffensiveMult: 0.9
+DefensiveMult: 0.7
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 3.65
+EquipmentScoreMultRanged: 3.65
+EquipmentScoreMultUnarmed: 5.35
+AvoidThreatChance: 0.08
+Melee:
+  AttackStaggeredMult: 9.5
+  PowerAttackStaggeredMult: 7.5
+  BashMult: 3
+  BashRecoilMult: 1.5
+  BashAttackMult: 1.5
+  BashPowerAttackMult: 1.5
+  SpecialAttackMult: 0.1
+CloseRange: {}
+LongRangeStrafeMult: 0
+Flight: {}
+Flags:
+- Dueling

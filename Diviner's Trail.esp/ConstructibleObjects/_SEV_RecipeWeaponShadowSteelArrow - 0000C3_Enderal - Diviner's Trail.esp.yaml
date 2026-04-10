@@ -1,0 +1,28 @@
+FormKey: 0000C3:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeWeaponShadowSteelArrow
+Items:
+- Item:
+    Item: 05AD9D:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 06F993:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 0773ED:Skyrim.esm
+    Count: 5
+Conditions:
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Smithing
+  ComparisonValue: 90
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Data:
+    MutagenObjectType: GetItemCountConditionData
+    ItemOrList: 0000D6:Enderal - Diviner's Trail.esp
+  ComparisonValue: 1
+CreatedObject: 00000A:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 088105:Skyrim.esm
+CreatedObjectCount: 25

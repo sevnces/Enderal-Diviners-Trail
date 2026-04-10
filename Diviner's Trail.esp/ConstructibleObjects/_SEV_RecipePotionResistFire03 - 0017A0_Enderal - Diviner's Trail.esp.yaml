@@ -1,0 +1,9 @@
+FormKey: 0017A0:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionResistFire03
+Items:
+- Item:
+    Item: 08A51F:Skyrim.esm
+    Count: 3
+CreatedObject: 13E807:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

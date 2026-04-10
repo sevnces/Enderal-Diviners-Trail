@@ -1,0 +1,13 @@
+FormKey: 000064:Enderal - Diviner's Trail.esp
+EditorID: HarvestStainMushroom
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 04DA00:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000065:Enderal - Diviner's Trail.esp
+    Count: 1

@@ -1,0 +1,13 @@
+FormKey: 000049:Enderal - Diviner's Trail.esp
+EditorID: HarvestBlueFlower
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 077E1C:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00004A:Enderal - Diviner's Trail.esp
+    Count: 2

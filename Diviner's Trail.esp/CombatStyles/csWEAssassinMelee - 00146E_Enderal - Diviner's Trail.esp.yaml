@@ -1,0 +1,44 @@
+FormKey: 00146E:Enderal - Diviner's Trail.esp
+MajorRecordFlagsRaw: 524288
+EditorID: csWEAssassinMelee
+SkyrimMajorRecordFlags:
+- CantWait
+OffensiveMult: 1
+DefensiveMult: 0.2
+GroupOffensiveMult: 0.76
+EquipmentScoreMultMelee: 10
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 2.43
+  PowerAttackStaggeredMult: 4.05
+  PowerAttackBlockingMult: 6.08
+  BashMult: 5
+  BashRecoilMult: 2.43
+  BashAttackMult: 5
+  BashPowerAttackMult: 2.43
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.73
+  FallbackMult: 0.43
+  FlankDistance: 0.2
+  StalkTime: 0.2
+LongRangeStrafeMult: 0.2
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling
+- AllowDualWielding
+MajorFlags:
+- AllowDualWielding

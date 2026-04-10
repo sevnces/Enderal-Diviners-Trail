@@ -1,0 +1,24 @@
+FormKey: 065C9A:Skyrim.esm
+EditorID: FoodGoatMeat
+ObjectBounds:
+  First: -19, -16, -1
+  Second: 19, 16, 14
+Name:
+  TargetLanguage: English
+  Value: 'Raw: Goat Meat'
+Keywords:
+- 0A0E56:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\GoatMeat.nif
+  Data: 0x02000000020000000000000030C7269A64647300604DDD5C02F66F4D64647300604DDD5C
+Weight: 1
+Value: 3
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 20

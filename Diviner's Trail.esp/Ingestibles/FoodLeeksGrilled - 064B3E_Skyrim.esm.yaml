@@ -1,0 +1,29 @@
+FormKey: 064B3E:Skyrim.esm
+EditorID: FoodLeeksGrilled
+ObjectBounds:
+  First: -11, -5, 0
+  Second: 14, 4, 4
+Name:
+  TargetLanguage: English
+  Value: 'Treat: Grilled Leek'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Clutter\Food\GrilledLeeks01.nif
+  Data: 0x020000000400000000000000252206E864647300134C1EFAC174BAAA64647300134C1EFA921910EE64647300B91482368CA335B064647300B9148236
+Weight: 0.1
+Value: 5
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 120
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 100
+    Duration: 120

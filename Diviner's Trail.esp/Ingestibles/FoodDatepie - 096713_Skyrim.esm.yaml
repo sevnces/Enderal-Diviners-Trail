@@ -1,0 +1,28 @@
+FormKey: 096713:Skyrim.esm
+EditorID: FoodDatepie
+ObjectBounds:
+  First: -11, -11, -4
+  Second: 12, 11, 0
+Name:
+  TargetLanguage: English
+  Value: 'Baked: Date Cake'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\Pie01.nif
+  Data: 0x020000000000000000000000
+Weight: 0.5
+Value: 15
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 360
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 180
+    Duration: 360

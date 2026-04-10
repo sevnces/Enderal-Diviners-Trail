@@ -1,0 +1,13 @@
+FormKey: 000052:Enderal - Diviner's Trail.esp
+EditorID: HarvestPumpkin
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 10D666:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000053:Enderal - Diviner's Trail.esp
+    Count: 2

@@ -1,0 +1,29 @@
+FormKey: 0C5663:Skyrim.esm
+EditorID: _00E_FoodSausage
+ObjectBounds:
+  First: -117, -28, -117
+  Second: 117, 28, 117
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Cooked Sausage'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Enderal\food\foodsausages.nif
+  Data: 0x020000000000000000000000
+Weight: 0.1
+Value: 6
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 120
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 200
+    Duration: 120

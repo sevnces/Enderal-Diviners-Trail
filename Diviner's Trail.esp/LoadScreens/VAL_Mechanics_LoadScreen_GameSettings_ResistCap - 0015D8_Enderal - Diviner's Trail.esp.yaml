@@ -1,0 +1,13 @@
+FormKey: 0015D8:Enderal - Diviner's Trail.esp
+EditorID: VAL_Mechanics_LoadScreen_GameSettings_ResistCap
+Description:
+  TargetLanguage: English
+  Value: Damage reduction from armor, blocking and resistances cannot exceed 75%.
+LoadingScreenNif: 106848:Skyrim.esm
+InitialScale: 1
+InitialRotation: 0, 0, 5
+RotationOffsetConstraints:
+  Min: -120
+  Max: 120
+InitialTranslationOffset: -16, 0, 32
+CameraPath: Cameras\LSCameraPanDown01.nif

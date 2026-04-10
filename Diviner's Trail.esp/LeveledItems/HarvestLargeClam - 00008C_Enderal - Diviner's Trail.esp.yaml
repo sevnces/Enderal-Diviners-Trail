@@ -1,0 +1,13 @@
+FormKey: 00008C:Enderal - Diviner's Trail.esp
+EditorID: HarvestLargeClam
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0EBA03:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 00008D:Enderal - Diviner's Trail.esp
+    Count: 1

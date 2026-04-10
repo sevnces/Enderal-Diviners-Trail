@@ -1,0 +1,9 @@
+FormKey: 00179D:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionInvisibility02
+Items:
+- Item:
+    Item: 033A65:Skyrim.esm
+    Count: 3
+CreatedObject: 11A52A:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

@@ -1,0 +1,9 @@
+FormKey: 0017BD:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionChymicumSturdiness02
+Items:
+- Item:
+    Item: 02EE20:Enderal - Forgotten Stories.esm
+    Count: 3
+CreatedObject: 02EE36:Enderal - Forgotten Stories.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

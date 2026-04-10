@@ -1,0 +1,153 @@
+FormKey: 001602:Enderal - Diviner's Trail.esp
+EditorID: VAL_SKSE_Quest
+VirtualMachineAdapter:
+  Scripts:
+  - Name: Algiz_SKSE_Quest
+    Properties:
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat
+      Data: Dynamic Combat
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Desc_DisableAimPunch
+      Data: Disables the swaying aim and interrupt chance when holding a fully drawn bow at 0 Stamina.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Desc_DisableAttacksOfOpprtunity
+      Data: Disables the bonus damage dealt by and to the player when the target is power attacking, drawing a bow, casting a spell (without a ward), staggered, knocked down, etc.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Desc_DisableBowStaminaCost
+      Data: Disables the Stamina freeze when drawing a bow and the Stamina drain when holding a fully drawn bow.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Desc_DisableDamageNerf
+      Data: Disables the attack damage reduction at 0 Stamina.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Desc_DisableDynamicCombatCloak
+      Data: Disables the Dynamic Combat cloak. This hidden ability applies features such as Stamina costs to all NPCs on the battlefield. It uses no scripts and causes no script load, but some older mods may run heavy scripts whenever any actor is affected by any effect, including this cloak. It is recommended to uninstall those mods as this is considered a design flaw and a source of performance issues, but if you want to keep those mods, you can use this setting to disable the cloak, at the cost of losing its associated features.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Desc_DisableRest
+      Data: Disables the Magicka and Stamina regeneration bonus when hands are down.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Desc_DisableSlow
+      Data: Disables the speed reduction at 0 Stamina.
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_DynamicCombat_Global_DisableAimPunch
+      Object: 0015FE:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_DynamicCombat_Global_DisableAttacksOfOpprtunity
+      Object: 0015EF:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_DynamicCombat_Global_DisableBowStaminaCost
+      Object: 0015F0:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_DynamicCombat_Global_DisableDamageNerf
+      Object: 0015FF:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_DynamicCombat_Global_DisableDynamicCombatCloak
+      Object: 0015FD:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_DynamicCombat_Global_DisableRest
+      Object: 0015F5:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_DynamicCombat_Global_DisableSlow
+      Object: 0015F6:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Text_DisableAimPunch
+      Data: '0 Stamina: Disable Bow Aim Punch'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Text_DisableAttacksOfOpprtunity
+      Data: Disable Attacks of Opportunity
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Text_DisableBowStaminaCost
+      Data: Disable Bow Stamina Cost
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Text_DisableDamageNerf
+      Data: '0 Stamina: Disable Damage Reduction'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Text_DisableDynamicCombatCloak
+      Data: Disable Dynamic Combat Cloak
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Text_DisableRest
+      Data: Disable Resting Regeneration Bonus
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_DynamicCombat_Text_DisableSlow
+      Data: '0 Stamina: Disable Slow'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Desc_FullBodyStagger_Random
+      Data: Player chance to suffer a "full body stagger" (hard interrupt) when staggered at 0 Stamina. (NPCs always suffer full body stagger.)
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Desc_MinimumStaminaCost_Bash
+      Data: Minimum amount of Stamina required to perform a shield or weapon bash.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Desc_MinimumStaminaCost_Bow
+      Data: Minimum amount of Stamina required to draw a bow.
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Desc_MinimumStaminaCost_PowerAttack
+      Data: Minimum amount of Stamina required to perform a power attack.
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_Mechanics_Global_FullBodyStagger_Random
+      Object: 0015F8:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_Mechanics_Global_MinimumStaminaCost_Bash
+      Object: 0015F4:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_Mechanics_Global_MinimumStaminaCost_Bow
+      Object: 0015F7:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Algiz_Mechanics_Global_MinimumStaminaCost_PowerAttack
+      Object: 0015F3:Enderal - Diviner's Trail.esp
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Parse_FullBodyStagger_Random
+      Data: '{0}%'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Parse_MinimumStaminaCost_Bash
+      Data: '{0} Stamina'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Parse_MinimumStaminaCost_Bow
+      Data: '{0} Stamina'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Parse_MinimumStaminaCost_PowerAttack
+      Data: '{0} Stamina'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Text_FullBodyStagger_Random
+      Data: '0 Stamina: Hard Interrupt on Stagger'
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Text_MinimumStaminaCost_Bash
+      Data: Required for Bash
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Text_MinimumStaminaCost_Bow
+      Data: Required for Bow Draw
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Mechanics_Text_MinimumStaminaCost_PowerAttack
+      Data: Required for Power Attack
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Misc
+      Data: Miscellaneous
+    - MutagenObjectType: ScriptStringProperty
+      Name: Algiz_Stamina
+      Data: stamina
+    - MutagenObjectType: ScriptStringProperty
+      Name: ModName
+      Data: Diviner's Trail - Combat
+  FileName: ''
+  Aliases:
+  - Property:
+      Name: ''
+      Object: 001602:Enderal - Diviner's Trail.esp
+      Alias: 0
+    Scripts:
+    - Name: SKI_PlayerLoadGameAlias
+Name:
+  TargetLanguage: English
+  Value: Diviner's Trail Combat MCM
+Flags:
+- StartGameEnabled
+- AllowRepeatedStages
+- 0x10
+- RunOnce
+Priority: 100
+Filter: Algiz\
+NextAliasID: 1
+Aliases:
+- Name: VAL_Player
+  Flags: []
+  ForcedReference: 000014:Skyrim.esm
+  VoiceTypes: Null

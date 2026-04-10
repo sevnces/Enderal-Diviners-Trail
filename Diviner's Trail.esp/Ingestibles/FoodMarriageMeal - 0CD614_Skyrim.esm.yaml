@@ -1,0 +1,28 @@
+FormKey: 0CD614:Skyrim.esm
+EditorID: FoodMarriageMeal
+ObjectBounds:
+  First: -13, -12, -4
+  Second: 12, 13, 1
+Name:
+  TargetLanguage: English
+  Value: 'Baked: White Cake'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\Pie01.nif
+  Data: 0x020000000200000000000000692D16DD64647300604DDD5C495CC96664647300604DDD5C
+Weight: 1
+Value: 8
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 600
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 180
+    Duration: 600

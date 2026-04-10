@@ -1,0 +1,17 @@
+FormKey: 03AD78:Skyrim.esm
+EditorID: DeathItemBearCave
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD53:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 065C99:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 000095:Enderal - Diviner's Trail.esp
+    Count: 1

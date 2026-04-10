@@ -1,0 +1,7 @@
+FormKey: 00174B:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonIronStaff
+Model:
+  File: weapons\NewArmoury\QuarterStaffs\IronStaff.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

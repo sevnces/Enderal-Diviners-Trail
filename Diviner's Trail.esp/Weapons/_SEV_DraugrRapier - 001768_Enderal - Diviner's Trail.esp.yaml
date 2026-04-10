@@ -1,0 +1,52 @@
+FormKey: 001768:Enderal - Diviner's Trail.esp
+EditorID: _SEV_DraugrRapier
+Name:
+  TargetLanguage: English
+  Value: Silver Steel Rapier
+Model:
+  File: weapons\NewArmoury\Rapier\DraugrRapier.nif
+  Data: 0x020000000000000000000000
+EquipmentType: 013F42:Skyrim.esm
+BlockBashImpact: 0183FF:Skyrim.esm
+AlternateBlockMaterial: 0774C2:Skyrim.esm
+Keywords:
+- 01E711:Skyrim.esm
+- 08F958:Skyrim.esm
+- 0C5C01:Skyrim.esm
+- 00170B:Enderal - Diviner's Trail.esp
+- 001710:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 013CAC:Skyrim.esm
+FirstPersonModel: 00172F:Enderal - Diviner's Trail.esp
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03C72E:Skyrim.esm
+UnequipSound: 03C72F:Skyrim.esm
+BasicStats:
+  Value: 13
+  Weight: 9
+  Damage: 15
+Data:
+  AnimationType: OneHandSword
+  Unused: 0x000000
+  Speed: 1.3
+  Reach: 1.35
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1061997773
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+  Stagger: 0.75
+Critical:
+  Damage: 11
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Normal

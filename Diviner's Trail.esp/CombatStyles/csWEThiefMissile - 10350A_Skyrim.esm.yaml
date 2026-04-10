@@ -1,0 +1,38 @@
+FormKey: 10350A:Skyrim.esm
+EditorID: csWEThiefMissile
+OffensiveMult: 0.9
+DefensiveMult: 0.3
+GroupOffensiveMult: 0.85
+EquipmentScoreMultMelee: 0.5
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 10
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 0.5
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 2
+  PowerAttackStaggeredMult: 2
+  PowerAttackBlockingMult: 2
+  BashMult: 1
+  BashRecoilMult: 2
+  BashAttackMult: 2
+  BashPowerAttackMult: 2
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.45
+  FallbackMult: 0.65
+  FlankDistance: 0.15
+  StalkTime: 0.25
+LongRangeStrafeMult: 0.4
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Flanking

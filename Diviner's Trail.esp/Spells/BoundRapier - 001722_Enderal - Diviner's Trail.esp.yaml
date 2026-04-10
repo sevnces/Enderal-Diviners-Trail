@@ -1,0 +1,21 @@
+FormKey: 001722:Enderal - Diviner's Trail.esp
+EditorID: BoundRapier
+Name:
+  TargetLanguage: English
+  Value: Bound Rapier
+MenuDisplayObject: 10AB43:Skyrim.esm
+EquipmentType: 013F44:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+BaseCost: 92
+ChargeTime: 0.5
+CastType: FireAndForget
+HalfCostPerk: 0F2CA7:Skyrim.esm
+Effects:
+- BaseEffect: 001713:Enderal - Diviner's Trail.esp
+  Data:
+    Duration: 120
+- BaseEffect: 001714:Enderal - Diviner's Trail.esp
+  Data:
+    Duration: 120

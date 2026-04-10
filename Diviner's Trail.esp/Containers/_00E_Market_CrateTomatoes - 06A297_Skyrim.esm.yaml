@@ -1,0 +1,12 @@
+FormKey: 06A297:Skyrim.esm
+EditorID: _00E_Market_CrateTomatoes
+Name:
+  TargetLanguage: English
+  Value: Tomatoes
+Model:
+  File: Enderal\Clutter\containers\food_container\crate_tomatoes.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 064B42:Skyrim.esm
+    Count: 3

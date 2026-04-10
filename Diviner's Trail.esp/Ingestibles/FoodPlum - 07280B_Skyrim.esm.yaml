@@ -1,0 +1,22 @@
+FormKey: 07280B:Skyrim.esm
+EditorID: FoodPlum
+Name:
+  TargetLanguage: English
+  Value: 'Fruit: Plum'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Enderal\Food\plum.nif
+  Data: 0x020000000000000000000000
+Weight: 0.1
+Value: 3
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 20

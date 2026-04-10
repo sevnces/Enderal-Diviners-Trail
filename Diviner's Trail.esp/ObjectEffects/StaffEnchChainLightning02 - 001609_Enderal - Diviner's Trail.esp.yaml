@@ -1,0 +1,19 @@
+FormKey: 001609:Enderal - Diviner's Trail.esp
+EditorID: StaffEnchChainLightning02
+Name:
+  TargetLanguage: English
+  Value: Chain Lightning
+EnchantmentCost: 150
+CastType: FireAndForget
+EnchantmentAmount: 150
+TargetType: Aimed
+EnchantType: StaffEnchantment
+ChargeTime: 0.5
+Effects:
+- BaseEffect: 05DBAE:Skyrim.esm
+  Data:
+    Magnitude: 60
+    Area: 30
+- BaseEffect: 0A44C0:Skyrim.esm
+  Data:
+    Magnitude: 1

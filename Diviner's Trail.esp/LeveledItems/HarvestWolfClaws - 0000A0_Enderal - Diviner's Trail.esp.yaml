@@ -1,0 +1,8 @@
+FormKey: 0000A0:Enderal - Diviner's Trail.esp
+EditorID: HarvestWolfClaws
+ChanceNone: 0.4
+Entries:
+- Data:
+    Level: 1
+    Reference: 02F090:Enderal - Forgotten Stories.esm
+    Count: 1

@@ -1,0 +1,29 @@
+FormKey: 064B3D:Skyrim.esm
+EditorID: FoodSweetroll
+ObjectBounds:
+  First: -9, -9, 0
+  Second: 9, 9, 15
+Name:
+  TargetLanguage: English
+  Value: 'Treat: Endralean Sugar Braid'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\SweetRoll01.nif
+  Data: 0x0200000002000000000000007F34A00664647300604DDD5CE89A3A1E64647300604DDD5C
+Weight: 0.2
+Value: 6
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 180
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 180
+    Duration: 180

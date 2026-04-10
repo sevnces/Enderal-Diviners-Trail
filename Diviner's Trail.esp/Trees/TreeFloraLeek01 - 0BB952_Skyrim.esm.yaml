@@ -1,0 +1,19 @@
+FormKey: 0BB952:Skyrim.esm
+EditorID: TreeFloraLeek01
+ObjectBounds:
+  First: -43, -60, -25
+  Second: 44, 58, 34
+Model:
+  File: Plants\FloraLeek01.nif
+  Data: 0x02000000040000000000000022C6111B646473003B114A8770379C42646473003B114A87252206E864647300134C1EFAC174BAAA64647300134C1EFA
+Ingredient: 000042:Enderal - Diviner's Trail.esp
+HarvestSound: 03CC09:Skyrim.esm
+Production: {}
+Name:
+  TargetLanguage: English
+  Value: Leek
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0AD7233D8FC2F53C0AD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 3
+LeafFrequency: 0.5

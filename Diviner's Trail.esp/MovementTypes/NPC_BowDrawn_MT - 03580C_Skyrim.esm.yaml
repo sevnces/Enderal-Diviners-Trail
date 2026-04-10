@@ -1,0 +1,18 @@
+FormKey: 03580C:Skyrim.esm
+EditorID: NPC_BowDrawn_MT
+Name: NPCBowDrawn
+LeftWalk: 50
+LeftRun: 90
+RightWalk: 50
+RightRun: 90
+ForwardWalk: 75
+ForwardRun: 150
+BackWalk: 40
+BackRun: 70
+RotateInPlaceWalk: 60.000023
+RotateInPlaceRun: 60.000023
+RotateWhileMovingRun: 60.000023
+AnimationChangeThresholds:
+  Directional: 3.4028235E+38
+  MovementSpeed: 3.4028235E+38
+  RotationSpeed: 3.4028235E+38

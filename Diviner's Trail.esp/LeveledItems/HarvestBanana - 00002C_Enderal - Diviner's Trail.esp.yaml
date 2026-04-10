@@ -1,0 +1,13 @@
+FormKey: 00002C:Enderal - Diviner's Trail.esp
+EditorID: HarvestBanana
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 08B2D5:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00002D:Enderal - Diviner's Trail.esp
+    Count: 2

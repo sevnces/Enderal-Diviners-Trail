@@ -1,0 +1,13 @@
+FormKey: 000086:Enderal - Diviner's Trail.esp
+EditorID: HarvestLeafGullNest
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 14F586:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000087:Enderal - Diviner's Trail.esp
+    Count: 2

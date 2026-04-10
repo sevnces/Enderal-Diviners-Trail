@@ -1,0 +1,38 @@
+FormKey: 0015E9:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_RegenStamina_CloakProc
+Name:
+  TargetLanguage: English
+  Value: Regenerate Stamina Aimed
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- NoHitEvent
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: StaminaRate
+Projectile: 012FCF:Skyrim.esm
+CastType: Concentration
+TargetType: Aimed
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: IsWeaponMagicOutConditionData
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetGlobalValueConditionData
+    Global: 0015F5:Enderal - Diviner's Trail.esp
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetGlobalValueConditionData
+    Global: 0015F1:Enderal - Diviner's Trail.esp

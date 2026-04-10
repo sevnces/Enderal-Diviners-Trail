@@ -1,0 +1,9 @@
+FormKey: 00001F:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeFoodBasicScorchedSalmonMeat
+Items:
+- Item:
+    Item: 065C9F:Skyrim.esm
+    Count: 1
+CreatedObject: 000024:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

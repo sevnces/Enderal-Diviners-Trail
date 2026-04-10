@@ -1,0 +1,23 @@
+FormKey: 1016A3:Skyrim.esm
+EditorID: ChaurusEggSac03
+ObjectBounds:
+  First: -22, -24, -7
+  Second: 27, 30, 21
+Name:
+  TargetLanguage: English
+  Value: Pus Beetle Eggs
+Model:
+  File: Clutter\ChaurusEggs\Eggsacs02.nif
+  Data: 0x0200000003000000000000007A412E506464730070932EE490BD22436464730070932EE43405FE3A6464730070932EE4
+PNAM: 0x00000000
+ActivateTextOverride:
+  TargetLanguage: English
+  Value: Harvest
+FNAM: 0x0000
+Ingredient: 000080:Enderal - Diviner's Trail.esp
+HarvestSound: 03F8CA:Skyrim.esm
+Production:
+  Spring: 100
+  Summer: 100
+  Fall: 100
+  Winter: 100

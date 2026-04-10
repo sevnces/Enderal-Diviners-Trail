@@ -1,0 +1,7 @@
+FormKey: 001729:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonRighteousPathRapier
+Model:
+  File: weapons\NewArmoury\Rapier\EbonyRapier.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

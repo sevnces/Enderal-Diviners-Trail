@@ -1,0 +1,28 @@
+FormKey: 0E8448:Skyrim.esm
+EditorID: FoodCharredSkeeverMeat
+ObjectBounds:
+  First: -15, -6, 0
+  Second: 15, 5, 3
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Roasted Wither Rat'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Food\CharredSkeeverMeat01.nif
+  Data: 0x020000000200000000000000510D2B7564647300B91482364768384A64647300B9148236
+Weight: 0.25
+Value: 4
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 240
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 120
+    Duration: 240

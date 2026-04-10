@@ -1,0 +1,16 @@
+FormKey: 02E4E6:Skyrim.esm
+EditorID: SoulGemCommon
+ObjectBounds:
+  First: -3, -3, -11
+  Second: 3, 3, 11
+Name:
+  TargetLanguage: English
+  Value: 'Pyrean Crystal: Common '
+Model:
+  File: Clutter\SoulGem\SoulGemCommon01.nif
+  Data: 0x0200000004000000000000001947100764647300F7BB845BFF7791E464647300F7BB845B8B83000864647300F7BB845BA83708C164647300262C333B
+Keywords:
+- 0937A3:Skyrim.esm
+Value: 50
+Weight: 0.3
+MaximumCapacity: Common

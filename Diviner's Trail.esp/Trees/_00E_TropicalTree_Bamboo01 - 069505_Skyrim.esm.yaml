@@ -1,0 +1,14 @@
+FormKey: 069505:Skyrim.esm
+EditorID: _00E_TropicalTree_Bamboo01
+ObjectBounds:
+  First: -27, -33, -6
+  Second: 26, 29, 142
+Model:
+  File: Enderal\landscape\Tropical\Vegetation\Bamboo01.nif
+  Data: 0x020000000000000000000000
+Ingredient: 000090:Enderal - Diviner's Trail.esp
+HarvestSound: 0FB975:Skyrim.esm
+Production: {}
+Unknown: 0x000000000000000000000000000000000000000000000000000000000000803F
+LeafAmplitude: 5
+LeafFrequency: 0.5

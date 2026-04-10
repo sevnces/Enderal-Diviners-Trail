@@ -1,0 +1,32 @@
+FormKey: 0F431E:Skyrim.esm
+EditorID: FoodVegetableSoup
+ObjectBounds:
+  First: -6, -6, -3
+  Second: 6, 6, 2
+Name:
+  TargetLanguage: English
+  Value: 'Soup: Vegetable Soup'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\Stew.nif
+  Data: 0x0200000004000000000000008E5603C464647300604DDD5CC38821B064647300604DDD5C4D763A52646473008EAEA792BFBA986B646473008EAEA792
+PickUpSound: 0FC21F:Skyrim.esm
+Weight: 1
+Value: 5
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 10E2EA:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 600
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 100
+    Duration: 600
+- BaseEffect: 0AE722:Skyrim.esm
+  Data:
+    Magnitude: 2

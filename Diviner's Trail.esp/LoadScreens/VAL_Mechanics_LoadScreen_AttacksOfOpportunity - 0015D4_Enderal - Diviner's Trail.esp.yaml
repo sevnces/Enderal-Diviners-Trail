@@ -1,0 +1,13 @@
+FormKey: 0015D4:Enderal - Diviner's Trail.esp
+EditorID: VAL_Mechanics_LoadScreen_AttacksOfOpportunity
+Description:
+  TargetLanguage: English
+  Value: Perform an "attack of opportunity" for extra damage while the opponent is power attacking, drawing a bow, casting a spell, staggered, paralyzed or facing away.
+LoadingScreenNif: 036F65:Skyrim.esm
+InitialScale: 1.3
+InitialRotation: 0, 0, 5
+RotationOffsetConstraints:
+  Min: -50
+  Max: 50
+InitialTranslationOffset: -25, 0, -45
+CameraPath: Cameras\LSCameraPanZoomInSmall.nif

@@ -1,0 +1,16 @@
+FormKey: 088024:Skyrim.esm
+EditorID: _00E_TropicalTree_PhilodendronGloriosum01
+ObjectBounds:
+  First: -58, -55, -4
+  Second: 72, 68, 113
+Model:
+  File: Enderal\landscape\Tropical\Vegetation\PhilodendronGloriosum01.nif
+  Data: 0x020000000000000000000000
+Ingredient: 000090:Enderal - Diviner's Trail.esp
+HarvestSound: 0FB975:Skyrim.esm
+Production: {}
+TrunkFlexibility: 2
+BranchFlexibility: 2
+Unknown: 0x0AD7A33D8FC2753D0AD7A33D96438B3D0000803F0000803FCDCC4C3F0000803F
+LeafAmplitude: 0.4
+LeafFrequency: 0.3

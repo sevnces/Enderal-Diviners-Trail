@@ -1,0 +1,25 @@
+FormKey: 0015ED:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_DrainAttackDamage_Ab
+Name:
+  TargetLanguage: English
+  Value: Drain Attack Damage
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- Detrimental
+- NoHitEvent
+- NoDuration
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: AttackDamageMult
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''

@@ -1,0 +1,13 @@
+FormKey: 0015D3:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_LoadScreen_Rest
+Description:
+  TargetLanguage: English
+  Value: Magicka and Stamina regenerate faster when weapons and spells are sheathed.
+LoadingScreenNif: 10685B:Skyrim.esm
+InitialScale: 1.55
+InitialRotation: 0, 0, 5
+RotationOffsetConstraints:
+  Min: -50
+  Max: 50
+InitialTranslationOffset: 0, 0, -45
+CameraPath: Cameras\LSCameraPanZoomInSmall.nif

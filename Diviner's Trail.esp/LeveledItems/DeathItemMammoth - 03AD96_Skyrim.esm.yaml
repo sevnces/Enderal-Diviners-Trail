@@ -1,0 +1,13 @@
+FormKey: 03AD96:Skyrim.esm
+EditorID: DeathItemMammoth
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD6C:Skyrim.esm
+    Count: 4
+- Data:
+    Level: 1
+    Reference: 0669A4:Skyrim.esm
+    Count: 6

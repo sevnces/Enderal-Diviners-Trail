@@ -1,0 +1,206 @@
+FormKey: 072662:Skyrim.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: _05E_Grubenratte
+SkyrimMajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: _00E_EPOnDeath
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BlameSpellKeyword
+      Object: 05BD16:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: EPFaction
+      Object: 039DCE:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptIntProperty
+      Name: RewardExp
+      Data: 20
+ObjectBounds:
+  First: -15, -62, 0
+  Second: 15, 62, 56
+Configuration:
+  Level:
+    MutagenObjectType: NpcLevel
+    Level: 5
+  SpeedMultiplier: 100
+  DispositionBase: 35
+  HealthOffset: 35
+Factions:
+- Faction: 02F42F:Enderal - Forgotten Stories.esm
+  Fluff: 0x000000
+- Faction: 046E73:Skyrim.esm
+  Fluff: 0x000000
+- Faction: 046E7E:Skyrim.esm
+  Fluff: 0x000000
+DeathItem: 00009A:Enderal - Diviner's Trail.esp
+Race: 0133E5:Enderal - Forgotten Stories.esm
+AttackRace: 0133E5:Enderal - Forgotten Stories.esm
+Attacks:
+- AttackData:
+    DamageMult: 1.5
+    Chance: 0.33
+    Spell: 0B877C:Skyrim.esm
+    Flags:
+    - OverrideData
+    StrikeAngle: 35
+    StaminaMult: 1
+  AttackEvent: attackStart_Attack1
+- AttackData:
+    DamageMult: 1.5
+    Chance: 0.33
+    Spell: 0B877C:Skyrim.esm
+    Flags:
+    - OverrideData
+    StrikeAngle: 35
+    StaminaMult: 1
+  AttackEvent: attackStart_Attack2
+- AttackData:
+    DamageMult: 1.5
+    Chance: 1
+    Spell: 0B877C:Skyrim.esm
+    Flags:
+    - PowerAttack
+    - OverrideData
+    StrikeAngle: 35
+    Stagger: 0.1
+    StaminaMult: 1
+  AttackEvent: attackStart_ForwardPower
+- AttackData:
+    DamageMult: 2
+    Spell: 0B877C:Skyrim.esm
+    Flags:
+    - OverrideData
+    StrikeAngle: 35
+    StaminaMult: 1
+  AttackEvent: attackStart_SkeeverLungeLong
+- AttackData:
+    DamageMult: 2
+    Chance: 1
+    Spell: 0B877C:Skyrim.esm
+    Flags:
+    - OverrideData
+    StrikeAngle: 35
+    StaminaMult: 1
+  AttackEvent: attackStart_SkeeverLungeMedium
+- AttackData:
+    DamageMult: 2
+    Chance: 1
+    Spell: 0B877C:Skyrim.esm
+    Flags:
+    - OverrideData
+    StrikeAngle: 35
+    StaminaMult: 1
+  AttackEvent: attackStart_SkeeverLungeShort
+Items:
+- Item:
+    Item: 03AD6F:Skyrim.esm
+    Count: 1
+AIData:
+  Confidence: Average
+  EnergyLevel: 50
+  Responsibility: NoCrime
+  Mood: Angry
+  Assistance: HelpsAllies
+  AggroRadiusBehavior: True
+  Warn: 800
+  WarnOrAttack: 500
+  Attack: 500
+Class: 0BB4B0:Skyrim.esm
+Name:
+  TargetLanguage: English
+  Value: Fully-Grown Rat
+PlayerSkills:
+  SkillValues:
+  - Key: OneHanded
+    Value: 21
+  - Key: TwoHanded
+    Value: 15
+  - Key: Archery
+    Value: 15
+  - Key: Block
+    Value: 17
+  - Key: Smithing
+    Value: 16
+  - Key: HeavyArmor
+    Value: 15
+  - Key: LightArmor
+    Value: 15
+  - Key: Pickpocket
+    Value: 16
+  - Key: Lockpicking
+    Value: 15
+  - Key: Sneak
+    Value: 26
+  - Key: Alchemy
+    Value: 15
+  - Key: Speech
+    Value: 17
+  - Key: Alteration
+    Value: 15
+  - Key: Conjuration
+    Value: 15
+  - Key: Destruction
+    Value: 15
+  - Key: Illusion
+    Value: 15
+  - Key: Restoration
+    Value: 15
+  - Key: Enchanting
+    Value: 15
+  SkillOffsets:
+  - Key: OneHanded
+    Value: 0
+  - Key: TwoHanded
+    Value: 0
+  - Key: Archery
+    Value: 0
+  - Key: Block
+    Value: 0
+  - Key: Smithing
+    Value: 0
+  - Key: HeavyArmor
+    Value: 0
+  - Key: LightArmor
+    Value: 0
+  - Key: Pickpocket
+    Value: 0
+  - Key: Lockpicking
+    Value: 0
+  - Key: Sneak
+    Value: 0
+  - Key: Alchemy
+    Value: 0
+  - Key: Speech
+    Value: 0
+  - Key: Alteration
+    Value: 0
+  - Key: Conjuration
+    Value: 0
+  - Key: Destruction
+    Value: 0
+  - Key: Illusion
+    Value: 0
+  - Key: Restoration
+    Value: 0
+  - Key: Enchanting
+    Value: 0
+  Health: 44
+  Magicka: 4
+  Stamina: 17
+  GearedUpWeapons: 1
+CombatStyle: 03CEDF:Skyrim.esm
+NAM5: 255
+Height: 1
+Weight: 10
+SoundLevel: Normal
+Sound:
+  MutagenObjectType: NpcInheritSound
+  InheritsSoundsFrom: 008D25:Skyrim.esm
+TextureLighting: '#00000000'
+MajorFlags:
+- 0x40000

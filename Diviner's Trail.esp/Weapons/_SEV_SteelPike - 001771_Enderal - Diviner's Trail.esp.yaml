@@ -1,0 +1,55 @@
+FormKey: 001771:Enderal - Diviner's Trail.esp
+EditorID: _SEV_SteelPike
+ObjectBounds:
+  First: -12, -33, -4
+  Second: 18, 52, 4
+Name:
+  TargetLanguage: English
+  Value: Steel Pike
+Model:
+  File: weapons\NewArmoury\Pikes\SteelPike.nif
+  Data: 0x0200000008000000000000004FABDC0564647300A0B86305D09B0BBB64647300A0B86305B221CCA164647300A0B86305DA8E929164647300262C333BBEA1A92A6464730014F240E62537BE4C6464730014F240E6B8EC307B64647300262C333B9F66B7D56464730014F240E6
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 01E719:Skyrim.esm
+- 06D931:Skyrim.esm
+- 08F958:Skyrim.esm
+- 00170C:Enderal - Diviner's Trail.esp
+- 001710:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0949D5:Skyrim.esm
+FirstPersonModel: 00173C:Enderal - Diviner's Trail.esp
+AttackFailSound: 0E4CAC:Skyrim.esm
+EquipSound: 0E4F10:Skyrim.esm
+UnequipSound: 0E4F11:Skyrim.esm
+BasicStats:
+  Value: 99
+  Weight: 15
+  Damage: 9
+Data:
+  AnimationType: TwoHandSword
+  Unused: 0x000000
+  Speed: 1.2
+  Reach: 1.75
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1069547520
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 0.3
+Critical:
+  Damage: 10
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Normal

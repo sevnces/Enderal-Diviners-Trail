@@ -1,0 +1,16 @@
+FormKey: 00000F:Enderal - Diviner's Trail.esp
+EditorID: _SEV_TemperWeaponShadowSteelSword
+Items:
+- Item:
+    Item: 05AD9D:Skyrim.esm
+    Count: 1
+Conditions:
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Smithing
+  ComparisonValue: 90
+CreatedObject: 000006:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 088108:Skyrim.esm
+CreatedObjectCount: 1

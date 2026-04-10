@@ -1,0 +1,11 @@
+FormKey: 0F77ED:Skyrim.esm
+EditorID: HelpEnchantingShort
+Description:
+  TargetLanguage: English
+  Value: To enchant an item, you must know an enchantment and have a filled Pyrean Crystal to power the enchantment. Enchantments are learned by disenchanting (destroying) enchanted items.
+Name:
+  TargetLanguage: English
+  Value: Enchantment
+INAM: 0x00000000
+Flags:
+- MessageBox

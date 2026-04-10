@@ -1,0 +1,10 @@
+FormKey: 000029:Enderal - Diviner's Trail.esp
+EditorID: HarvestLavenderSub
+ChanceNone: 0.9
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+Entries:
+- Data:
+    Level: 1
+    Reference: 045C28:Skyrim.esm
+    Count: 1

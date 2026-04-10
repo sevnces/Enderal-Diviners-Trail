@@ -1,0 +1,13 @@
+FormKey: 0015D9:Enderal - Diviner's Trail.esp
+EditorID: VAL_Mechanics_LoadScreen_AttacksOfOpportunity_VulnerableWhileCastingSpells
+Description:
+  TargetLanguage: English
+  Value: The mage takes more damage from attacks while casting a spell, unless protected by a Ward.
+LoadingScreenNif: 036F5E:Skyrim.esm
+InitialScale: 0.9
+InitialRotation: 0, 3, 8
+RotationOffsetConstraints:
+  Min: -30
+  Max: 30
+InitialTranslationOffset: -16, 0, -12
+CameraPath: Cameras\LSCameraPanDown01.nif

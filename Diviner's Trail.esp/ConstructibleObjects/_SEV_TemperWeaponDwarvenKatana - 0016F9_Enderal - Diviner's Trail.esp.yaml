@@ -1,0 +1,9 @@
+FormKey: 0016F9:Enderal - Diviner's Trail.esp
+EditorID: _SEV_TemperWeaponDwarvenKatana
+Items:
+- Item:
+    Item: 0DB8A2:Skyrim.esm
+    Count: 1
+CreatedObject: 001795:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 088108:Skyrim.esm
+CreatedObjectCount: 1

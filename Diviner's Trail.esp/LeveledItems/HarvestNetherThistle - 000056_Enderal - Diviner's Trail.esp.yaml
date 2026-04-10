@@ -1,0 +1,13 @@
+FormKey: 000056:Enderal - Diviner's Trail.esp
+EditorID: HarvestNetherThistle
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 13B622:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000057:Enderal - Diviner's Trail.esp
+    Count: 2

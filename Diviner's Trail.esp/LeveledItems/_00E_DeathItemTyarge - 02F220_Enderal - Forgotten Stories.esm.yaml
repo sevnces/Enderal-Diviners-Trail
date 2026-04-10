@@ -1,0 +1,13 @@
+FormKey: 02F220:Enderal - Forgotten Stories.esm
+EditorID: _00E_DeathItemTyarge
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0FE6A9:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 148587:Skyrim.esm
+    Count: 2

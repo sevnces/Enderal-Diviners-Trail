@@ -1,0 +1,38 @@
+FormKey: 068849:Skyrim.esm
+EditorID: csHumanMeleeLvl3
+OffensiveMult: 0.95
+DefensiveMult: 0.4
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 3
+  PowerAttackStaggeredMult: 7.5
+  PowerAttackBlockingMult: 10
+  BashMult: 2
+  BashRecoilMult: 5
+  BashAttackMult: 5
+  BashPowerAttackMult: 10
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.6
+  FallbackMult: 0.4
+  FlankDistance: 0.2
+  StalkTime: 0.2
+LongRangeStrafeMult: 0.2
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling

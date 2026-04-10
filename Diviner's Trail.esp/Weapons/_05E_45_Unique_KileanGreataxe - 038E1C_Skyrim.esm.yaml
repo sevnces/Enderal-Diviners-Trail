@@ -1,0 +1,56 @@
+FormKey: 038E1C:Skyrim.esm
+EditorID: _05E_45_Unique_KileanGreataxe
+ObjectBounds:
+  First: -12, -68, -1
+  Second: 5, 73, 1
+Name:
+  TargetLanguage: English
+  Value: 'Unique: Halberd of the Kiléan Elder Guard'
+Model:
+  File: Enderal\weapons\Kilean\KileanGreataxe.nif
+  Data: 0x020000000000000000000000
+ObjectEffect: 05B46F:Skyrim.esm
+EnchantmentAmount: 3000
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 01E71E:Skyrim.esm
+- 06727B:Skyrim.esm
+- 06D932:Skyrim.esm
+- 08F958:Skyrim.esm
+- 14CE9A:Skyrim.esm
+- 00170D:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 036A5B:Skyrim.esm
+FirstPersonModel: 038E1B:Skyrim.esm
+AttackFailSound: 0E4CAC:Skyrim.esm
+EquipSound: 06036A:Skyrim.esm
+UnequipSound: 0605D3:Skyrim.esm
+BasicStats:
+  Value: 1585
+  Weight: 26
+  Damage: 39
+Data:
+  AnimationType: TwoHandAxe
+  Unused: 0x000000
+  Speed: 0.7
+  Reach: 1.3
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1068708659
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 1.15
+Critical:
+  Damage: 11
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Loud

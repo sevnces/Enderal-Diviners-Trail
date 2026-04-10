@@ -1,0 +1,55 @@
+FormKey: 001782:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RighteousPathQStaff
+ObjectBounds:
+  First: -15, -46, -3
+  Second: 19, 60, 3
+Name:
+  TargetLanguage: English
+  Value: Righteous Path Quarterstaff
+Model:
+  File: weapons\NewArmoury\QuarterStaffs\EbonyStaff.nif
+  Data: 0x0200000007000000000000004FE0756464647300A0B8630533168C0764647300A0B8630503D8C24064647300A0B86305EA8AAAA86464730083202CFF36D4D53E6464730083202CFFA83708C164647300262C333B8C85DCA76464730083202CFF
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 01E71E:Skyrim.esm
+- 06D930:Skyrim.esm
+- 08F958:Skyrim.esm
+- 00170E:Enderal - Diviner's Trail.esp
+- 001710:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0193B7:Skyrim.esm
+FirstPersonModel: 00174E:Enderal - Diviner's Trail.esp
+AttackFailSound: 0E4CAC:Skyrim.esm
+EquipSound: 0E4F10:Skyrim.esm
+UnequipSound: 0E4F11:Skyrim.esm
+BasicStats:
+  Value: 865
+  Weight: 20
+  Damage: 17
+Data:
+  AnimationType: TwoHandAxe
+  Unused: 0x000000
+  Speed: 1
+  Reach: 1.5
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1069547520
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 1.1
+Critical:
+  Damage: 9
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Silent

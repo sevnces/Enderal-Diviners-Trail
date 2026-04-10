@@ -1,0 +1,17 @@
+FormKey: 0CF289:Skyrim.esm
+EditorID: HelpEnchantingLong
+Description:
+  TargetLanguage: English
+  Value: >-
+    Use Arcane Enchanters to enchant weapons, armor, clothing or trinkets with magical effects which help you.
+
+
+    To enchant an item you need to know an enchantment and have a filled Pyrean Crystal with a soul powerful enough. You can learn enchantments by disenchanting (destroying) enchanted weapons and armor at an Arcane Enchanter. Once you have learned an enchantment, you can use it to enchant any number of items.
+
+
+    Most Pyrean Crystals start off empty, and must be filled with a creature's soul before they can be used. To fill a Pyrean Crystal, cast the Soul Trap spell on a creature and kill it before the spell wears off. Its soul will be captured.
+Name:
+  TargetLanguage: English
+  Value: Enchantment
+INAM: 0x00000000
+DisplayTime: 0

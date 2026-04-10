@@ -1,0 +1,54 @@
+FormKey: 0D22A9:Skyrim.esm
+EditorID: _02E_15_Unique_SkaiNuasHeads
+ObjectBounds:
+  First: -9, -14, -1
+  Second: 2, 57, 1
+Name:
+  TargetLanguage: English
+  Value: "Unique: Skai'Nua's Heads"
+Model:
+  File: Enderal\weapons\skaragg\SkaraggSlicer.nif
+  Data: 0x020000000000000000000000
+ObjectEffect: 02A49D:Enderal - Forgotten Stories.esm
+EnchantmentAmount: 2200
+EquipmentType: 013F42:Skyrim.esm
+BlockBashImpact: 0183FF:Skyrim.esm
+AlternateBlockMaterial: 0774C2:Skyrim.esm
+Keywords:
+- 01E711:Skyrim.esm
+- 01E719:Skyrim.esm
+- 08F958:Skyrim.esm
+- 14CE9A:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 013CAC:Skyrim.esm
+FirstPersonModel: 0D22A7:Skyrim.esm
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03C72E:Skyrim.esm
+UnequipSound: 03C72F:Skyrim.esm
+BasicStats:
+  Value: 600
+  Weight: 10
+  Damage: 16
+Data:
+  AnimationType: OneHandSword
+  Unused: 0x000000
+  Speed: 1
+  Reach: 1
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1061997773
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+  Stagger: 0.75
+Critical:
+  Damage: 4
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Normal

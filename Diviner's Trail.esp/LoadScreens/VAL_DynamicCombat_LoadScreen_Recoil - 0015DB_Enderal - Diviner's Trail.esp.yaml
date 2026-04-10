@@ -1,0 +1,13 @@
+FormKey: 0015DB:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_LoadScreen_Recoil
+Description:
+  TargetLanguage: English
+  Value: Blocking an attack causes the attacker to recoil.
+LoadingScreenNif: 106857:Skyrim.esm
+InitialScale: 1.6
+InitialRotation: 0, -20, 0
+RotationOffsetConstraints:
+  Min: -180
+  Max: 180
+InitialTranslationOffset: 0, 0, -12
+CameraPath: Cameras\LSCameraPanZoomInSmall.nif

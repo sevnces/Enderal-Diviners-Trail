@@ -1,0 +1,53 @@
+FormKey: 0EA29C:Skyrim.esm
+EditorID: _04E_35_FS_WintersEdge
+ObjectBounds:
+  First: -5, -22, -4
+  Second: 9, 88, 5
+Name:
+  TargetLanguage: English
+  Value: "Unique: Winter's Edge"
+Model:
+  File: Weapons\EbonyBlade\EbonyBlade.nif
+  Data: 0x0200000007000000000000004FE0756464647300A0B8630533168C0764647300A0B8630503D8C24064647300A0B8630545496A5C646473007FD15913DA132715646473007FD15913B65D9E1F64647300262C333BF63890AC64647300262C333B
+ObjectEffect: 024BD5:Enderal - Forgotten Stories.esm
+EnchantmentAmount: 1111
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0183FF:Skyrim.esm
+AlternateBlockMaterial: 097786:Skyrim.esm
+Keywords:
+- 06727B:Skyrim.esm
+- 06D931:Skyrim.esm
+- 0917E8:Skyrim.esm
+- 14CE9A:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: Does <6> points of frost damage. Critical hits freeze enemies for <2> seconds.
+ImpactDataSet: 0949D5:Skyrim.esm
+FirstPersonModel: 0C1434:Skyrim.esm
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03C8A9:Skyrim.esm
+UnequipSound: 03C8AA:Skyrim.esm
+BasicStats:
+  Value: 3333
+  Weight: 15
+  Damage: 45
+Data:
+  AnimationType: TwoHandSword
+  Unused: 0x000000
+  Speed: 0.75
+  Reach: 1.3
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1061997773
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 1
+Critical:
+  Damage: 10
+  PercentMult: 1
+  Unused2: 0x000000
+  Effect: 024BD4:Enderal - Forgotten Stories.esm
+DetectionSoundLevel: Loud

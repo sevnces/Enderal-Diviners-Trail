@@ -1,0 +1,7 @@
+FormKey: 0000CE:Enderal - Diviner's Trail.esp
+EditorID: _SEV_1stPersonShadowSteelBow
+Model:
+  File: SEV\ShadowSteelWeap\long_bow.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

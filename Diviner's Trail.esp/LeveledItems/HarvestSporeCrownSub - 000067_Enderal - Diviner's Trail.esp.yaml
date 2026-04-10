@@ -1,0 +1,10 @@
+FormKey: 000067:Enderal - Diviner's Trail.esp
+EditorID: HarvestSporeCrownSub
+ChanceNone: 0.9
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 04DA20:Skyrim.esm
+    Count: 1

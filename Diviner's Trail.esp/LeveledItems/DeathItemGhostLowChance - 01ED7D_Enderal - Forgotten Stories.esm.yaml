@@ -1,0 +1,13 @@
+FormKey: 01ED7D:Enderal - Forgotten Stories.esm
+EditorID: DeathItemGhostLowChance
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD63:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000094:Enderal - Diviner's Trail.esp
+    Count: 1

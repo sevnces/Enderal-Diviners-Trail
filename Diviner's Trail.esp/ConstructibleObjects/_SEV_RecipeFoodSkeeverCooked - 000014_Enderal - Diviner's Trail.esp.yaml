@@ -1,0 +1,9 @@
+FormKey: 000014:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeFoodSkeeverCooked
+Items:
+- Item:
+    Item: 000021:Enderal - Diviner's Trail.esp
+    Count: 1
+CreatedObject: 000022:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

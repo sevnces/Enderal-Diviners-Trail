@@ -1,0 +1,54 @@
+FormKey: 001796:Enderal - Diviner's Trail.esp
+EditorID: _SEV_AeternaKatana
+ObjectBounds:
+  First: -9, -13, -1
+  Second: 9, 69, 1
+Name:
+  TargetLanguage: English
+  Value: Aeterna Katana
+Model:
+  File: weapons\NewArmoury\Katana\ElvenKatana.nif
+  Data: 0x020000000A000000000000007318373764647300E1CA22649088578064647300E1CA2264B65D9E1F64647300262C333B2AD95E1964647300E1CA226433168C0764647300A0B8630503D8C24064647300A0B863054FE0756464647300A0B8630562F8D1296464730008EFABCB7C1104C96464730008EFABCBC6400D506464730008EFABCB
+EquipmentType: 013F42:Skyrim.esm
+BlockBashImpact: 0183FF:Skyrim.esm
+AlternateBlockMaterial: 0774C2:Skyrim.esm
+Keywords:
+- 01E711:Skyrim.esm
+- 01E71B:Skyrim.esm
+- 08F958:Skyrim.esm
+- 001711:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 013CAC:Skyrim.esm
+FirstPersonModel: 00175C:Enderal - Diviner's Trail.esp
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03C72E:Skyrim.esm
+UnequipSound: 03C72F:Skyrim.esm
+BasicStats:
+  Value: 235
+  Weight: 11
+  Damage: 35
+Data:
+  AnimationType: OneHandSword
+  Unused: 0x000000
+  Speed: 1
+  Reach: 1
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1061997773
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+  Stagger: 0.1
+Critical:
+  Damage: 7
+  Unused: -8699
+  PercentMult: 5
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Normal

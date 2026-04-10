@@ -1,0 +1,18 @@
+FormKey: 06A28B:Skyrim.esm
+EditorID: _00E_Market_CheesePlate
+ObjectBounds:
+  First: -8, -18, -1
+  Second: 8, 18, 5
+Name:
+  TargetLanguage: English
+  Value: Cheese
+Model:
+  File: Enderal\Food\CheeseBoard.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 064B31:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 064B32:Skyrim.esm
+    Count: 1

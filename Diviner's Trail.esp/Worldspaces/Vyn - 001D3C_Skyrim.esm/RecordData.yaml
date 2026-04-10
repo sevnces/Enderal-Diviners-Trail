@@ -1,0 +1,156 @@
+FormKey: 001D3C:Skyrim.esm
+EditorID: Vyn
+Name:
+  TargetLanguage: English
+  Value: Vyn, Enderal
+Location: 066859:Skyrim.esm
+Climate: 00015F:Skyrim.esm
+Water: 000018:Skyrim.esm
+LodWater: 000018:Skyrim.esm
+LodWaterHeight: 0
+LandDefaults:
+  DefaultLandHeight: -2048
+MapData:
+  NorthwestCellCoords: -40, 40
+  SoutheastCellCoords: 30, -30
+  CameraMinHeight: 190000
+  CameraMaxHeight: 375000
+  CameraInitialPitch: 90
+WorldMapOffsetScale: 1
+WorldMapCellOffset: 0, 0, 100000.16
+DistantLodMultiplier: 1
+Flags:
+- CannotFastTravel
+ObjectBoundsMin: -69, -55
+ObjectBoundsMax: 67, 134
+HdLodDiffuseTexture: data\textures\landscape\mountains\mountainslab02.dds
+HdLodNormalTexture: data\textures\landscape\mountains\mountainslab02_n.dds
+TopCell:
+  FormKey: 001D40:Skyrim.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 263168
+  SkyrimMajorRecordFlags:
+  - 0x400
+  - Compressed
+  Flags:
+  - HasWater
+  Grid:
+    Flags: -321122048
+  WaterHeight: 3.4028235E+38
+  Persistent:
+  - MutagenObjectType: PlacedNpc
+    FormKey: 000302:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 0000FB:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 83178.91, 48968.74, 953.38544
+      Rotation: 0, -0, 1.8700056
+    MajorFlags:
+    - Persistent
+  - MutagenObjectType: PlacedObject
+    FormKey: 000332:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 0E8E4E:Skyrim.esm
+    LinkedReferences:
+    - Reference: 000302:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 83232.82, 48949.047, 966.64465
+      Rotation: 0, -0, 1.9500003
+  - MutagenObjectType: PlacedObject
+    FormKey: 000337:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 0613A6:Skyrim.esm
+    LinkedReferences:
+    - Reference: 000338:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 82107.59, 49616.28, 862.87537
+      Rotation: 0, -0, 6.2431884
+  - MutagenObjectType: PlacedObject
+    FormKey: 000338:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 10EE3F:Skyrim.esm
+    LinkedReferences:
+    - Reference: 000337:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 82102.58, 49702.66, 858.628
+      Rotation: -0.17901608, -0.018905137, 1.4667048
+  - MutagenObjectType: PlacedObject
+    FormKey: 000339:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 10EE3F:Skyrim.esm
+    Scale: 1.33
+    LinkedReferences:
+    - Reference: 00033A:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 81447.414, 51081.75, 635.1808
+      Rotation: 0.03880136, -0.17581336, 5.884777
+  - MutagenObjectType: PlacedObject
+    FormKey: 00033A:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 0613A6:Skyrim.esm
+    LinkedReferences:
+    - Reference: 000339:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 81532.74, 51096.13, 639.42816
+      Rotation: 0, -0, 4.563192
+  - MutagenObjectType: PlacedObject
+    FormKey: 00033B:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 0613A6:Skyrim.esm
+    LinkedReferences:
+    - Reference: 00033C:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 82629.984, 53589.266, 420.58105
+      Rotation: 0, -0, 2.1299999
+  - MutagenObjectType: PlacedObject
+    FormKey: 00033C:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 10EE64:Skyrim.esm
+    Scale: 1.33
+    LinkedReferences:
+    - Reference: 00033B:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 82707.234, 53569.586, 409.69482
+      Rotation: -0.025063418, -0.0011025893, 3.4445608
+  - MutagenObjectType: PlacedObject
+    FormKey: 00033E:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 10EE3F:Skyrim.esm
+    Scale: 1.33
+    LinkedReferences:
+    - Reference: 00033F:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 79655.75, 46220.586, 56.235077
+      Rotation: 0.0125616975, -0.021398444, 0.27702072
+  - MutagenObjectType: PlacedObject
+    FormKey: 00033F:Enderal - Diviner's Trail.esp
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 0613A6:Skyrim.esm
+    LinkedReferences:
+    - Reference: 00033E:Enderal - Diviner's Trail.esp
+    Placement:
+      Position: 79718.4, 46175.16, 58.640167
+      Rotation: 0, -0, 5.233192
+  MajorFlags:
+  - Persistent
+  - 0x40000

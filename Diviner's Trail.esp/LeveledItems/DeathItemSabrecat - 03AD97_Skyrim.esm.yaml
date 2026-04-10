@@ -1,0 +1,13 @@
+FormKey: 03AD97:Skyrim.esm
+EditorID: DeathItemSabrecat
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD6D:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 06BC07:Skyrim.esm
+    Count: 2

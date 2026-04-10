@@ -1,0 +1,24 @@
+FormKey: 065C9C:Skyrim.esm
+EditorID: FoodHorseMeat
+ObjectBounds:
+  First: -20, -14, 0
+  Second: 34, 14, 12
+Name:
+  TargetLanguage: English
+  Value: 'Raw: Horse Meat'
+Keywords:
+- 0A0E56:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\HorseMeat.nif
+  Data: 0x0200000002000000000000002D1E3DE564647300604DDD5C758F0C4D64647300604DDD5C
+Weight: 2
+Value: 6
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 20

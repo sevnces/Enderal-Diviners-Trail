@@ -1,0 +1,26 @@
+FormKey: 11A52C:Skyrim.esm
+EditorID: 03E_Gifttrank
+ObjectBounds:
+  First: -3, -3, 0
+  Second: 3, 3, 15
+Name:
+  TargetLanguage: English
+  Value: 'Toxin: Tincture of Woe (Tier III)'
+Keywords:
+- 08CDED:Skyrim.esm
+Model:
+  File: Clutter\Potions\PoisonDamageHealth01.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 35
+Flags:
+- NoAutoCalc
+- Poison
+ConsumeSound: 106614:Skyrim.esm
+Effects:
+- BaseEffect: 10AA4A:Skyrim.esm
+  Data:
+    Magnitude: 8
+    Duration: 4

@@ -1,0 +1,38 @@
+FormKey: 0015E8:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_RegenMagicka_CloakProc
+Name:
+  TargetLanguage: English
+  Value: Regenerate Magicka Aimed
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- NoHitEvent
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: MagickaRate
+Projectile: 012FCF:Skyrim.esm
+CastType: Concentration
+TargetType: Aimed
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: IsWeaponMagicOutConditionData
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetGlobalValueConditionData
+    Global: 0015F5:Enderal - Diviner's Trail.esp
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetGlobalValueConditionData
+    Global: 0015F1:Enderal - Diviner's Trail.esp

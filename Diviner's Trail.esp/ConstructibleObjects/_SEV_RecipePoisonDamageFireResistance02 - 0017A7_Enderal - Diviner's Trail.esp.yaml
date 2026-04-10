@@ -1,0 +1,9 @@
+FormKey: 0017A7:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePoisonDamageFireResistance02
+Items:
+- Item:
+    Item: 033A64:Skyrim.esm
+    Count: 3
+CreatedObject: 11A52B:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

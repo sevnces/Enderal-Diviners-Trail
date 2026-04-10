@@ -1,0 +1,13 @@
+FormKey: 000088:Enderal - Diviner's Trail.esp
+EditorID: HarvestFireFinchNest
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 14F587:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000089:Enderal - Diviner's Trail.esp
+    Count: 2

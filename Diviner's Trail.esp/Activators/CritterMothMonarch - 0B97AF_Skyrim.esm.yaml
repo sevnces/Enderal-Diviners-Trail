@@ -1,0 +1,62 @@
+FormKey: 0B97AF:Skyrim.esm
+EditorID: CritterMothMonarch
+VirtualMachineAdapter:
+  Scripts:
+  - Name: critterMoth
+    Properties:
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bIncrementsWingPluckStat
+      Data: True
+    - MutagenObjectType: ScriptFloatProperty
+      Name: fTranslationSpeedMean
+      Data: 100
+    - MutagenObjectType: ScriptObjectProperty
+      Name: GroundPlants
+      Object: 0493D7:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: IgnoreHarvestedPlants
+      Object: 0493D3:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LandingMarkerForm
+      Object: 0C2D47:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: lootable
+      Object: 0727E0:Skyrim.esm
+    - MutagenObjectType: ScriptIntProperty
+      Name: lootableCount
+      Data: 2
+    - MutagenObjectType: ScriptStringProperty
+      Name: PathEndGraphEvent
+      Data: Land
+    - MutagenObjectType: ScriptStringProperty
+      Name: PathStartGraphEvent
+      Data: takeoff
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlantTypes
+      Object: 06F3F7:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ShortPlants
+      Object: 0493D5:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: TallPlants
+      Object: 0493D8:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: VeryShortPlants
+      Object: 0493D2:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: VeryTallPlants
+      Object: 0493D6:Skyrim.esm
+ObjectBounds:
+  First: -9, -6, 0
+  Second: 9, 6, 1
+Name:
+  TargetLanguage: English
+  Value: Monarch Butterfly
+Model:
+  File: Critters\Moths\CritterMothMonarch.nif
+  Data: 0x0200000002000000000000004CFB2A756464730038973CEAFF6BBB536464730038973CEA
+MarkerColor: '#00CC4C33'
+ActivateTextOverride:
+  TargetLanguage: English
+  Value: Catch
+Flags: []

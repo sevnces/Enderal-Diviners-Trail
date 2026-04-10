@@ -1,0 +1,17 @@
+FormKey: 03AD9C:Skyrim.esm
+EditorID: DeathItemTroll
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD72:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 02C8FF:Enderal - Forgotten Stories.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0000AC:Enderal - Diviner's Trail.esp
+    Count: 1

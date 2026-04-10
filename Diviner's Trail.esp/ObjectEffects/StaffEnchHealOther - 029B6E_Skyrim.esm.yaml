@@ -1,0 +1,20 @@
+FormKey: 029B6E:Skyrim.esm
+EditorID: StaffEnchHealOther
+Name:
+  TargetLanguage: English
+  Value: Heal Self
+EnchantmentCost: 10
+Flags:
+- NoAutoCalc
+CastType: FireAndForget
+EnchantmentAmount: 10
+EnchantType: StaffEnchantment
+ChargeTime: 0.5
+Effects:
+- BaseEffect: 01CEA7:Skyrim.esm
+  Data:
+    Magnitude: 30
+- BaseEffect: 02F21D:Enderal - Forgotten Stories.esm
+  Data:
+    Magnitude: 2
+    Duration: 1

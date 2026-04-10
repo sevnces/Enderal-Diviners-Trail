@@ -1,0 +1,54 @@
+FormKey: 0240ED:Enderal - Forgotten Stories.esm
+EditorID: _06E_55_Unique_BoneBow
+ObjectBounds:
+  First: -14, -50, -3
+  Second: 12, 50, 2
+Name:
+  TargetLanguage: English
+  Value: 'Unique: Bone Bow'
+Model:
+  File: Enderal\weapons\bows\corruption_bow\bow.nif
+  Data: 0x020000000000000000000000
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C6:Skyrim.esm
+AlternateBlockMaterial: 0774B6:Skyrim.esm
+Keywords:
+- 01E715:Skyrim.esm
+- 01E717:Skyrim.esm
+- 08F958:Skyrim.esm
+- 14CE9A:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0193B9:Skyrim.esm
+FirstPersonModel: 0240EE:Enderal - Forgotten Stories.esm
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03D78C:Skyrim.esm
+UnequipSound: 03D882:Skyrim.esm
+BasicStats:
+  Value: 666
+  Weight: 8
+  Damage: 30
+Data:
+  AnimationType: Bow
+  Unused: 0x000000
+  Speed: 0.875
+  Reach: 1
+  BaseVATStoHitChance: 5
+  NumProjectiles: 1
+  RangeMin: 500
+  RangeMax: 2000
+  AnimationAttackMult: 1
+  Unknown2: 1065353216
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: Archery
+Critical:
+  Damage: 5
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Silent

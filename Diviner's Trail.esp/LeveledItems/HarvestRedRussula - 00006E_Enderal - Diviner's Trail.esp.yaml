@@ -1,0 +1,13 @@
+FormKey: 00006E:Enderal - Diviner's Trail.esp
+EditorID: HarvestRedRussula
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 04DA25:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00006F:Enderal - Diviner's Trail.esp
+    Count: 2

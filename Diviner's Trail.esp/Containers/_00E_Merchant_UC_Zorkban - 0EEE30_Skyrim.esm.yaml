@@ -1,0 +1,213 @@
+FormKey: 0EEE30:Skyrim.esm
+EditorID: _00E_Merchant_UC_Zorkban
+ObjectBounds:
+  First: -48, -23, 0
+  Second: 48, 26, 49
+Name:
+  TargetLanguage: English
+  Value: Chest
+Model:
+  File: Clutter\Upperclass\UpperChest01.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 00000F:Skyrim.esm
+    Count: 580
+- Item:
+    Item: 019E7D:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 019E7E:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 019E82:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 01F8B1:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 031ACC:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 031ACE:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 033A5F:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 039935:Skyrim.esm
+    Count: 9
+- Item:
+    Item: 039936:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 039937:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 039938:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 039939:Skyrim.esm
+    Count: 9
+- Item:
+    Item: 039944:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 03F86A:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 03F86B:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 03F86C:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 03F86D:Skyrim.esm
+    Count: 9
+- Item:
+    Item: 063B5F:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 0672A0:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 07B2F8:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 085617:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 08561B:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 08561F:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 085623:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 085627:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 085642:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 085667:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 08591B:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 08659E:Skyrim.esm
+    Count: 50
+- Item:
+    Item: 0BFA30:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 0D8EAF:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 0E0ABA:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 0E75F2:Skyrim.esm
+    Count: 6
+- Item:
+    Item: 0E7625:Skyrim.esm
+    Count: 7
+- Item:
+    Item: 0E7629:Skyrim.esm
+    Count: 7
+- Item:
+    Item: 0E762D:Skyrim.esm
+    Count: 7
+- Item:
+    Item: 0E7631:Skyrim.esm
+    Count: 7
+- Item:
+    Item: 0E7632:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 0E7633:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 0E7634:Skyrim.esm
+    Count: 3
+- Item:
+    Item: 0E7635:Skyrim.esm
+    Count: 10
+- Item:
+    Item: 0E7639:Skyrim.esm
+    Count: 7
+- Item:
+    Item: 0EAB75:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 10A860:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 12970F:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 129710:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 129711:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 136D1E:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 13745B:Skyrim.esm
+    Count: 5
+- Item:
+    Item: 13745C:Skyrim.esm
+    Count: 5
+- Item:
+    Item: 13745D:Skyrim.esm
+    Count: 5
+- Item:
+    Item: 13745E:Skyrim.esm
+    Count: 5
+- Item:
+    Item: 137A05:Skyrim.esm
+    Count: 5
+- Item:
+    Item: 137A06:Skyrim.esm
+    Count: 20
+- Item:
+    Item: 148ABD:Skyrim.esm
+    Count: 15
+- Item:
+    Item: 148ABE:Skyrim.esm
+    Count: 15
+- Item:
+    Item: 01CAC2:Enderal - Forgotten Stories.esm
+    Count: 1
+- Item:
+    Item: 01E8FC:Enderal - Forgotten Stories.esm
+    Count: 2
+- Item:
+    Item: 01EB4F:Enderal - Forgotten Stories.esm
+    Count: 1
+- Item:
+    Item: 02F22D:Enderal - Forgotten Stories.esm
+    Count: 1
+- Item:
+    Item: 02F230:Enderal - Forgotten Stories.esm
+    Count: 1
+- Item:
+    Item: 02F231:Enderal - Forgotten Stories.esm
+    Count: 1
+- Item:
+    Item: 02F242:Enderal - Forgotten Stories.esm
+    Count: 1
+- Item:
+    Item: 030305:Enderal - Forgotten Stories.esm
+    Count: 1
+- Item:
+    Item: 001611:Enderal - Diviner's Trail.esp
+    Count: 1
+Flags:
+- Respawns
+Weight: 30

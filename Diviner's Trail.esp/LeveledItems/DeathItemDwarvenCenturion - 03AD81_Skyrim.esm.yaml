@@ -1,0 +1,29 @@
+FormKey: 03AD81:Skyrim.esm
+EditorID: DeathItemDwarvenCenturion
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 02E4F3:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 070C22:Skyrim.esm
+    Count: 4
+- Data:
+    Level: 1
+    Reference: 0F11C0:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0F4983:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 108A43:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 10E0D9:Skyrim.esm
+    Count: 2

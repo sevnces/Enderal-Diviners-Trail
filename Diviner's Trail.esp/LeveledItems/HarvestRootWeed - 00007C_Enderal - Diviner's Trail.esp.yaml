@@ -1,0 +1,13 @@
+FormKey: 00007C:Enderal - Diviner's Trail.esp
+EditorID: HarvestRootWeed
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0B2183:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00007D:Enderal - Diviner's Trail.esp
+    Count: 2

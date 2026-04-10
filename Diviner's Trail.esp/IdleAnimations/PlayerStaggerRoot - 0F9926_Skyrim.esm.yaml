@@ -1,0 +1,26 @@
+FormKey: 0F9926:Skyrim.esm
+EditorID: PlayerStaggerRoot
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetIsIDConditionData
+    Object: 000007:Skyrim.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Flags:
+  - OR
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Stamina
+  ComparisonValue: 1
+- MutagenObjectType: ConditionGlobal
+  CompareOperator: GreaterThanOrEqualTo
+  Data:
+    MutagenObjectType: GetRandomPercentConditionData
+  ComparisonValue: 0015F8:Enderal - Diviner's Trail.esp
+Filename: Actors\Character\Behaviors\0_Master.hkx
+RelatedIdles:
+- 0D77F1:Skyrim.esm
+- 06C9D6:Skyrim.esm
+AnimationGroupSection: 66

@@ -1,0 +1,29 @@
+FormKey: 064B30:Skyrim.esm
+EditorID: FoodBoiledCremeTreat
+ObjectBounds:
+  First: -7, -7, -2
+  Second: 7, 7, 2
+Name:
+  TargetLanguage: English
+  Value: 'Baked: Cream Pie'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Clutter\Food\ButterscotchCreams01.nif
+  Data: 0x020000000700000000000000E946083E64647300B9148236CC9F2A8764647300B9148236CE353C0964647300262C333B2A60A24264647300B9148236FAE0BBA4646473007F66A5C01B315936646473007F66A5C0B93AED84646473007F66A5C0
+Weight: 0.25
+Value: 6
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 240
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 180
+    Duration: 720

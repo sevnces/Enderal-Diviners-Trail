@@ -1,0 +1,19 @@
+FormKey: 00160A:Enderal - Diviner's Trail.esp
+EditorID: StaffEnchIceSpike02
+Name:
+  TargetLanguage: English
+  Value: Ice Spike
+EnchantmentCost: 60
+CastType: FireAndForget
+EnchantmentAmount: 60
+TargetType: Aimed
+EnchantType: StaffEnchantment
+ChargeTime: 0.5
+Effects:
+- BaseEffect: 01CEA2:Skyrim.esm
+  Data:
+    Magnitude: 52
+- BaseEffect: 0B729F:Skyrim.esm
+  Data:
+    Magnitude: 50
+    Duration: 3

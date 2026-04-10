@@ -1,0 +1,55 @@
+FormKey: 001790:Enderal - Diviner's Trail.esp
+EditorID: _SEV_BoundWeaponQStaff
+ObjectBounds:
+  First: -2, 9, 6
+  Second: -1, 9, 7
+Name:
+  TargetLanguage: English
+  Value: Bound Quarterstaff
+Model:
+  File: Weapons\BoundWeapons\BoundAxeHolder.nif
+  Data: 0x02000000020000000000000035FC8B236464730038973CEA777C517064647300582C5533
+ObjectEffect: 001702:Enderal - Diviner's Trail.esp
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 06D930:Skyrim.esm
+- 08F958:Skyrim.esm
+- 00170E:Enderal - Diviner's Trail.esp
+- 001710:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0193B7:Skyrim.esm
+AttackFailSound: 0E4CAC:Skyrim.esm
+IdleSound: 0960E6:Skyrim.esm
+BasicStats:
+  Damage: 13
+Data:
+  AnimationType: TwoHandAxe
+  Unused: 0x000000
+  Speed: 1
+  Reach: 1.5
+  Flags:
+  - CantDrop
+  - NonPlayable
+  - BoundWeapon
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1068708659
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 1.1
+Critical:
+  Damage: 7
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Silent

@@ -1,0 +1,17 @@
+FormKey: 00160C:Enderal - Diviner's Trail.esp
+EditorID: StaffEnchFlames02
+Name:
+  TargetLanguage: English
+  Value: Flames
+EnchantmentCost: 2
+Flags:
+- NoAutoCalc
+CastType: Concentration
+EnchantmentAmount: 2
+TargetType: Aimed
+EnchantType: StaffEnchantment
+Effects:
+- BaseEffect: 013CA9:Skyrim.esm
+  Data:
+    Magnitude: 15
+    Duration: 1

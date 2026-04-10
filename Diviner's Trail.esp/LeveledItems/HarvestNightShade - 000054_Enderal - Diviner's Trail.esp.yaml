@@ -1,0 +1,13 @@
+FormKey: 000054:Enderal - Diviner's Trail.esp
+EditorID: HarvestNightShade
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 02F44C:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000055:Enderal - Diviner's Trail.esp
+    Count: 2

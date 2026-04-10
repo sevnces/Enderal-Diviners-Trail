@@ -1,0 +1,17 @@
+FormKey: 0015D6:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_LoadScreen_StaminaCosts_Bow
+Description:
+  TargetLanguage: English
+  Value: Fully drawing a bow costs Stamina. Releasing the shot early does not, but deals much less damage.
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetWantBlockingConditionData
+LoadingScreenNif: 106859:Skyrim.esm
+InitialScale: 1
+InitialRotation: 0, 0, 5
+RotationOffsetConstraints:
+  Min: -180
+  Max: 180
+InitialTranslationOffset: -16, 0, -5
+CameraPath: Cameras\LSCameraPanDown01.nif

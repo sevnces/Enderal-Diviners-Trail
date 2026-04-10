@@ -1,0 +1,24 @@
+FormKey: 0669A2:Skyrim.esm
+EditorID: FoodVenison
+ObjectBounds:
+  First: -19, -18, -1
+  Second: 19, 18, 15
+Name:
+  TargetLanguage: English
+  Value: 'Raw: Venison'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\Venison.nif
+  Data: 0x020000000200000000000000CB4858AE64647300604DDD5CBB6420C764647300604DDD5C
+Weight: 2
+Value: 20
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 20

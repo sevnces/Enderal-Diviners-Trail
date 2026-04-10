@@ -1,0 +1,19 @@
+FormKey: 069E0C:Skyrim.esm
+EditorID: TreeFloraPotatoPlant01NoIngredient
+ObjectBounds:
+  First: -42, -68, -16
+  Second: 45, 59, 94
+Model:
+  File: Plants\FloraPotatoPlant01.nif
+  Data: 0x020000000000000000000000
+Ingredient: 00004B:Enderal - Diviner's Trail.esp
+HarvestSound: 03CC09:Skyrim.esm
+Production: {}
+Name:
+  TargetLanguage: English
+  Value: Potato Plant
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0AD7233D8FC2F53C0AD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 3
+LeafFrequency: 0.4

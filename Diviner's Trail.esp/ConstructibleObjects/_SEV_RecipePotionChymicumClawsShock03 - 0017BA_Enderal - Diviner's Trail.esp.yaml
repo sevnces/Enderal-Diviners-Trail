@@ -1,0 +1,9 @@
+FormKey: 0017BA:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionChymicumClawsShock03
+Items:
+- Item:
+    Item: 02EE3A:Enderal - Forgotten Stories.esm
+    Count: 3
+CreatedObject: 02EE3B:Enderal - Forgotten Stories.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

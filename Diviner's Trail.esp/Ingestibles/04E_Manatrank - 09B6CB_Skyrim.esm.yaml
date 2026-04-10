@@ -1,0 +1,25 @@
+FormKey: 09B6CB:Skyrim.esm
+EditorID: 04E_Manatrank
+ObjectBounds:
+  First: -8, -8, 0
+  Second: 8, 8, 32
+Name:
+  TargetLanguage: English
+  Value: 'Potion: Concoction of Mana (Tier IV)'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionMagickaExtreme.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 125
+Flags:
+- NoAutoCalc
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 0028DD:Skyrim.esm
+  Data:
+    Magnitude: 16
+    Duration: 10

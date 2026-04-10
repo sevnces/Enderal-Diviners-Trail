@@ -1,0 +1,33 @@
+FormKey: 0015E5:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_PerkHolder_Ab
+Name:
+  TargetLanguage: English
+  Value: Attacks of Opportunity Perk Holder
+MenuDisplayObject: 0435A5:Skyrim.esm
+Keywords:
+- 0D5A93:Skyrim.esm
+Flags:
+- NoHitEvent
+- NoDuration
+- NoMagnitude
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  Type: Script
+DualCastScale: 1
+PerkToApply: 001600:Enderal - Diviner's Trail.esp
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetIsIDConditionData
+    Object: 000007:Skyrim.esm
+  ComparisonValue: 1

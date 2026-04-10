@@ -1,0 +1,32 @@
+FormKey: 0722BD:Skyrim.esm
+EditorID: FoodVenisonCooked
+ObjectBounds:
+  First: -5, -17, -8
+  Second: 5, 17, 8
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Cooked Venison'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\VenisonCooked.nif
+  Data: 0x02000000020000000000000071211F8464647300604DDD5C32D164ED64647300604DDD5C
+Weight: 1
+Value: 5
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 600
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 120
+    Duration: 600
+- BaseEffect: 03EAF3:Skyrim.esm
+  Data:
+    Magnitude: 8
+    Duration: 120

@@ -1,0 +1,14 @@
+FormKey: 000094:Enderal - Diviner's Trail.esp
+EditorID: HarvestGhost
+ChanceNone: 0.75
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD63:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0000B5:Enderal - Diviner's Trail.esp
+    Count: 2

@@ -1,0 +1,21 @@
+FormKey: 148A1A:Skyrim.esm
+EditorID: _40E_MSet_WandererBootsEnch
+Name:
+  TargetLanguage: English
+  Value: Echo of the Wandering Mage
+EnchantmentCost: 819
+EnchantmentAmount: 819
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 10962F:Skyrim.esm
+  Data:
+    Magnitude: 8
+- BaseEffect: 109633:Skyrim.esm
+  Data:
+    Magnitude: 8
+- BaseEffect: 109630:Skyrim.esm
+  Data:
+    Magnitude: 9
+- BaseEffect: 07A0F8:Skyrim.esm
+  Data:
+    Magnitude: 60

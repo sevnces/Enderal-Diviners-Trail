@@ -1,0 +1,15 @@
+FormKey: 06A28E:Skyrim.esm
+EditorID: _00E_Market_BasketCabbage
+ObjectBounds:
+  First: -27, -24, 0
+  Second: 34, 24, 36
+Name:
+  TargetLanguage: English
+  Value: Cabbage
+Model:
+  File: Enderal\Clutter\AARS\foodcontainer\basket05cab.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 064B3F:Skyrim.esm
+    Count: 3

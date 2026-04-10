@@ -1,0 +1,25 @@
+FormKey: 019E3C:Skyrim.esm
+EditorID: 03E_Magietrank
+ObjectBounds:
+  First: -5, -5, 0
+  Second: 5, 5, 23
+Name:
+  TargetLanguage: English
+  Value: 'Potion: Fortify Mana (Tier III)'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionMagickaExtra.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 70
+Flags:
+- NoAutoCalc
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 03EAF8:Skyrim.esm
+  Data:
+    Magnitude: 60
+    Duration: 180

@@ -1,0 +1,15 @@
+FormKey: 06A28F:Skyrim.esm
+EditorID: _00E_Market_BasketGourd01
+ObjectBounds:
+  First: -25, -24, 0
+  Second: 25, 24, 52
+Name:
+  TargetLanguage: English
+  Value: Pumpkin
+Model:
+  File: Enderal\Clutter\AARS\foodcontainer\basket05gourd.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 10D666:Skyrim.esm
+    Count: 3

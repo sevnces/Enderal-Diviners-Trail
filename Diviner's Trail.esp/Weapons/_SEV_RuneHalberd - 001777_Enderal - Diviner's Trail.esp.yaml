@@ -1,0 +1,55 @@
+FormKey: 001777:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RuneHalberd
+ObjectBounds:
+  First: -12, -46, -4
+  Second: 6, 47, 4
+Name:
+  TargetLanguage: English
+  Value: Rune Halberd
+Model:
+  File: weapons\NewArmoury\Halberds\OrcishHalberd.nif
+  Data: 0x0200000007000000000000004FE0756464647300A0B8630533168C0764647300A0B8630503D8C24064647300A0B863054289D49B6464730083E22A43138002C16464730083E22A430053B1F364647300262C333BA9D10B586464730083E22A43
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 01E71C:Skyrim.esm
+- 06D932:Skyrim.esm
+- 08F958:Skyrim.esm
+- 00170D:Enderal - Diviner's Trail.esp
+- 001710:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 036A5B:Skyrim.esm
+FirstPersonModel: 001747:Enderal - Diviner's Trail.esp
+AttackFailSound: 0E4CAC:Skyrim.esm
+EquipSound: 06036A:Skyrim.esm
+UnequipSound: 0605D3:Skyrim.esm
+BasicStats:
+  Value: 165
+  Weight: 22
+  Damage: 18
+Data:
+  AnimationType: TwoHandAxe
+  Unused: 0x000000
+  Speed: 0.75
+  Reach: 1.7
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1068708659
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 0.6
+Critical:
+  Damage: 12
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Loud

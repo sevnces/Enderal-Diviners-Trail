@@ -1,0 +1,25 @@
+FormKey: 019E3E:Skyrim.esm
+EditorID: 02E_Laehmungsgift
+ObjectBounds:
+  First: -3, -3, 0
+  Second: 3, 3, 14
+Name:
+  TargetLanguage: English
+  Value: 'Toxin: Tincture of Paralysis (Tier II)'
+Keywords:
+- 08CDED:Skyrim.esm
+Model:
+  File: Clutter\Potions\PoisonParalyze01.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 40
+Flags:
+- NoAutoCalc
+- Poison
+ConsumeSound: 106614:Skyrim.esm
+Effects:
+- BaseEffect: 073F30:Skyrim.esm
+  Data:
+    Duration: 3

@@ -1,0 +1,11 @@
+FormKey: 10F718:Skyrim.esm
+EditorID: HelpRechargeShort
+Description:
+  TargetLanguage: English
+  Value: Enchanted weapons lose their charge by using them. To recharge it, select it in your inventory and press [ChargeItem]. Select a filled Pyrean Crystal to use and press [Accept] to confirm. Your weapon will be recharged and the soul gem will be consumed.
+Name:
+  TargetLanguage: English
+  Value: Recharge weapons
+INAM: 0x00000000
+Flags:
+- MessageBox

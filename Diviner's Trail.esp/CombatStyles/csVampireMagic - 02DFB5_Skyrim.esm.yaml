@@ -1,0 +1,38 @@
+FormKey: 02DFB5:Skyrim.esm
+EditorID: csVampireMagic
+OffensiveMult: 0.9
+DefensiveMult: 0.4
+GroupOffensiveMult: 0.8
+EquipmentScoreMultMelee: 0.51
+EquipmentScoreMultMagic: 8.1
+EquipmentScoreMultRanged: 0.55
+EquipmentScoreMultShout: 0.21
+EquipmentScoreMultUnarmed: 0.98
+EquipmentScoreMultStaff: 2.15
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 1
+  PowerAttackStaggeredMult: 1
+  PowerAttackBlockingMult: 1
+  BashMult: 1
+  BashRecoilMult: 1
+  BashAttackMult: 1
+  BashPowerAttackMult: 1
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.35
+  FallbackMult: 0.75
+  FlankDistance: 0.4
+  StalkTime: 0.15
+LongRangeStrafeMult: 0.35
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Flanking

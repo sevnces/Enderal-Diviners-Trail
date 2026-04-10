@@ -1,0 +1,19 @@
+FormKey: 1062D1:Skyrim.esm
+EditorID: ChickenNest
+ObjectBounds:
+  First: -130, -37, 6
+  Second: 33, 28, 33
+Name:
+  TargetLanguage: English
+  Value: Chicken Nest
+Model:
+  File: Plants\ChickenNest01.nif
+  Data: 0x02000000020000000000000096525CD664647300134C1EFADCC6573564647300134C1EFA
+PNAM: 0x00000000
+ActivateTextOverride:
+  TargetLanguage: English
+  Value: Take
+FNAM: 0x0000
+Ingredient: 000082:Enderal - Diviner's Trail.esp
+HarvestSound: 100F88:Skyrim.esm
+Production: {}

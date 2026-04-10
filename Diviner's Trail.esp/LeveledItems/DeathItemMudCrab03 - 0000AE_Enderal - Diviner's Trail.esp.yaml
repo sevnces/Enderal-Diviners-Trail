@@ -1,0 +1,13 @@
+FormKey: 0000AE:Enderal - Diviner's Trail.esp
+EditorID: DeathItemMudCrab03
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 06BC00:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 0000AF:Enderal - Diviner's Trail.esp
+    Count: 1

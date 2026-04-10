@@ -1,0 +1,37 @@
+FormKey: 070FF9:Skyrim.esm
+EditorID: csAtronachFlame
+OffensiveMult: 0.85
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 5
+  PowerAttackStaggeredMult: 5
+  PowerAttackBlockingMult: 5
+  BashMult: 1
+  BashRecoilMult: 1
+  BashAttackMult: 1
+  BashPowerAttackMult: 1
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.5
+  FallbackMult: 0.3
+  FlankDistance: 0.2
+  StalkTime: 0.2
+LongRangeStrafeMult: 0.5
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling

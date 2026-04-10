@@ -1,0 +1,39 @@
+FormKey: 10F990:Skyrim.esm
+EditorID: csDraugrMagicAllowDual
+OffensiveMult: 0.9
+DefensiveMult: 0.35
+GroupOffensiveMult: 0.85
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 10
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 10
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 1
+  PowerAttackStaggeredMult: 1
+  PowerAttackBlockingMult: 1
+  BashMult: 1
+  BashRecoilMult: 1
+  BashAttackMult: 1
+  BashPowerAttackMult: 1
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.3
+  FallbackMult: 0.05
+  FlankDistance: 0.2
+  StalkTime: 0.2
+LongRangeStrafeMult: 0.3
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling
+- AllowDualWielding

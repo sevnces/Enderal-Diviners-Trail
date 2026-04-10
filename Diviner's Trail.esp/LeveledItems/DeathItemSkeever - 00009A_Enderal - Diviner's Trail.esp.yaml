@@ -1,0 +1,9 @@
+FormKey: 00009A:Enderal - Diviner's Trail.esp
+EditorID: DeathItemSkeever
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0000A7:Enderal - Diviner's Trail.esp
+    Count: 1

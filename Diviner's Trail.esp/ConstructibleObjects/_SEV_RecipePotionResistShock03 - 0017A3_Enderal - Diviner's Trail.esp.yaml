@@ -1,0 +1,9 @@
+FormKey: 0017A3:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionResistShock03
+Items:
+- Item:
+    Item: 0907BB:Skyrim.esm
+    Count: 3
+CreatedObject: 0907B9:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

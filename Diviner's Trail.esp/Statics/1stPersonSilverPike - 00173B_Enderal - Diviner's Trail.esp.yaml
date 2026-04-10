@@ -1,0 +1,7 @@
+FormKey: 00173B:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonSilverPike
+Model:
+  File: weapons\NewArmoury\Pikes\SilverPike.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,15 @@
+FormKey: 06A28A:Skyrim.esm
+EditorID: _00E_Market_BreadPile02
+ObjectBounds:
+  First: -12, -20, 0
+  Second: 12, 6, 9
+Name:
+  TargetLanguage: English
+  Value: Bread
+Model:
+  File: Enderal\Food\BreadSet01.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 065C98:Skyrim.esm
+    Count: 3

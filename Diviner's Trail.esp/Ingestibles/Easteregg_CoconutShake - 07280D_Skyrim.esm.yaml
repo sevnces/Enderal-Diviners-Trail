@@ -1,0 +1,21 @@
+FormKey: 07280D:Skyrim.esm
+EditorID: Easteregg_CoconutShake
+ObjectBounds:
+  First: -15, -11, -8
+  Second: 13, 12, 17
+Name:
+  TargetLanguage: English
+  Value: 'Treat: Coconut Milk Shake'
+Keywords:
+- 08CDEC:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Enderal\Food\coconutcoctail.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+ConsumeSound: 106614:Skyrim.esm
+Effects:
+- BaseEffect: 01B9A7:Skyrim.esm
+  Data: {}

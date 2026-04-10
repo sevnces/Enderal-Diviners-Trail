@@ -1,0 +1,9 @@
+FormKey: 00001E:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeFoodBasicScorchedRabbitMeat
+Items:
+- Item:
+    Item: 065C9E:Skyrim.esm
+    Count: 1
+CreatedObject: 000024:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

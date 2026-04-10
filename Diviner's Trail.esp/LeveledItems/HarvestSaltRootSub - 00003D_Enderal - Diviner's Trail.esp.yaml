@@ -1,0 +1,8 @@
+FormKey: 00003D:Enderal - Diviner's Trail.esp
+EditorID: HarvestSaltRootSub
+ChanceNone: 0.9
+Entries:
+- Data:
+    Level: 1
+    Reference: 06ABCB:Skyrim.esm
+    Count: 1

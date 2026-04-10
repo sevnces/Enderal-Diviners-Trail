@@ -1,0 +1,32 @@
+FormKey: 07224E:Skyrim.esm
+EditorID: FoodHorkerMeatCooked
+ObjectBounds:
+  First: -7, -11, 0
+  Second: 7, 12, 8
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Roasted Glacier Hound Bacon'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\HorkerMeatCooked.nif
+  Data: 0x020000000200000000000000E00D7B7E64647300604DDD5CEEFCE6B764647300604DDD5C
+Weight: 1
+Value: 8
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 600
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 120
+    Duration: 600
+- BaseEffect: 03EAF3:Skyrim.esm
+  Data:
+    Magnitude: 12
+    Duration: 120

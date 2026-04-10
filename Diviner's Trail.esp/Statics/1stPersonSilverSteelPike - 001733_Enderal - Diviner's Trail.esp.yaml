@@ -1,0 +1,7 @@
+FormKey: 001733:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonSilverSteelPike
+Model:
+  File: weapons\NewArmoury\Pikes\DraugrPike.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,37 @@
+FormKey: 0F431D:Skyrim.esm
+EditorID: FoodVenisonStew
+ObjectBounds:
+  First: -6, -6, -3
+  Second: 6, 6, 2
+Name:
+  TargetLanguage: English
+  Value: 'Stew: Venison Stew'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\Stew.nif
+  Data: 0x0200000004000000000000008E5603C464647300604DDD5CC38821B064647300604DDD5C4D763A52646473008EAEA792BFBA986B646473008EAEA792
+PickUpSound: 0FC21F:Skyrim.esm
+Weight: 0.5
+Value: 8
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 10E2EA:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 600
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 200
+    Duration: 600
+- BaseEffect: 03EAF9:Skyrim.esm
+  Data:
+    Magnitude: 12
+    Duration: 600
+- BaseEffect: 0000B7:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 20
+    Duration: 240

@@ -1,0 +1,21 @@
+FormKey: 03AD9A:Skyrim.esm
+EditorID: DeathItemSlaughterfish
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD70:Skyrim.esm
+    Count: 3
+- Data:
+    Level: 1
+    Reference: 046C4C:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 0F961F:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0000B0:Enderal - Diviner's Trail.esp
+    Count: 1

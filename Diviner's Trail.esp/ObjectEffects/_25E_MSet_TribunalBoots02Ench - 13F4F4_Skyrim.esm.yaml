@@ -1,0 +1,21 @@
+FormKey: 13F4F4:Skyrim.esm
+EditorID: _25E_MSet_TribunalBoots02Ench
+Name:
+  TargetLanguage: English
+  Value: Regalia of the Tribunal
+EnchantmentCost: 744
+EnchantmentAmount: 744
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 10962F:Skyrim.esm
+  Data:
+    Magnitude: 8
+- BaseEffect: 109633:Skyrim.esm
+  Data:
+    Magnitude: 7
+- BaseEffect: 109630:Skyrim.esm
+  Data:
+    Magnitude: 8
+- BaseEffect: 07A0F8:Skyrim.esm
+  Data:
+    Magnitude: 50

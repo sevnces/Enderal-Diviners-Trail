@@ -1,0 +1,29 @@
+FormKey: 0722BB:Skyrim.esm
+EditorID: FoodMammothMeatCooked
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Cooked Four Tusk Boar Meat'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\MammothMeatCooked.nif
+  Data: 0x0200000002000000000000006399A64164647300604DDD5CE82BD47D64647300604DDD5C
+Weight: 2
+Value: 35
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 1200
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 150
+    Duration: 1200
+- BaseEffect: 03EAF3:Skyrim.esm
+  Data:
+    Magnitude: 16
+    Duration: 120

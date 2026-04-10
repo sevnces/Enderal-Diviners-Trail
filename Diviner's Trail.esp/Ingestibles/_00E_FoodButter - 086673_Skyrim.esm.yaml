@@ -1,0 +1,21 @@
+FormKey: 086673:Skyrim.esm
+EditorID: _00E_FoodButter
+Name:
+  TargetLanguage: English
+  Value: 'Ingredient: Butter'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Enderal\Food\butter.nif
+  Data: 0x020000000000000000000000
+Weight: 0.25
+Value: 2
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 10

@@ -1,0 +1,13 @@
+FormKey: 0456CA:Skyrim.esm
+EditorID: _00E_SoulGemCommonFilledLesser
+ObjectBounds: {}
+Name:
+  TargetLanguage: English
+  Value: 'Pyrean Crystal: Common (Filled)'
+Model:
+  File: Clutter\SoulGem\SoulGemCommon01.nif
+  Data: 0x020000000000000000000000
+Value: 50
+Weight: 0.3
+ContainedSoul: Lesser
+MaximumCapacity: Common

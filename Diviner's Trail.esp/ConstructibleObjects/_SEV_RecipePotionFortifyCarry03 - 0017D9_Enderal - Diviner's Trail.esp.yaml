@@ -1,0 +1,9 @@
+FormKey: 0017D9:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionFortifyCarry03
+Items:
+- Item:
+    Item: 08F603:Skyrim.esm
+    Count: 3
+CreatedObject: 11A52D:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

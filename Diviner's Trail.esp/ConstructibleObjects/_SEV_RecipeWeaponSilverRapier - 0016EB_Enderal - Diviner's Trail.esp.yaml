@@ -1,0 +1,15 @@
+FormKey: 0016EB:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeWeaponSilverRapier
+Items:
+- Item:
+    Item: 05ACE3:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 05ACE5:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 0800E4:Skyrim.esm
+    Count: 1
+CreatedObject: 001769:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 088105:Skyrim.esm
+CreatedObjectCount: 1

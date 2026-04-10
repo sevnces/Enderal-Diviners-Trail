@@ -1,0 +1,14 @@
+FormKey: 0432B0:Skyrim.esm
+EditorID: 03E_24WegestreuenhandschuheDerRegeneration_Ench
+Name:
+  TargetLanguage: English
+  Value: Fortify Health Regeneration
+EnchantmentCost: 316
+EnchantmentAmount: 316
+EnchantType: Enchantment
+BaseEnchantment: 10FB76:Skyrim.esm
+WornRestrictions: 10CD29:Skyrim.esm
+Effects:
+- BaseEffect: 07A0F8:Skyrim.esm
+  Data:
+    Magnitude: 100

@@ -1,0 +1,9 @@
+FormKey: 046B51:Skyrim.esm
+EditorID: DeathItemPig
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 046B52:Skyrim.esm
+    Count: 2

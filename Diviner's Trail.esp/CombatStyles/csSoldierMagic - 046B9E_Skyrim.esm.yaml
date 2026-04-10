@@ -1,0 +1,29 @@
+FormKey: 046B9E:Skyrim.esm
+EditorID: csSoldierMagic
+OffensiveMult: 0.85
+DefensiveMult: 0.5
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 3
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+Melee:
+  AttackStaggeredMult: 1
+  PowerAttackStaggeredMult: 1
+  PowerAttackBlockingMult: 1
+  BashMult: 1
+  BashRecoilMult: 1
+  BashAttackMult: 1
+  BashPowerAttackMult: 1
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.3
+  FallbackMult: 0.3
+LongRangeStrafeMult: 0.2
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+Flags:
+- Dueling

@@ -1,0 +1,23 @@
+FormKey: 07E8C9:Skyrim.esm
+EditorID: BirdsNest
+ObjectBounds:
+  First: -29, -30, -19
+  Second: 34, 31, 14
+Name:
+  TargetLanguage: English
+  Value: Bird nest
+Model:
+  File: Plants\BirdsNest01.nif
+  Data: 0x0200000002000000000000008972987364647300134C1EFA4E4D63C364647300134C1EFA
+PNAM: 0x00000000
+ActivateTextOverride:
+  TargetLanguage: English
+  Value: Take
+FNAM: 0x0000
+Ingredient: 000078:Enderal - Diviner's Trail.esp
+HarvestSound: 100F88:Skyrim.esm
+Production:
+  Spring: 100
+  Summer: 100
+  Fall: 100
+  Winter: 100

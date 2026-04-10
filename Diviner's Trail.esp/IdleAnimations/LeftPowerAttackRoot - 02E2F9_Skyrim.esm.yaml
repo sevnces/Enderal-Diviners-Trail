@@ -1,0 +1,25 @@
+FormKey: 02E2F9:Skyrim.esm
+EditorID: LeftPowerAttackRoot
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: IsWeaponMagicOutConditionData
+  ComparisonValue: 1
+- MutagenObjectType: ConditionGlobal
+  CompareOperator: GreaterThanOrEqualTo
+  Flags:
+  - OR
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Stamina
+  ComparisonValue: 0015F3:Enderal - Diviner's Trail.esp
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: HasMagicEffectKeywordConditionData
+    Keyword: A00101:Update.esm
+  ComparisonValue: 1
+Filename: Actors\Character\Behaviors\0_Master.hkx
+RelatedIdles:
+- 02E2F6:Skyrim.esm
+- Null
+AnimationGroupSection: 116

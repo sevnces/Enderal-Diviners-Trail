@@ -1,0 +1,9 @@
+FormKey: 0000B5:Enderal - Diviner's Trail.esp
+EditorID: HarvestGhostsub
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD63:Skyrim.esm
+    Count: 2

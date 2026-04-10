@@ -1,0 +1,17 @@
+FormKey: 024142:Enderal - Forgotten Stories.esm
+EditorID: _00E_FS_VatyrIngredients
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD5D:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 06BC07:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00009D:Enderal - Diviner's Trail.esp
+    Count: 1

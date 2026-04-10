@@ -1,0 +1,29 @@
+FormKey: 0028C7:Skyrim.esm
+EditorID: 04E_Genesungstrank
+ObjectBounds:
+  First: -8, -10, 0
+  Second: 8, 8, 31
+Name:
+  TargetLanguage: English
+  Value: 'Potion: Concoction of Health (Tier IV)'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionHealthExtreme.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 140
+Flags:
+- NoAutoCalc
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 0028C3:Skyrim.esm
+  Data:
+    Magnitude: 16
+    Duration: 8
+- BaseEffect: 02F21D:Enderal - Forgotten Stories.esm
+  Data:
+    Magnitude: 4
+    Duration: 1

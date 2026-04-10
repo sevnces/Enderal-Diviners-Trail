@@ -1,0 +1,18 @@
+FormKey: 0EF541:Skyrim.esm
+EditorID: NPC_Blocking_ShieldCharge_MT
+Name: NPCBlockingShieldCharge
+LeftWalk: 81
+LeftRun: 320
+RightWalk: 81
+RightRun: 320
+ForwardWalk: 81
+ForwardRun: 335
+BackWalk: 60
+BackRun: 100
+RotateInPlaceWalk: 180.00006
+RotateInPlaceRun: 180.00006
+RotateWhileMovingRun: 180.00006
+AnimationChangeThresholds:
+  Directional: 3.4028235E+38
+  MovementSpeed: 3.4028235E+38
+  RotationSpeed: 3.4028235E+38

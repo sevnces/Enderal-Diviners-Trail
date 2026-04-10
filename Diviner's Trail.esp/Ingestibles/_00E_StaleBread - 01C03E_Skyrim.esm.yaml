@@ -1,0 +1,25 @@
+FormKey: 01C03E:Skyrim.esm
+EditorID: _00E_StaleBread
+ObjectBounds:
+  First: -12, -6, 0
+  Second: 12, 6, 5
+Name:
+  TargetLanguage: English
+  Value: 'Grains: Hard Bread'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Clutter\Food\Bread01A.nif
+  Data: 0x020000000000000000000000
+Weight: 0.2
+Value: 2
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 10

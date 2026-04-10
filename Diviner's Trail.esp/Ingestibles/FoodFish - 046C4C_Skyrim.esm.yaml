@@ -1,0 +1,21 @@
+FormKey: 046C4C:Skyrim.esm
+EditorID: FoodFish
+Name:
+  TargetLanguage: English
+  Value: 'Raw: Fish Meat'
+Keywords:
+- 0A0E56:Skyrim.esm
+Model:
+  File: Clutter\DeadAnimals\SalmonMeat01.nif
+  Data: 0x020000000000000000000000
+Weight: 0.1
+Value: 3
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 20

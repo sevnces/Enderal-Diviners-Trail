@@ -1,0 +1,12 @@
+FormKey: 0C5662:Skyrim.esm
+EditorID: _00E_Market_Sausages02
+Name:
+  TargetLanguage: English
+  Value: Sausages
+Model:
+  File: Enderal\food\sausages02.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 0C5663:Skyrim.esm
+    Count: 3

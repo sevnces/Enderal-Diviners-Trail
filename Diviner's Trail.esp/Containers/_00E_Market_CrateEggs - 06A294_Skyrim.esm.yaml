@@ -1,0 +1,15 @@
+FormKey: 06A294:Skyrim.esm
+EditorID: _00E_Market_CrateEggs
+ObjectBounds:
+  First: -24, -19, -1
+  Second: 30, 17, 15
+Name:
+  TargetLanguage: English
+  Value: Eggs
+Model:
+  File: Enderal\Clutter\AARS\foodcontainer\crate01egg.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 023D77:Skyrim.esm
+    Count: 4

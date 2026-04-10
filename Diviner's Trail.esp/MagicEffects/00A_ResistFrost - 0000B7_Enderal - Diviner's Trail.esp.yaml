@@ -1,0 +1,25 @@
+FormKey: 0000B7:Enderal - Diviner's Trail.esp
+EditorID: 00A_ResistFrost
+Name:
+  TargetLanguage: English
+  Value: Warmth
+MenuDisplayObject: 0435A5:Skyrim.esm
+Keywords:
+- 065A38:Skyrim.esm
+- 0F8A4E:Skyrim.esm
+Flags:
+- Recover
+- FXPersist
+- PowerAffectsMagnitude
+BaseCost: 0.5
+HitShader: 10BEAA:Skyrim.esm
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: ResistFrost
+  Association: 065A38:Skyrim.esm
+CastType: FireAndForget
+DualCastScale: 1
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: Resist <mag>% frost damage for <dur> seconds.

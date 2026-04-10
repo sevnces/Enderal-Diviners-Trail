@@ -1,0 +1,7 @@
+FormKey: 00173C:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonSteelPike
+Model:
+  File: weapons\NewArmoury\Pikes\SteelPike.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

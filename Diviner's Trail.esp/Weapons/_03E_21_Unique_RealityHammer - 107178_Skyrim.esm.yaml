@@ -1,0 +1,51 @@
+FormKey: 107178:Skyrim.esm
+EditorID: _03E_21_Unique_RealityHammer
+ObjectBounds:
+  First: -17, -37, -6
+  Second: 17, 57, 6
+Name:
+  TargetLanguage: English
+  Value: 'Unique: Reality Hammer'
+Model:
+  File: Weapons\Glass\GlassWarHammer.nif
+  Data: 0x020000000000000000000000
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 06727B:Skyrim.esm
+- 06D930:Skyrim.esm
+- 08F958:Skyrim.esm
+- 01E71C:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0E4CB0:Skyrim.esm
+FirstPersonModel: 036BD9:Skyrim.esm
+AttackFailSound: 0E4CAC:Skyrim.esm
+EquipSound: 0E4F10:Skyrim.esm
+UnequipSound: 0E4F11:Skyrim.esm
+BasicStats:
+  Value: 430
+  Weight: 29
+  Damage: 24
+Data:
+  AnimationType: TwoHandAxe
+  Unused: 0x000000
+  Speed: 0.6
+  Reach: 1.3
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1069547520
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 1.25
+Critical:
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Loud

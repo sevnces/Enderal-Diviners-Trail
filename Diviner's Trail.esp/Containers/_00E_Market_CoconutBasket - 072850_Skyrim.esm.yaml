@@ -1,0 +1,15 @@
+FormKey: 072850:Skyrim.esm
+EditorID: _00E_Market_CoconutBasket
+ObjectBounds:
+  First: -29, -28, 0
+  Second: 29, 28, 37
+Name:
+  TargetLanguage: English
+  Value: Coconuts
+Model:
+  File: Enderal\Food\coconutbasket.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 07280A:Skyrim.esm
+    Count: 3

@@ -1,0 +1,13 @@
+FormKey: 000092:Enderal - Diviner's Trail.esp
+EditorID: HarvestFogSponge
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 07EE01:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000093:Enderal - Diviner's Trail.esp
+    Count: 2

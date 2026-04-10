@@ -1,0 +1,15 @@
+FormKey: 0456D0:Skyrim.esm
+EditorID: _00E_SoulGemGrandFilledCommon
+ObjectBounds: {}
+Name:
+  TargetLanguage: English
+  Value: 'Pyrean Crystal: Grand (Filled)'
+Model:
+  File: Clutter\SoulGem\SoulGemGrand01.nif
+  Data: 0x020000000000000000000000
+Keywords:
+- 0937A3:Skyrim.esm
+Value: 100
+Weight: 0.5
+ContainedSoul: Common
+MaximumCapacity: Grand

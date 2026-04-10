@@ -1,0 +1,15 @@
+FormKey: 053FDC:Skyrim.esm
+EditorID: _10E_HSet_BonejudgeBootsEnch
+Name:
+  TargetLanguage: English
+  Value: Silent Step of the Rat Catcher
+EnchantmentCost: 253
+EnchantmentAmount: 253
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 07A0FF:Skyrim.esm
+  Data:
+    Magnitude: 3
+- BaseEffect: 07A0F8:Skyrim.esm
+  Data:
+    Magnitude: 60

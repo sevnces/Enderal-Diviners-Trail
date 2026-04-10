@@ -1,0 +1,13 @@
+FormKey: 0000A8:Enderal - Diviner's Trail.esp
+EditorID: FoodSausageList
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0C5663:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0000A9:Enderal - Diviner's Trail.esp
+    Count: 2

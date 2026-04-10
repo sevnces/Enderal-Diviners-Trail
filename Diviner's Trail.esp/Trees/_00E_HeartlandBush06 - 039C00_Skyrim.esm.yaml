@@ -1,0 +1,14 @@
+FormKey: 039C00:Skyrim.esm
+EditorID: _00E_HeartlandBush06
+ObjectBounds:
+  First: -188, -202, -20
+  Second: 190, 124, 282
+Model:
+  File: Enderal\landscape\trees\Nico\Heartland Bush\HeartlandBush06.nif
+  Data: 0x020000000000000000000000
+Production: {}
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0AD7233D8FC2F53C0AD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 1
+LeafFrequency: 1

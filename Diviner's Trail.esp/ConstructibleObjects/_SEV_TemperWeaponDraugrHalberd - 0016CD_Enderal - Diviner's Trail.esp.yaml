@@ -1,0 +1,9 @@
+FormKey: 0016CD:Enderal - Diviner's Trail.esp
+EditorID: _SEV_TemperWeaponDraugrHalberd
+Items:
+- Item:
+    Item: 05ACE5:Skyrim.esm
+    Count: 1
+CreatedObject: 00177B:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 088108:Skyrim.esm
+CreatedObjectCount: 1

@@ -1,0 +1,13 @@
+FormKey: 00005A:Enderal - Diviner's Trail.esp
+EditorID: HarvestManaFungi
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 044F42:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00005B:Enderal - Diviner's Trail.esp
+    Count: 2

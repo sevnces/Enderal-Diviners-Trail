@@ -1,0 +1,28 @@
+FormKey: 064B3A:Skyrim.esm
+EditorID: FoodPotatoesBaked
+ObjectBounds:
+  First: -13, -4, 1
+  Second: 14, 3, 5
+Name:
+  TargetLanguage: English
+  Value: 'Vegetable: Baked Potato'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Food\GrilledPotatoes01.nif
+  Data: 0x020000000400000000000000A93101CC64647300134C1EFA5FC632B964647300134C1EFAE4E68ED664647300B9148236EFAA52E464647300B9148236
+Weight: 0.2
+Value: 5
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 180
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 100
+    Duration: 180

@@ -1,0 +1,15 @@
+FormKey: 14BD3A:Skyrim.esm
+EditorID: _00E_Juniper
+ObjectBounds:
+  First: -68, -56, -10
+  Second: 69, 58, 370
+Model:
+  File: Enderal\landscape\trees\Nico\Juniper\Juniper.nif
+  Data: 0x020000000000000000000000
+Ingredient: 000038:Enderal - Diviner's Trail.esp
+HarvestSound: 0FB975:Skyrim.esm
+Production: {}
+BranchFlexibility: 1.5
+Unknown: 0x00000000EC51383D8FC2753D60E5503D0000403F0000403F9A99193F0000803F
+LeafAmplitude: 0.5
+LeafFrequency: 0.4

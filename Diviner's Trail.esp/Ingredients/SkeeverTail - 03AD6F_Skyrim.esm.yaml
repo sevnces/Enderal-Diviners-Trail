@@ -1,0 +1,49 @@
+FormKey: 03AD6F:Skyrim.esm
+EditorID: SkeeverTail
+VirtualMachineAdapter:
+  Scripts:
+  - Name: _00E_FS_NQ05_SkeeverScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _00E_FS_NQ05_SkeeverTailCountGlobal
+      Object: 02E80D:Enderal - Forgotten Stories.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FS_NQ05
+      Object: 01C82F:Enderal - Forgotten Stories.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SkeeverTail
+      Object: 03AD6F:Skyrim.esm
+ObjectBounds:
+  First: -4, -9, -4
+  Second: 4, 9, 4
+Name:
+  TargetLanguage: English
+  Value: Rat Tail
+Keywords:
+- 08CDEB:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\SkeeverTail01.nif
+  Data: 0x0200000002000000000000005702D8C964647300604DDD5CA36EDD8C64647300604DDD5C
+Value: 3
+Weight: 0.2
+IngredientValue: 29
+Effects:
+- BaseEffect: 073F2C:Skyrim.esm
+  Data:
+    Magnitude: 100
+    Duration: 5
+- BaseEffect: 073F26:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 10
+- BaseEffect: 03EB42:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 1
+- BaseEffect: 03EB1F:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 60

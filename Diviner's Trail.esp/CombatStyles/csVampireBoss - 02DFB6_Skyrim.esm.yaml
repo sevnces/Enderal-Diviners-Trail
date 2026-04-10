@@ -1,0 +1,38 @@
+FormKey: 02DFB6:Skyrim.esm
+EditorID: csVampireBoss
+OffensiveMult: 0.95
+DefensiveMult: 0.4
+GroupOffensiveMult: 0.9
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 3
+  PowerAttackStaggeredMult: 3
+  PowerAttackBlockingMult: 3
+  BashMult: 5
+  BashRecoilMult: 3
+  BashAttackMult: 3
+  BashPowerAttackMult: 3
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.4
+  FallbackMult: 0.2
+  FlankDistance: 0.2
+  StalkTime: 0.2
+LongRangeStrafeMult: 0.25
+Flight:
+  HoverChance: 0.33
+  DiveBombChance: 1
+  GroundAttackChance: 0.5
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling

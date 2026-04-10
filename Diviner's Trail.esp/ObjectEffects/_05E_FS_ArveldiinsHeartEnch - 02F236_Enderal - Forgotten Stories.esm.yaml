@@ -1,0 +1,21 @@
+FormKey: 02F236:Enderal - Forgotten Stories.esm
+EditorID: _05E_FS_ArveldiinsHeartEnch
+Name:
+  TargetLanguage: English
+  Value: Arveldhiin's Heart
+EnchantmentCost: 307
+EnchantmentAmount: 307
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 08B65C:Skyrim.esm
+  Data:
+    Magnitude: 9
+- BaseEffect: 07A0F8:Skyrim.esm
+  Data:
+    Magnitude: 20
+- BaseEffect: 02F226:Enderal - Forgotten Stories.esm
+  Data:
+    Magnitude: 5
+- BaseEffect: 02F102:Enderal - Forgotten Stories.esm
+  Data:
+    Magnitude: 30

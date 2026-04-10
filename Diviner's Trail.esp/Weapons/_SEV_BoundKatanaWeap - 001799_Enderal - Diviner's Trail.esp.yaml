@@ -1,0 +1,52 @@
+FormKey: 001799:Enderal - Diviner's Trail.esp
+EditorID: _SEV_BoundKatanaWeap
+Name:
+  TargetLanguage: English
+  Value: Bound Katana
+Model:
+  File: Weapons\BoundWeapons\BoundSword01.nif
+  Data: 0x02000000020000000000000035FC8B236464730038973CEA777C517064647300582C5533
+ObjectEffect: 001703:Enderal - Diviner's Trail.esp
+EquipmentType: 013F44:Skyrim.esm
+BlockBashImpact: 0183FF:Skyrim.esm
+AlternateBlockMaterial: 0774C2:Skyrim.esm
+Keywords:
+- 01E711:Skyrim.esm
+- 08F958:Skyrim.esm
+- 001711:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 013CAC:Skyrim.esm
+FirstPersonModel: 069CE4:Skyrim.esm
+AttackFailSound: 03C730:Skyrim.esm
+IdleSound: 0960E6:Skyrim.esm
+BasicStats:
+  Damage: 10
+Data:
+  AnimationType: OneHandSword
+  Unused: 0x000000
+  Speed: 1
+  Reach: 1
+  Flags:
+  - CantDrop
+  - NonPlayable
+  - BoundWeapon
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1061997773
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+  Stagger: 0.1
+Critical:
+  Damage: 6
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Normal

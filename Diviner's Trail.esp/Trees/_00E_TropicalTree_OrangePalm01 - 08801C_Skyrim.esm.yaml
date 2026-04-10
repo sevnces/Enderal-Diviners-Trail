@@ -1,0 +1,22 @@
+FormKey: 08801C:Skyrim.esm
+EditorID: _00E_TropicalTree_OrangePalm01
+ObjectBounds:
+  First: -110, -111, -2
+  Second: 90, 109, 169
+Model:
+  File: Enderal\landscape\Tropical\Vegetation\OrangePalm01.nif
+  Data: 0x020000000000000000000000
+Ingredient: 00002E:Enderal - Diviner's Trail.esp
+Production:
+  Spring: 2
+  Summer: 2
+  Fall: 2
+  Winter: 2
+Name:
+  TargetLanguage: English
+  Value: Orange Tree
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0AD7233D8FC2F53C0AD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 0.3
+LeafFrequency: 0.1

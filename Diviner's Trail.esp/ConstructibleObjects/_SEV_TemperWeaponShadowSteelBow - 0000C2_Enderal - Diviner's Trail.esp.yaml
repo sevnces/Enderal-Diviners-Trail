@@ -1,0 +1,15 @@
+FormKey: 0000C2:Enderal - Diviner's Trail.esp
+EditorID: _SEV_TemperWeaponShadowSteelBow
+Items:
+- Item:
+    Item: 05AD9D:Skyrim.esm
+    Count: 1
+Conditions:
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+  ComparisonValue: 90
+CreatedObject: 000003:Enderal - Diviner's Trail.esp
+WorkbenchKeyword: 088108:Skyrim.esm
+CreatedObjectCount: 1

@@ -1,0 +1,22 @@
+FormKey: 085668:Skyrim.esm
+EditorID: 02E_Morgenlufttrank
+Name:
+  TargetLanguage: English
+  Value: 'Potion: Concoction of Stamina (Tier II)'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionStaminaGreat.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 40
+Flags:
+- NoAutoCalc
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 0028DC:Skyrim.esm
+  Data:
+    Magnitude: 10
+    Duration: 5

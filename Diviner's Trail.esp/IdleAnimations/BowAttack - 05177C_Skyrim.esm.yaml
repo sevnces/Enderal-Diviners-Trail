@@ -1,0 +1,36 @@
+FormKey: 05177C:Skyrim.esm
+EditorID: BowAttack
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetEquippedItemTypeConditionData
+  ComparisonValue: 7
+- MutagenObjectType: ConditionFloat
+  CompareOperator: NotEqualTo
+  Data:
+    MutagenObjectType: GetAttackStateConditionData
+  ComparisonValue: 10
+- MutagenObjectType: ConditionFloat
+  CompareOperator: NotEqualTo
+  Data:
+    MutagenObjectType: GetAttackStateConditionData
+  ComparisonValue: 11
+- MutagenObjectType: ConditionGlobal
+  CompareOperator: GreaterThanOrEqualTo
+  Flags:
+  - OR
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Stamina
+  ComparisonValue: 0015F7:Enderal - Diviner's Trail.esp
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: HasMagicEffectKeywordConditionData
+    Keyword: A00103:Update.esm
+  ComparisonValue: 1
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: bowAttackStart
+RelatedIdles:
+- 000990:Update.esm
+- 01B417:Skyrim.esm
+AnimationGroupSection: 32

@@ -1,0 +1,7 @@
+FormKey: 001734:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonStarlingPike
+Model:
+  File: weapons\NewArmoury\Pikes\DwarvenPike.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

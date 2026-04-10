@@ -1,0 +1,16 @@
+FormKey: 02E4E4:Skyrim.esm
+EditorID: SoulGemLesser
+ObjectBounds:
+  First: -2, -3, -9
+  Second: 2, 3, 9
+Name:
+  TargetLanguage: English
+  Value: 'Pyrean Crystal: Lesser '
+Model:
+  File: Clutter\SoulGem\SoulGemLesser01.nif
+  Data: 0x0200000004000000000000001947100764647300F7BB845BFF7791E464647300F7BB845B8B83000864647300F7BB845BA83708C164647300262C333B
+Keywords:
+- 0937A3:Skyrim.esm
+Value: 25
+Weight: 0.2
+MaximumCapacity: Lesser

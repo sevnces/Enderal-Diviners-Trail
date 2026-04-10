@@ -1,0 +1,10 @@
+FormKey: 000050:Enderal - Diviner's Trail.esp
+EditorID: HarvestGrassSub
+ChanceNone: 0.9
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 083E64:Skyrim.esm
+    Count: 1

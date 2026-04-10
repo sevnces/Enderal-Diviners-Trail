@@ -1,0 +1,10 @@
+FormKey: 0000B3:Enderal - Diviner's Trail.esp
+EditorID: HarvestTrollItem
+ChanceNone: 0.75
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 0000BB:Enderal - Diviner's Trail.esp
+    Count: 1

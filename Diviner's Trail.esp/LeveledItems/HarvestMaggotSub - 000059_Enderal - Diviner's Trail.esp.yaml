@@ -1,0 +1,10 @@
+FormKey: 000059:Enderal - Diviner's Trail.esp
+EditorID: HarvestMaggotSub
+ChanceNone: 0.9
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 13B701:Skyrim.esm
+    Count: 1

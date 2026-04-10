@@ -1,0 +1,53 @@
+FormKey: 14BEC8:Skyrim.esm
+EditorID: _03E_25_Unique_BlindMinersAxe
+ObjectBounds:
+  First: -15, -10, -1
+  Second: 3, 34, 1
+Name:
+  TargetLanguage: English
+  Value: 'Unique: Axe of the Blind Miner'
+Model:
+  File: Enderal\weapons\Franciscaaxe\Franciscaaxe.nif
+  Data: 0x020000000000000000000000
+EquipmentType: 013F42:Skyrim.esm
+BlockBashImpact: 0193C9:Skyrim.esm
+AlternateBlockMaterial: 0774C0:Skyrim.esm
+Keywords:
+- 01E712:Skyrim.esm
+- 01E719:Skyrim.esm
+- 06727B:Skyrim.esm
+- 08F958:Skyrim.esm
+- 14CE9A:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0193B8:Skyrim.esm
+FirstPersonModel: 13807A:Skyrim.esm
+AttackFailSound: 03F209:Skyrim.esm
+EquipSound: 03DDB7:Skyrim.esm
+UnequipSound: 03DDB8:Skyrim.esm
+BasicStats:
+  Value: 300
+  Weight: 13
+  Damage: 35
+Data:
+  AnimationType: OneHandAxe
+  Unused: 0x000000
+  Speed: 0.75
+  Reach: 1
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1063675494
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+  Stagger: 1
+Critical:
+  Damage: 15
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Loud

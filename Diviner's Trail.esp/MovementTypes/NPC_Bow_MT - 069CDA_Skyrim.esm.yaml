@@ -1,0 +1,18 @@
+FormKey: 069CDA:Skyrim.esm
+EditorID: NPC_Bow_MT
+Name: NPCBow
+LeftWalk: 80.09
+LeftRun: 290
+RightWalk: 79.75
+RightRun: 290
+ForwardWalk: 80.1
+ForwardRun: 335
+BackWalk: 50
+BackRun: 80
+RotateInPlaceWalk: 180.00006
+RotateInPlaceRun: 180.00006
+RotateWhileMovingRun: 180.00006
+AnimationChangeThresholds:
+  Directional: 3.4028235E+38
+  MovementSpeed: 3.4028235E+38
+  RotationSpeed: 3.4028235E+38

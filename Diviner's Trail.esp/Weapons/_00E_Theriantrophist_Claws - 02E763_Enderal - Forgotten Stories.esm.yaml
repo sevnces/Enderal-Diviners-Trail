@@ -1,0 +1,38 @@
+FormKey: 02E763:Enderal - Forgotten Stories.esm
+EditorID: _00E_Theriantrophist_Claws
+Name:
+  TargetLanguage: English
+  Value: Wolf Claws
+ObjectEffect: 02E7FE:Enderal - Forgotten Stories.esm
+EnchantmentAmount: 65535
+EquipmentType: 013F45:Skyrim.esm
+Keywords:
+- 02F321:Enderal - Forgotten Stories.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0C190F:Skyrim.esm
+AttackFailSound: 0C06D1:Skyrim.esm
+EquipSound: 0C06CF:Skyrim.esm
+UnequipSound: 0C06D0:Skyrim.esm
+BasicStats: {}
+Data:
+  Unused: 0x000000
+  Speed: 1
+  Reach: 1
+  BaseVATStoHitChance: 5
+  NumProjectiles: 1
+  RangeMin: 500
+  RangeMax: 2000
+  AnimationAttackMult: 1
+  Unknown2: 1084227584
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+Critical:
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Normal

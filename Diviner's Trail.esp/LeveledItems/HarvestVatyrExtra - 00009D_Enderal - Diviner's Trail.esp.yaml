@@ -1,0 +1,13 @@
+FormKey: 00009D:Enderal - Diviner's Trail.esp
+EditorID: HarvestVatyrExtra
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 00009B:Enderal - Diviner's Trail.esp
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 00009C:Enderal - Diviner's Trail.esp
+    Count: 2

@@ -1,0 +1,25 @@
+FormKey: 064B2E:Skyrim.esm
+EditorID: FoodApple
+ObjectBounds:
+  First: -5, -5, 0
+  Second: 5, 5, 12
+Name:
+  TargetLanguage: English
+  Value: 'Fruit: Red Apple'
+Keywords:
+- 08CDEA:Skyrim.esm
+- 0A248C:Skyrim.esm
+Model:
+  File: Clutter\Food\Apple01.nif
+  Data: 0x020000000200000000000000E6DD456E64647300B914823682996F6764647300B9148236
+Weight: 0.1
+Value: 2
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 13B8FB:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 20

@@ -1,0 +1,52 @@
+FormKey: 02E3B6:Enderal - Forgotten Stories.esm
+EditorID: _00E_FS_NQR05_Tharael_Dagger
+ObjectBounds:
+  First: -4, -9, -1
+  Second: 7, 60, 1
+Name:
+  TargetLanguage: English
+  Value: 'Unique: Atonement'
+Model:
+  File: Enderal\ForgottenStories\Weapons\TharaelsDagger.nif
+  Data: 0x020000000000000000000000
+EquipmentType: 013F42:Skyrim.esm
+BlockBashImpact: 0183FF:Skyrim.esm
+AlternateBlockMaterial: 018401:Skyrim.esm
+Keywords:
+- 01E713:Skyrim.esm
+- 01E71E:Skyrim.esm
+- 06727B:Skyrim.esm
+- 08F958:Skyrim.esm
+- 14CE9A:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 013CAC:Skyrim.esm
+FirstPersonModel: 02E530:Enderal - Forgotten Stories.esm
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03C72E:Skyrim.esm
+UnequipSound: 03C72F:Skyrim.esm
+BasicStats:
+  Value: 224
+  Weight: 5
+  Damage: 17
+Data:
+  AnimationType: OneHandDagger
+  Unused: 0x000000
+  Speed: 1.1
+  Reach: 0.7
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1056964608
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: OneHanded
+Critical:
+  Damage: 5
+  PercentMult: 1.5
+  Flags:
+  - OnDeath
+  Unused2: 0x000000
+DetectionSoundLevel: Normal

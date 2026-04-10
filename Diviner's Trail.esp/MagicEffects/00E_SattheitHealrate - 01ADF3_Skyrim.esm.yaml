@@ -1,0 +1,27 @@
+FormKey: 01ADF3:Skyrim.esm
+EditorID: 00E_SattheitHealrate
+Name:
+  TargetLanguage: English
+  Value: Satiated
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- NoArea
+BaseCost: 0.1
+HitShader: 04E220:Skyrim.esm
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: HealRate
+CastType: FireAndForget
+DualCastScale: 1
+Sounds:
+- Sound: 03E957:Skyrim.esm
+- Type: Charge
+  Sound: 056622:Skyrim.esm
+- Type: Ready
+  Sound: 03F363:Skyrim.esm
+- Type: Release
+  Sound: 03F361:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: Satiates for <dur> seconds and enables health regeneration out of combat.

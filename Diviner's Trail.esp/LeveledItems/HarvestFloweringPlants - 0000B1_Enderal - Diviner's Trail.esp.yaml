@@ -1,0 +1,22 @@
+FormKey: 0000B1:Enderal - Diviner's Trail.esp
+EditorID: HarvestFloweringPlants
+ChanceNone: 0.9
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 0727DE:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0727DF:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0727E0:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0A9195:Skyrim.esm
+    Count: 1

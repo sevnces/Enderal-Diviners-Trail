@@ -1,0 +1,8 @@
+FormKey: 00009F:Enderal - Diviner's Trail.esp
+EditorID: HarvestWolfMeat
+ChanceNone: 0.4
+Entries:
+- Data:
+    Level: 1
+    Reference: 0EDB2E:Skyrim.esm
+    Count: 1

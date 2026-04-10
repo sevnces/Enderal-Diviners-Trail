@@ -1,0 +1,15 @@
+FormKey: 07FA6A:Skyrim.esm
+EditorID: _00E_Market_CrateApples
+ObjectBounds:
+  First: -36, -23, 0
+  Second: 36, 23, 33
+Name:
+  TargetLanguage: English
+  Value: Apples
+Model:
+  File: Enderal\crates\crateapple.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 064B2E:Skyrim.esm
+    Count: 3

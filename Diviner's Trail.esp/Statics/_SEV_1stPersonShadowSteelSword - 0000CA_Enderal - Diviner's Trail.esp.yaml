@@ -1,0 +1,7 @@
+FormKey: 0000CA:Enderal - Diviner's Trail.esp
+EditorID: _SEV_1stPersonShadowSteelSword
+Model:
+  File: SEV\ShadowSteelWeap\longsword.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

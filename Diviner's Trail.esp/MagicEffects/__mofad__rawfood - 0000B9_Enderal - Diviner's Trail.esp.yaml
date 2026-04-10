@@ -1,0 +1,23 @@
+FormKey: 0000B9:Enderal - Diviner's Trail.esp
+EditorID: __mofad__rawfood
+Name:
+  TargetLanguage: English
+  Value: Upset Stomach
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Detrimental
+- NoArea
+- PowerAffectsMagnitude
+BaseCost: 5
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: CarryWeight
+  Type: DualValueModifier
+CastType: FireAndForget
+SecondActorValue: StaminaRateMult
+DualCastScale: 1
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: 'Eating raw foods, reduces your carry capacity and stamina regen by <Mag> for <Dur> seconds. '

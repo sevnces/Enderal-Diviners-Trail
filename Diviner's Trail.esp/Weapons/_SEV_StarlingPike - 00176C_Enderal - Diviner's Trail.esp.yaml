@@ -1,0 +1,55 @@
+FormKey: 00176C:Enderal - Diviner's Trail.esp
+EditorID: _SEV_StarlingPike
+ObjectBounds:
+  First: -10, -104, -8
+  Second: 11, -12, 2
+Name:
+  TargetLanguage: English
+  Value: Starling Pike
+Model:
+  File: weapons\NewArmoury\Pikes\DwarvenPike.nif
+  Data: 0x0200000007000000000000004FABDC0564647300A0B86305D09B0BBB64647300A0B86305B221CCA164647300A0B86305257DCE0264647300364E8FC26CD26E5164647300364E8FC2188FFC7C64647300262C333BD68367C864647300364E8FC2
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C7:Skyrim.esm
+AlternateBlockMaterial: 0E64A9:Skyrim.esm
+Keywords:
+- 01E71A:Skyrim.esm
+- 06D931:Skyrim.esm
+- 08F958:Skyrim.esm
+- 00170C:Enderal - Diviner's Trail.esp
+- 001710:Enderal - Diviner's Trail.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 0949D5:Skyrim.esm
+FirstPersonModel: 001734:Enderal - Diviner's Trail.esp
+AttackFailSound: 0E4CAC:Skyrim.esm
+EquipSound: 0E4F10:Skyrim.esm
+UnequipSound: 0E4F11:Skyrim.esm
+BasicStats:
+  Value: 300
+  Weight: 16
+  Damage: 25
+Data:
+  AnimationType: TwoHandSword
+  Unused: 0x000000
+  Speed: 1.2
+  Reach: 1.75
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1069547520
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 0.3
+Critical:
+  Damage: 11
+  Unused: -8699
+  PercentMult: 1
+  Flags:
+  - OnDeath
+  Unused2: 0xFFFFFF
+  Unused3: 1
+DetectionSoundLevel: Normal

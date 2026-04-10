@@ -1,0 +1,7 @@
+FormKey: 001747:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonOrcishHalberd
+Model:
+  File: weapons\NewArmoury\Halberds\OrcishHalberd.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

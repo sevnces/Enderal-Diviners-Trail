@@ -1,0 +1,9 @@
+FormKey: 0017CD:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipePotionRestoreMagicka02
+Items:
+- Item:
+    Item: 0028DB:Skyrim.esm
+    Count: 2
+CreatedObject: 019E3B:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

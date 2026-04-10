@@ -1,0 +1,24 @@
+FormKey: 0015EC:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_DrainStamina_Ab_Bow
+Name:
+  TargetLanguage: English
+  Value: Drain Stamina
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Detrimental
+- NoHitEvent
+- NoDuration
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: Stamina
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''

@@ -1,0 +1,36 @@
+FormKey: 001717:Enderal - Diviner's Trail.esp
+EditorID: _SEV_BoundPikeMysticFFSelf
+Name:
+  TargetLanguage: English
+  Value: Mystic Pike
+MenuDisplayObject: 10AB43:Skyrim.esm
+Keywords:
+- 0A9B1E:Skyrim.esm
+Flags:
+- NoMagnitude
+- NoArea
+- 0x40000
+- PowerAffectsDuration
+BaseCost: 5.5
+MagicSkill: Conjuration
+CastingLight: 03BA90:Skyrim.esm
+MinimumSkillLevel: 25
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectBoundArchetype
+  Association: 00178D:Enderal - Diviner's Trail.esp
+CastType: FireAndForget
+CastingArt: 03CDFC:Skyrim.esm
+SkillUsageMultiplier: 1
+DualCastScale: 1
+Sounds:
+- Sound: 03F269:Skyrim.esm
+- Type: Charge
+  Sound: 056B75:Skyrim.esm
+- Type: Ready
+  Sound: 076560:Skyrim.esm
+- Type: Release
+  Sound: 03F2B1:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''

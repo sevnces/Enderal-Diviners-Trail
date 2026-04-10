@@ -1,0 +1,28 @@
+FormKey: 0722C7:Skyrim.esm
+EditorID: FoodPheasantCooked
+ObjectBounds:
+  First: -5, -7, 0
+  Second: 5, 7, 3
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Roasted Pheasant'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\DeadAnimals\PheasantMeatCooked01.nif
+  Data: 0x0200000002000000000000006120048D64647300484A40BF1E52143664647300484A40BF
+Weight: 0.25
+Value: 6
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 240
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 120
+    Duration: 240

@@ -1,0 +1,11 @@
+FormKey: 03AD86:Skyrim.esm
+EditorID: DeathItemFrostAtronach
+ChanceNone: 0.6
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 03AD5F:Skyrim.esm
+    Count: 3

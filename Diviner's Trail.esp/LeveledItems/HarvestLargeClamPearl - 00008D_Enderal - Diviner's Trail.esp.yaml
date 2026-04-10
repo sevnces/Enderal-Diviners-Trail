@@ -1,0 +1,8 @@
+FormKey: 00008D:Enderal - Diviner's Trail.esp
+EditorID: HarvestLargeClamPearl
+ChanceNone: 0.9
+Entries:
+- Data:
+    Level: 1
+    Reference: 0854FE:Skyrim.esm
+    Count: 1

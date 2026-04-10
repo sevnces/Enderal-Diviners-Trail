@@ -1,0 +1,18 @@
+FormKey: 00160F:Enderal - Diviner's Trail.esp
+EditorID: StaffEnchPoison02
+Name:
+  TargetLanguage: English
+  Value: Poison
+EnchantmentCost: 2
+Flags:
+- NoAutoCalc
+CastType: Concentration
+EnchantmentAmount: 2
+TargetType: Aimed
+EnchantType: StaffEnchantment
+BaseEnchantment: 101932:Skyrim.esm
+Effects:
+- BaseEffect: 101931:Skyrim.esm
+  Data:
+    Magnitude: 4
+    Duration: 13

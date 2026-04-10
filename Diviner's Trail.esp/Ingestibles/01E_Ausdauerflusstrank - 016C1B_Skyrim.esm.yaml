@@ -1,0 +1,25 @@
+FormKey: 016C1B:Skyrim.esm
+EditorID: 01E_Ausdauerflusstrank
+ObjectBounds:
+  First: -3, -3, 0
+  Second: 3, 3, 16
+Name:
+  TargetLanguage: English
+  Value: 'Potion: Flux of Stamina (Tier I)'
+Keywords:
+- 08CDEC:Skyrim.esm
+Model:
+  File: Clutter\Potions\PotionFortifyStamRateLesser.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 03EDBD:Skyrim.esm
+PutDownSound: 03EDC0:Skyrim.esm
+Weight: 0.5
+Value: 28
+Flags:
+- NoAutoCalc
+ConsumeSound: 0B6435:Skyrim.esm
+Effects:
+- BaseEffect: 03EB08:Skyrim.esm
+  Data:
+    Magnitude: 20
+    Duration: 180

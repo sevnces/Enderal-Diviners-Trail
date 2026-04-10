@@ -1,0 +1,4 @@
+MutagenObjectType: GameSettingFloat
+FormKey: 045C50:Skyrim.esm
+EditorID: fBlockWeaponScaling
+Data: 0.25

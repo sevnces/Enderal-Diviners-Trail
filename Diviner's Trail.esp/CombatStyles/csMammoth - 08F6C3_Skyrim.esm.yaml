@@ -1,0 +1,29 @@
+FormKey: 08F6C3:Skyrim.esm
+EditorID: csMammoth
+OffensiveMult: 1
+GroupOffensiveMult: 0.85
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 10
+  PowerAttackStaggeredMult: 5
+  PowerAttackBlockingMult: 10
+  SpecialAttackMult: 0.1
+CloseRange:
+  CircleMult: 0.1
+  FlankDistance: 0.5
+  StalkTime: 0.04
+LongRangeStrafeMult: 0
+Flight:
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Dueling

@@ -1,0 +1,10 @@
+FormKey: 00002D:Enderal - Diviner's Trail.esp
+EditorID: HarvestBananaSub
+ChanceNone: 0.9
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+Entries:
+- Data:
+    Level: 1
+    Reference: 08B2D5:Skyrim.esm
+    Count: 1

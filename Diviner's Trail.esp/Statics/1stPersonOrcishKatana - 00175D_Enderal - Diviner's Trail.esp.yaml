@@ -1,0 +1,7 @@
+FormKey: 00175D:Enderal - Diviner's Trail.esp
+EditorID: 1stPersonOrcishKatana
+Model:
+  File: weapons\NewArmoury\Katana\OrcishKatana.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

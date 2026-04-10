@@ -1,0 +1,10 @@
+FormKey: 001613:Enderal - Diviner's Trail.esp
+EditorID: SSS_1stpersonEbonyWand
+ObjectBounds:
+  First: -6, -69, -2
+  Second: 6, 64, 2
+Model:
+  File: SSS\1stpersonEbonyWand.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

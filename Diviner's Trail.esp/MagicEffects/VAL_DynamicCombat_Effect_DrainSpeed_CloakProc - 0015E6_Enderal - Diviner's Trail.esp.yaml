@@ -1,0 +1,45 @@
+FormKey: 0015E6:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_DrainSpeed_CloakProc
+Name:
+  TargetLanguage: English
+  Value: Drain Speed
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- Detrimental
+- NoHitEvent
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+SecondActorValueWeight: 0.2
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: SpeedMult
+  Type: DualValueModifier
+Projectile: 012FCF:Skyrim.esm
+CastType: Concentration
+TargetType: Aimed
+SecondActorValue: CarryWeight
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''
+Conditions:
+- MutagenObjectType: ConditionFloat
+  CompareOperator: LessThan
+  Data:
+    MutagenObjectType: GetActorValueConditionData
+    ActorValue: Stamina
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetGlobalValueConditionData
+    Global: 0015F6:Enderal - Diviner's Trail.esp
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: GetGlobalValueConditionData
+    Global: 0015F1:Enderal - Diviner's Trail.esp

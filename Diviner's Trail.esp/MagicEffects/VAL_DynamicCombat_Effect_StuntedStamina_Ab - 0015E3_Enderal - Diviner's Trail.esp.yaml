@@ -1,0 +1,25 @@
+FormKey: 0015E3:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_Effect_StuntedStamina_Ab
+Name:
+  TargetLanguage: English
+  Value: Stunted Stamina
+MenuDisplayObject: 0435A5:Skyrim.esm
+Flags:
+- Recover
+- Detrimental
+- NoHitEvent
+- NoDuration
+- NoArea
+- HideInUI
+- Painless
+- NoHitEffect
+SpellmakingCastingTime: 0.5
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+  ActorValue: StaminaRateMult
+DualCastScale: 1
+CastingSoundLevel: Silent
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: ''

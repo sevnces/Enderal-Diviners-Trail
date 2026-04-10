@@ -1,0 +1,21 @@
+FormKey: 001725:Enderal - Diviner's Trail.esp
+EditorID: BoundQStaff
+Name:
+  TargetLanguage: English
+  Value: Bound QuarterStaff
+MenuDisplayObject: 10AB43:Skyrim.esm
+EquipmentType: 013F44:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+BaseCost: 168
+ChargeTime: 0.5
+CastType: FireAndForget
+HalfCostPerk: 0C44BB:Skyrim.esm
+Effects:
+- BaseEffect: 00171C:Enderal - Diviner's Trail.esp
+  Data:
+    Duration: 120
+- BaseEffect: 00171D:Enderal - Diviner's Trail.esp
+  Data:
+    Duration: 120

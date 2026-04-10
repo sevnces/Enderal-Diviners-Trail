@@ -1,0 +1,13 @@
+FormKey: 00008E:Enderal - Diviner's Trail.esp
+EditorID: HarvestRottenGarlic
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 01C03B:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00008F:Enderal - Diviner's Trail.esp
+    Count: 2

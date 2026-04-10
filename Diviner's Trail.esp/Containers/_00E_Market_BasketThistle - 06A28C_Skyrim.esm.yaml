@@ -1,0 +1,15 @@
+FormKey: 06A28C:Skyrim.esm
+EditorID: _00E_Market_BasketThistle
+ObjectBounds:
+  First: -45, -32, 0
+  Second: 47, 30, 47
+Name:
+  TargetLanguage: English
+  Value: Thistle
+Model:
+  File: Enderal\Clutter\BasketThistles.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 0134AA:Skyrim.esm
+    Count: 3

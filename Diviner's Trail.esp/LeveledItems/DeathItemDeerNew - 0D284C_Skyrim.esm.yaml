@@ -1,0 +1,17 @@
+FormKey: 0D284C:Skyrim.esm
+EditorID: DeathItemDeerNew
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0669A2:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 06BC0A:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0D284D:Skyrim.esm
+    Count: 1

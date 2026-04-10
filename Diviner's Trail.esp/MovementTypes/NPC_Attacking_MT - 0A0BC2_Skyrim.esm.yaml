@@ -1,0 +1,18 @@
+FormKey: 0A0BC2:Skyrim.esm
+EditorID: NPC_Attacking_MT
+Name: NPCAttacking
+LeftWalk: 80.09
+LeftRun: 155
+RightWalk: 79.75
+RightRun: 155
+ForwardWalk: 80.1
+ForwardRun: 225
+BackWalk: 71.93
+BackRun: 98
+RotateInPlaceWalk: 90.00003
+RotateInPlaceRun: 90.00003
+RotateWhileMovingRun: 90.00003
+AnimationChangeThresholds:
+  Directional: 3.4028235E+38
+  MovementSpeed: 3.4028235E+38
+  RotationSpeed: 3.4028235E+38

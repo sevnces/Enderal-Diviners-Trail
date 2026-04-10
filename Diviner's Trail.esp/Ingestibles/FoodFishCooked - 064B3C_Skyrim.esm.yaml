@@ -1,0 +1,28 @@
+FormKey: 064B3C:Skyrim.esm
+EditorID: FoodFishCooked
+ObjectBounds:
+  First: 0, -12, 12
+  Second: 0, 11, 14
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Roasted Fish'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Food\CookedSlaughterfishSteak01.nif
+  Data: 0x0200000002000000000000005774FA7A64647300B91482368809BB3564647300B9148236
+Weight: 0.2
+Value: 5
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 150
+    Duration: 180
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 180

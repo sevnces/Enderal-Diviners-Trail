@@ -1,0 +1,9 @@
+MutagenObjectType: GlobalShort
+FormKey: A00004:Update.esm
+MajorRecordFlagsRaw: 64
+EditorID: Futhark_InjectedGlobal_ValravnInstalledType
+SkyrimMajorRecordFlags:
+- 0x40
+MajorFlags:
+- Constant
+Data: 1

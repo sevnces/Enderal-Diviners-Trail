@@ -1,0 +1,13 @@
+FormKey: 0015DC:Enderal - Diviner's Trail.esp
+EditorID: VAL_DynamicCombat_LoadScreen_MinStamina
+Description:
+  TargetLanguage: English
+  Value: You need enough Stamina to shoot a bow or perform a power attack or bash.
+LoadingScreenNif: 148689:Skyrim.esm
+InitialScale: 0.9
+InitialRotation: 0, 0, 5
+RotationOffsetConstraints:
+  Min: -30
+  Max: 30
+InitialTranslationOffset: -24, 16, 8
+CameraPath: Cameras\LSCameraPanDown01.nif

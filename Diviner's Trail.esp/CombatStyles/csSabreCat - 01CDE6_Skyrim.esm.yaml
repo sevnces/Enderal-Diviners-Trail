@@ -1,0 +1,29 @@
+FormKey: 01CDE6:Skyrim.esm
+EditorID: csSabreCat
+OffensiveMult: 1
+GroupOffensiveMult: 1
+EquipmentScoreMultMelee: 1
+EquipmentScoreMultMagic: 1
+EquipmentScoreMultRanged: 1
+EquipmentScoreMultShout: 1
+EquipmentScoreMultUnarmed: 1
+EquipmentScoreMultStaff: 1
+AvoidThreatChance: 0.2
+Melee:
+  AttackStaggeredMult: 6
+  PowerAttackStaggeredMult: 5.5
+  PowerAttackBlockingMult: 7.5
+  SpecialAttackMult: 0.1
+CloseRange:
+  FallbackMult: 0.15
+  FlankDistance: 0.2
+  StalkTime: 0.25
+LongRangeStrafeMult: 0
+Flight:
+  HoverTime: 0.5
+  GroundAttackTime: 0.5
+  PerchAttackChance: 0.5
+  PerchAttackTime: 0.5
+  FlyingAttackChance: 0.75
+Flags:
+- Flanking

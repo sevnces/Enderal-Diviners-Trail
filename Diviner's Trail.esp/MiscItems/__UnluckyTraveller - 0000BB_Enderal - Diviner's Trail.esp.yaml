@@ -1,0 +1,9 @@
+FormKey: 0000BB:Enderal - Diviner's Trail.esp
+EditorID: __UnluckyTraveller
+Name:
+  TargetLanguage: English
+  Value: Unlucky Traveller's Bone
+Model:
+  File: Clutter\Bones\BloodyLeg.nif
+  Data: 0x020000000000000000000000
+Weight: 2

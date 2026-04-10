@@ -1,0 +1,18 @@
+FormKey: 000013:Enderal - Diviner's Trail.esp
+EditorID: _SEV_RecipeFoodSausageCooked
+Items:
+- Item:
+    Item: 034CDF:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 034D22:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 046B52:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 065C99:Skyrim.esm
+    Count: 1
+CreatedObject: 0C5663:Skyrim.esm
+WorkbenchKeyword: 0A5CB3:Skyrim.esm
+CreatedObjectCount: 1

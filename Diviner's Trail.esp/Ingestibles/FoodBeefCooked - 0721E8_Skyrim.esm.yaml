@@ -1,0 +1,32 @@
+FormKey: 0721E8:Skyrim.esm
+EditorID: FoodBeefCooked
+ObjectBounds:
+  First: -5, -9, -2
+  Second: 5, 9, 2
+Name:
+  TargetLanguage: English
+  Value: 'Meat: Roasted Beef'
+Keywords:
+- 08CDEA:Skyrim.esm
+Model:
+  File: Clutter\Ingredients\BeefMeatCooked.nif
+  Data: 0x020000000200000000000000C31EE4A064647300604DDD5CCE14F18D64647300604DDD5C
+Weight: 0.8
+Value: 6
+Flags:
+- NoAutoCalc
+- FoodItem
+ConsumeSound: 0CAF94:Skyrim.esm
+Effects:
+- BaseEffect: 01ADF3:Skyrim.esm
+  Data:
+    Magnitude: 1
+    Duration: 540
+- BaseEffect: 0000B8:Enderal - Diviner's Trail.esp
+  Data:
+    Magnitude: 120
+    Duration: 540
+- BaseEffect: 03EAF3:Skyrim.esm
+  Data:
+    Magnitude: 8
+    Duration: 120

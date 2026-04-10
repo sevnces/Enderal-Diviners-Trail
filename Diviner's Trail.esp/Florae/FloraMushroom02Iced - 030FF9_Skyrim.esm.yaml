@@ -1,0 +1,23 @@
+FormKey: 030FF9:Skyrim.esm
+EditorID: FloraMushroom02Iced
+ObjectBounds:
+  First: -99, -66, 0
+  Second: 84, 72, 44
+Name:
+  TargetLanguage: English
+  Value: Sporecrown
+Model:
+  File: plants\floramushroom02iced.nif
+  Data: 0x020000000000000000000000
+PNAM: 0x00000000
+ActivateTextOverride:
+  TargetLanguage: English
+  Value: Harvest
+FNAM: 0x0000
+Ingredient: 000066:Enderal - Diviner's Trail.esp
+HarvestSound: 0BAD13:Skyrim.esm
+Production:
+  Spring: 100
+  Summer: 100
+  Fall: 100
+  Winter: 100

@@ -1,0 +1,21 @@
+FormKey: 02EF6E:Enderal - Forgotten Stories.esm
+EditorID: _50E_MSet_InodanCuirassEnch
+Name:
+  TargetLanguage: English
+  Value: Inodan's Legacy
+EnchantmentCost: 561
+EnchantmentAmount: 561
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 07A0FA:Skyrim.esm
+  Data:
+    Magnitude: 7
+- BaseEffect: 07A0F8:Skyrim.esm
+  Data:
+    Magnitude: 30
+- BaseEffect: 07A0F9:Skyrim.esm
+  Data:
+    Magnitude: 8
+- BaseEffect: 07A105:Skyrim.esm
+  Data:
+    Magnitude: 10

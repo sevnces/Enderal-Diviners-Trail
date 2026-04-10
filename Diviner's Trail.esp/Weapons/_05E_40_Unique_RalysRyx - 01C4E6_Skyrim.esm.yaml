@@ -1,0 +1,54 @@
+FormKey: 01C4E6:Skyrim.esm
+EditorID: _05E_40_Unique_RalysRyx
+ObjectBounds:
+  First: -16, -40, -3
+  Second: 16, 54, 3
+Name:
+  TargetLanguage: English
+  Value: 'Unique: Unholy Axe'
+Model:
+  File: Weapons\RuefulAxe\RuefulAxe.nif
+  Data: 0x020000000200000000000000981B2FEE646473003BF2E243152AD4A4646473003BF2E243
+ObjectEffect: 024933:Enderal - Forgotten Stories.esm
+EnchantmentAmount: 3000
+EquipmentType: 013F45:Skyrim.esm
+BlockBashImpact: 0193C8:Skyrim.esm
+AlternateBlockMaterial: 018401:Skyrim.esm
+Keywords:
+- 06727B:Skyrim.esm
+- 06D932:Skyrim.esm
+- 08F958:Skyrim.esm
+- 0C27BD:Skyrim.esm
+- 0C5C01:Skyrim.esm
+- 14CE9A:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+ImpactDataSet: 036A5B:Skyrim.esm
+FirstPersonModel: 093ADD:Skyrim.esm
+AttackFailSound: 03C730:Skyrim.esm
+EquipSound: 03C72E:Skyrim.esm
+UnequipSound: 03C72F:Skyrim.esm
+BasicStats:
+  Value: 500
+  Weight: 10
+  Damage: 45
+Data:
+  AnimationType: TwoHandAxe
+  Unused: 0x000000
+  Speed: 0.5
+  Reach: 1.3
+  NumProjectiles: 1
+  AnimationAttackMult: 1
+  Unknown2: 1068708659
+  RumbleLeftMotorStrength: 0.5
+  RumbleRightMotorStrength: 1
+  RumbleDuration: 0.33
+  Unknown3: 0x000000000000000000000000
+  Skill: TwoHanded
+  Stagger: 0.85
+Critical:
+  Damage: 11
+  PercentMult: 1
+  Unused2: 0x000000
+DetectionSoundLevel: Loud

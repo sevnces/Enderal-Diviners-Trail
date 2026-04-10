@@ -1,0 +1,8 @@
+FormKey: 000039:Enderal - Diviner's Trail.esp
+EditorID: HarvestJuniperTREESub
+ChanceNone: 0.9
+Entries:
+- Data:
+    Level: 1
+    Reference: 000036:Enderal - Diviner's Trail.esp
+    Count: 1

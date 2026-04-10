@@ -1,0 +1,13 @@
+FormKey: 03AD7F:Skyrim.esm
+EditorID: DeathItemDraugr
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 10F91D:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000096:Enderal - Diviner's Trail.esp
+    Count: 1

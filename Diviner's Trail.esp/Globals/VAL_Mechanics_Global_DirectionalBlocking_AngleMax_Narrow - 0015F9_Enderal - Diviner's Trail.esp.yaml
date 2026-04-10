@@ -1,0 +1,9 @@
+MutagenObjectType: GlobalFloat
+FormKey: 0015F9:Enderal - Diviner's Trail.esp
+MajorRecordFlagsRaw: 64
+EditorID: VAL_Mechanics_Global_DirectionalBlocking_AngleMax_Narrow
+SkyrimMajorRecordFlags:
+- 0x40
+MajorFlags:
+- Constant
+Data: 185

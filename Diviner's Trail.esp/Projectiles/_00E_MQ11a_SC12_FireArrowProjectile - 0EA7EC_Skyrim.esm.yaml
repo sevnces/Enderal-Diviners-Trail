@@ -1,0 +1,22 @@
+FormKey: 0EA7EC:Skyrim.esm
+EditorID: _00E_MQ11a_SC12_FireArrowProjectile
+Name:
+  TargetLanguage: English
+  Value: Flaming arrow
+Model:
+  File: Enderal\Class Menu\Vagabond\torcharrow2.nif
+  Data: 0x020000000000000000000000
+Flags:
+- CanBePickedUp
+Type: Arrow
+Gravity: 0.2
+Speed: 5400
+Range: 60000
+Explosion: 1496D0:Skyrim.esm
+Sound: 03C8FE:Skyrim.esm
+FadeDuration: 5
+ImpactForce: 1
+CollisionRadius: 0.5
+RelaunchInterval: 0.25
+MuzzleFlashModel: ''
+SoundLevel: 1
