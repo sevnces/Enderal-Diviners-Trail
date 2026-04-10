@@ -46,7 +46,7 @@ Flags:
 - DontShowWeaponBlood
 Starting:
 - Key: Health
-  Value: 427
+  Value: 270
 - Key: Magicka
   Value: 4
 - Key: Stamina
