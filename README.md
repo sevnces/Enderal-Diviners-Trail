@@ -3,9 +3,15 @@ A project designed to completely overhaul the core gameplay of Enderal with mult
 
 [![Header.png](https://i.postimg.cc/XYH2rWLT/Header.png)](https://postimg.cc/5Xz5rZZ3)
 
+Content Additions (Optional):
+
+* Pirates
+* Flintlock Armoury
+* Map Additions + Expansions to fill out dead space
+
 Included/WIP Features:
 
-* Complete weapon and armour rebalance, making the different tiers have different specific benefits\
+* Complete weapon and armour rebalance, making the different tiers have different specific benefits
 * Creature and enemy health values and abilities adjusted
 * Wands & Animated Armoury (choiced cuts)
 * Cut Content Restoration/Revamp See: [Shadow Steel Reimagined](https://www.nexusmods.com/enderalspecialedition/mods/1032?tab=description)
