@@ -8,7 +8,7 @@ Included/WIP Features:
 * Complete weapon and armour rebalance, making the different tiers have different specific benefits\
 * Creature and enemy health values and abilities adjusted
 * Wands & Animated Armoury (choiced cuts)
-* [Shadow Steel Reimagined](https://www.nexusmods.com/enderalspecialedition/mods/1032?tab=description)
+* Cut Content Restoration/Revamp See: [Shadow Steel Reimagined](https://www.nexusmods.com/enderalspecialedition/mods/1032?tab=description)
 * Food & Potion Rebalance
 * More defined potion/spell/tempering tier system with extra in between spells where missing (I - V)
 * Weapon Affixes (Similar to D&D Weapon Mastery)
