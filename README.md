@@ -16,7 +16,7 @@ Included/WIP Features:
 * Wands & Animated Armoury (choiced cuts)
 * Cut Content Restoration/Revamp See: [Shadow Steel Reimagined](https://www.nexusmods.com/enderalspecialedition/mods/1032?tab=description)
 * Food & Potion Rebalance
-* More defined potion/spell/tempering tier system with extra in between spells where missing (I - V)
+* More defined potion/spell/tempering tier system with extra in between spells where missing (Tiers I - V)
 * Weapon Affixes (Similar to D&D Weapon Mastery)
 
 Planned Features:
@@ -28,6 +28,16 @@ Planned Features:
 * Combat, stamina and mana overhaul
 * Levelling system adjustments
 * Weapon Spell Infusion
+
+Required Mods:
+
+* [SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869) - Perk Distribution
+* [BEES](https://www.nexusmods.com/skyrimspecialedition/mods/106441) - If you are on the 1.5.97 version (Steam) then you need this
+
+Recommended mods:
+
+* [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Due to the increase in the number of spells and for removing the lower tier ones
+* [Pretty Enderal Armoury](https://www.nexusmods.com/enderalspecialedition/mods/1072) - Good and modern armour & weapon collection
 
 [Docs and Spreadsheets (WIP)](https://sheets.fileverse.io/0xe78730D963514eF246D642Bada60c092D2b0F30c/0#key=-rZOJOcBuu5FmKgcO651w1eoKm1rps9KaLqcf6jQHT-Psg6SHEu5XwWp6ND6d2FW)
 
