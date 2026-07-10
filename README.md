@@ -13,6 +13,7 @@ Included/WIP Features:
 
 * Complete weapon and armour rebalance, making the different tiers have different specific benefits
 * Creature and enemy health values and abilities adjusted
+* Combat, stamina and mana overhaul
 * Wands & Animated Armoury (choiced cuts)
 * Cut Content Restoration/Revamp See: [Shadow Steel Reimagined](https://www.nexusmods.com/enderalspecialedition/mods/1032?tab=description)
 * Food & Potion Rebalance
@@ -25,7 +26,6 @@ Planned Features:
 * Custom weapon integration and distribution
 * Racial ability balancing
 * Perk adjustments to provide more viable builds earlier on
-* Combat, stamina and mana overhaul
 * Levelling system adjustments
 * Weapon Spell Infusion
 
