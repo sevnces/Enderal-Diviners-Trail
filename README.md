@@ -33,6 +33,7 @@ Required Mods:
 
 * [SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869) - Perk Distribution
 * [BEES](https://www.nexusmods.com/skyrimspecialedition/mods/106441) - If you are on the 1.5.97 version (Steam) then you need this
+* [OAR](https://www.nexusmods.com/skyrimspecialedition/mods/92109) - SOFT REQUIREMENT - Needed for new weapon animations
 
 Recommended mods:
 
